@@ -1,0 +1,2001 @@
+Date,KPI Name,Value,Target,Unit,Department,Category,Remarks
+23-06-2024,Fuel Efficiency,7.98,8.79,km/l,Logistics,Energy,Requires improvement
+17-02-2024,On-Time Delivery Rate,81.76,87.15,%,Logistics,Operational,On track
+23-01-2024,Product Defect Rate,2.12,1.94,%,Quality Control,Quality,Below target
+30-05-2024,Product Defect Rate,4.88,4.48,%,Quality Control,Quality,New initiative
+28-05-2024,On-Time Delivery Rate,83.06,92.05,%,Logistics,Operational,Above target
+21-11-2024,Carbon Emissions,94.05,87.98,tons,Manufacturing,Emissions,Requires improvement
+25-12-2024,On-Time Delivery Rate,80.76,88.7,%,Logistics,Operational,Below target
+24-03-2024,Production Downtime,14.52,13.46,hours,Manufacturing,Operational,Above target
+22-04-2024,Audit Failures,0.54,0.51,count,Quality Control,Quality,New initiative
+24-07-2024,Fuel Efficiency,5.54,6.15,km/l,Logistics,Energy,Below target
+18-04-2024,Fuel Efficiency,5.73,6.05,km/l,Logistics,Energy,Below target
+15-05-2024,Audit Failures,1.77,1.65,count,Quality Control,Quality,Above target
+07-08-2024,Employee Turnover Rate,1.74,1.62,%,Operations,Social Impact,New initiative
+09-09-2024,Customer Complaints,2.19,2.08,count,Quality Control,Social Impact,New initiative
+14-12-2024,Energy Consumption,43749.63,39709,kWh,Manufacturing,Energy,Above target
+27-09-2024,Product Defect Rate,2.23,2.07,%,Quality Control,Quality,Requires improvement
+16-05-2024,Fuel Efficiency,7.61,8.4,km/l,Logistics,Energy,New initiative
+14-05-2024,Fuel Efficiency,5.87,6.47,km/l,Logistics,Energy,On track
+07-11-2024,Workplace Safety Incidents,2.61,2.39,count,Operations,Social Impact,New initiative
+01-01-2024,Employee Turnover Rate,1.12,1.06,%,Operations,Social Impact,New initiative
+02-05-2024,Transport Emissions,1.37,1.3,tons,Logistics,Emissions,Below target
+05-09-2024,Carbon Emissions,97.69,89.02,tons,Manufacturing,Emissions,On track
+08-10-2024,Production Downtime,16.49,14.95,hours,Manufacturing,Operational,Requires improvement
+03-10-2024,Training Hours,26.75,28.75,hours,Operations,Social Impact,Above target
+12-08-2024,Training Hours,21.43,22.95,hours,Operations,Social Impact,Below target
+28-10-2024,Product Defect Rate,1.62,1.46,%,Quality Control,Quality,On track
+27-04-2024,Employee Turnover Rate,0.55,0.51,%,Operations,Social Impact,On track
+22-05-2024,Energy Consumption,43683.59,39470,kWh,Manufacturing,Energy,Above target
+22-10-2024,Inspection Hours,18.48,17.3,hours,Quality Control,Quality,New initiative
+18-02-2024,Inspection Hours,24.62,23.15,hours,Quality Control,Quality,Above target
+10-12-2024,Water Usage,18360.58,16901.93,liters,Manufacturing,Water,On track
+07-05-2024,Energy Consumption,23117.96,21198.36,kWh,Manufacturing,Energy,On track
+22-05-2024,Employee Turnover Rate,1.37,1.3,%,Operations,Social Impact,Above target
+20-02-2024,Inspection Hours,26.86,24.28,hours,Quality Control,Quality,New initiative
+26-03-2024,Production Downtime,17.54,16.64,hours,Manufacturing,Operational,Above target
+25-03-2024,Audit Failures,0.96,0.91,count,Quality Control,Quality,On track
+26-05-2024,Product Defect Rate,4.93,4.5,%,Quality Control,Quality,Requires improvement
+23-10-2024,Audit Failures,0.31,0.28,count,Quality Control,Quality,On track
+28-09-2024,Waste Generation,511.97,474.39,kg,Manufacturing,Waste,New initiative
+05-02-2024,Workplace Safety Incidents,2.88,2.6,count,Operations,Social Impact,Above target
+06-05-2024,Carbon Emissions,50.84,46.34,tons,Manufacturing,Emissions,New initiative
+24-09-2024,Production Downtime,6.23,5.81,hours,Manufacturing,Operational,New initiative
+15-05-2024,Packaging Waste,141.92,132.81,kg,Logistics,Waste,Above target
+07-02-2024,Inspection Hours,21.79,19.94,hours,Quality Control,Quality,Below target
+07-02-2024,Water Usage,31436.8,29178.06,liters,Manufacturing,Water,On track
+05-05-2024,Training Hours,10.06,10.96,hours,Operations,Social Impact,On track
+09-11-2024,Packaging Waste,120.99,113.93,kg,Logistics,Waste,Below target
+15-05-2024,Production Downtime,9.49,8.86,hours,Manufacturing,Operational,Above target
+05-11-2024,Energy Consumption,38408.75,34866.4,kWh,Manufacturing,Energy,Below target
+15-09-2024,Training Hours,13.19,14.16,hours,Operations,Social Impact,Below target
+20-11-2024,Customer Complaints,9.05,8.53,count,Quality Control,Social Impact,On track
+22-11-2024,Customer Complaints,0.44,0.4,count,Quality Control,Social Impact,Above target
+14-10-2024,On-Time Delivery Rate,85.72,92.41,%,Logistics,Operational,Requires improvement
+06-10-2024,Energy Consumption,8385.97,7917.66,kWh,Manufacturing,Energy,Above target
+22-01-2024,Waste Generation,3168.04,2996.05,kg,Manufacturing,Waste,Above target
+02-07-2024,Packaging Waste,454.54,427.18,kg,Logistics,Waste,On track
+27-07-2024,Employee Turnover Rate,1.6,1.5,%,Operations,Social Impact,New initiative
+30-07-2024,Employee Turnover Rate,1.98,1.8,%,Operations,Social Impact,Above target
+08-12-2024,Carbon Emissions,81.37,76.29,tons,Manufacturing,Emissions,Requires improvement
+20-01-2024,Training Hours,11.37,12.16,hours,Operations,Social Impact,Requires improvement
+05-06-2024,Inspection Hours,9.99,9.45,hours,Quality Control,Quality,Below target
+22-05-2024,Employee Turnover Rate,0.57,0.54,%,Operations,Social Impact,Below target
+18-06-2024,Waste Generation,2027.8,1885.5,kg,Manufacturing,Waste,New initiative
+15-05-2024,Energy Consumption,44466.73,40600.83,kWh,Manufacturing,Energy,New initiative
+11-08-2024,Energy Consumption,31845.71,29211.57,kWh,Manufacturing,Energy,Below target
+28-12-2024,Water Usage,45075.73,40996.55,liters,Manufacturing,Water,On track
+05-07-2024,Product Defect Rate,2.84,2.67,%,Quality Control,Quality,Above target
+09-06-2024,Product Defect Rate,4.77,4.51,%,Quality Control,Quality,New initiative
+25-07-2024,Waste Generation,2853.74,2634.19,kg,Manufacturing,Waste,Below target
+12-12-2024,On-Time Delivery Rate,81.12,86.92,%,Logistics,Operational,Requires improvement
+26-05-2024,Training Hours,21.91,23.27,hours,Operations,Social Impact,Below target
+26-08-2024,Equipment Maintenance Cost,7964.71,7409.83,USD,Operations,Operational,Below target
+03-12-2024,Audit Failures,1.35,1.25,count,Quality Control,Quality,Above target
+17-02-2024,Waste Generation,2892.51,2674.17,kg,Manufacturing,Waste,Below target
+24-01-2024,Training Hours,13.75,15.11,hours,Operations,Social Impact,On track
+31-07-2024,Equipment Maintenance Cost,6307.1,5918.74,USD,Operations,Operational,Requires improvement
+24-02-2024,Equipment Maintenance Cost,5196.58,4740.32,USD,Operations,Operational,On track
+25-08-2024,Inspection Hours,9.4,8.91,hours,Quality Control,Quality,New initiative
+09-03-2024,Production Downtime,8.74,8.24,hours,Manufacturing,Operational,Requires improvement
+15-09-2024,Customer Complaints,9.5,8.97,count,Quality Control,Social Impact,New initiative
+18-08-2024,Audit Failures,1.79,1.68,count,Quality Control,Quality,Requires improvement
+05-09-2024,On-Time Delivery Rate,85.36,93.4,%,Logistics,Operational,New initiative
+19-05-2024,Training Hours,23.2,24.79,hours,Operations,Social Impact,Above target
+28-04-2024,Packaging Waste,451.86,408.49,kg,Logistics,Waste,Above target
+18-06-2024,Inspection Hours,22.66,20.47,hours,Quality Control,Quality,Requires improvement
+26-10-2024,Audit Failures,0.12,0.11,count,Quality Control,Quality,Requires improvement
+01-06-2024,Production Downtime,10.71,9.64,hours,Manufacturing,Operational,Below target
+22-04-2024,Audit Failures,1.08,1.01,count,Quality Control,Quality,New initiative
+21-06-2024,Inspection Hours,11.82,10.93,hours,Quality Control,Quality,Requires improvement
+30-09-2024,Inspection Hours,26.01,24.6,hours,Quality Control,Quality,New initiative
+25-11-2024,Water Usage,30002.75,27997.07,liters,Manufacturing,Water,On track
+13-07-2024,Inspection Hours,26.67,24.25,hours,Quality Control,Quality,Below target
+22-05-2024,On-Time Delivery Rate,82.11,89.55,%,Logistics,Operational,Requires improvement
+27-01-2024,Customer Complaints,8.35,7.71,count,Quality Control,Social Impact,New initiative
+16-01-2024,On-Time Delivery Rate,85.92,91.5,%,Logistics,Operational,On track
+05-03-2024,Employee Turnover Rate,1.9,1.76,%,Operations,Social Impact,Above target
+07-07-2024,Product Defect Rate,3.04,2.77,%,Quality Control,Quality,Below target
+25-02-2024,Workplace Safety Incidents,2.33,2.12,count,Operations,Social Impact,Below target
+22-07-2024,Waste Generation,3246.57,2963.82,kg,Manufacturing,Waste,Requires improvement
+22-02-2024,Workplace Safety Incidents,1.78,1.68,count,Operations,Social Impact,Above target
+26-06-2024,Fuel Efficiency,8.34,8.98,km/l,Logistics,Energy,On track
+03-08-2024,Customer Complaints,0.69,0.64,count,Quality Control,Social Impact,On track
+28-12-2024,Product Defect Rate,2.45,2.25,%,Quality Control,Quality,Requires improvement
+11-11-2024,Equipment Maintenance Cost,2173.3,2012.67,USD,Operations,Operational,Below target
+14-06-2024,Audit Failures,0.87,0.81,count,Quality Control,Quality,Below target
+18-10-2024,Workplace Safety Incidents,0.84,0.77,count,Operations,Social Impact,Requires improvement
+06-09-2024,Customer Complaints,0.29,0.27,count,Quality Control,Social Impact,Above target
+25-12-2024,Training Hours,37.51,40.9,hours,Operations,Social Impact,New initiative
+27-07-2024,Fuel Efficiency,6.89,7.58,km/l,Logistics,Energy,Above target
+17-08-2024,Inspection Hours,22.27,20.76,hours,Quality Control,Quality,Requires improvement
+05-06-2024,Energy Consumption,18240.6,16785.37,kWh,Manufacturing,Energy,Above target
+18-06-2024,Transport Emissions,11.52,10.57,tons,Logistics,Emissions,New initiative
+08-04-2024,Transport Emissions,6.15,5.61,tons,Logistics,Emissions,On track
+08-04-2024,Fuel Efficiency,8.25,8.71,km/l,Logistics,Energy,Above target
+01-11-2024,Equipment Maintenance Cost,3126.75,2906.25,USD,Operations,Operational,New initiative
+01-04-2024,Fuel Efficiency,8.38,9.16,km/l,Logistics,Energy,Below target
+28-01-2024,Fuel Efficiency,7.74,8.54,km/l,Logistics,Energy,On track
+07-01-2024,On-Time Delivery Rate,85.68,91.38,%,Logistics,Operational,On track
+09-05-2024,Transport Emissions,10.1,9.26,tons,Logistics,Emissions,On track
+22-10-2024,Product Defect Rate,4.2,3.86,%,Quality Control,Quality,On track
+13-02-2024,Carbon Emissions,25.26,23.43,tons,Manufacturing,Emissions,Below target
+12-11-2024,Workplace Safety Incidents,1.67,1.54,count,Operations,Social Impact,New initiative
+07-08-2024,Equipment Maintenance Cost,4779.89,4407.71,USD,Operations,Operational,New initiative
+16-11-2024,Fuel Efficiency,7.54,8.05,km/l,Logistics,Energy,Above target
+09-10-2024,Training Hours,31.52,34.72,hours,Operations,Social Impact,Above target
+28-08-2024,Carbon Emissions,10.98,10.24,tons,Manufacturing,Emissions,New initiative
+06-02-2024,Fuel Efficiency,5.76,6.16,km/l,Logistics,Energy,Requires improvement
+05-08-2024,Training Hours,37.67,40.45,hours,Operations,Social Impact,Above target
+13-03-2024,Production Downtime,8.37,7.6,hours,Manufacturing,Operational,Below target
+27-05-2024,Energy Consumption,12466.53,11411.62,kWh,Manufacturing,Energy,New initiative
+19-05-2024,Product Defect Rate,2.61,2.39,%,Quality Control,Quality,Requires improvement
+14-06-2024,Audit Failures,0.16,0.14,count,Quality Control,Quality,Requires improvement
+27-10-2024,Fuel Efficiency,5.18,5.46,km/l,Logistics,Energy,New initiative
+28-08-2024,Waste Generation,3227.46,2965.99,kg,Manufacturing,Waste,Above target
+16-02-2024,Customer Complaints,1.81,1.68,count,Quality Control,Social Impact,Requires improvement
+23-03-2024,Customer Complaints,4.08,3.74,count,Quality Control,Social Impact,On track
+08-10-2024,Transport Emissions,14.18,12.97,tons,Logistics,Emissions,Requires improvement
+25-07-2024,Water Usage,5314.93,4850.51,liters,Manufacturing,Water,On track
+04-07-2024,Production Downtime,11.93,10.77,hours,Manufacturing,Operational,New initiative
+08-03-2024,Audit Failures,1.52,1.38,count,Quality Control,Quality,New initiative
+18-11-2024,Transport Emissions,17.74,16.4,tons,Logistics,Emissions,On track
+17-02-2024,Employee Turnover Rate,1.02,0.97,%,Operations,Social Impact,Requires improvement
+12-09-2024,Workplace Safety Incidents,1.38,1.25,count,Operations,Social Impact,Above target
+04-05-2024,Packaging Waste,236.97,218.99,kg,Logistics,Waste,Requires improvement
+10-03-2024,Inspection Hours,14.59,13.8,hours,Quality Control,Quality,New initiative
+16-09-2024,Waste Generation,4271.27,3908.84,kg,Manufacturing,Waste,Below target
+23-10-2024,Fuel Efficiency,5.86,6.41,km/l,Logistics,Energy,New initiative
+09-10-2024,Inspection Hours,16.16,14.94,hours,Quality Control,Quality,Below target
+19-10-2024,Audit Failures,1.87,1.76,count,Quality Control,Quality,Above target
+30-08-2024,Inspection Hours,26.4,24.3,hours,Quality Control,Quality,Below target
+10-09-2024,Audit Failures,1.98,1.86,count,Quality Control,Quality,Above target
+13-08-2024,Carbon Emissions,59.6,55.21,tons,Manufacturing,Emissions,On track
+28-07-2024,Production Downtime,18.66,16.81,hours,Manufacturing,Operational,Above target
+15-11-2024,Workplace Safety Incidents,1.41,1.34,count,Operations,Social Impact,Below target
+13-07-2024,Product Defect Rate,4.33,4.08,%,Quality Control,Quality,New initiative
+30-04-2024,Transport Emissions,17.58,15.85,tons,Logistics,Emissions,On track
+20-11-2024,On-Time Delivery Rate,85.23,92.47,%,Logistics,Operational,On track
+24-01-2024,Water Usage,9151.87,8373.72,liters,Manufacturing,Water,On track
+05-05-2024,Fuel Efficiency,5.94,6.47,km/l,Logistics,Energy,Above target
+13-11-2024,Inspection Hours,9.25,8.36,hours,Quality Control,Quality,Requires improvement
+22-11-2024,Equipment Maintenance Cost,9171.88,8320.32,USD,Operations,Operational,Requires improvement
+27-05-2024,Transport Emissions,5.85,5.27,tons,Logistics,Emissions,Requires improvement
+02-06-2024,Workplace Safety Incidents,1.33,1.22,count,Operations,Social Impact,New initiative
+04-09-2024,Customer Complaints,4.57,4.18,count,Quality Control,Social Impact,Requires improvement
+24-12-2024,Carbon Emissions,47.33,44.32,tons,Manufacturing,Emissions,Below target
+05-01-2024,Fuel Efficiency,9.23,9.89,km/l,Logistics,Energy,Below target
+27-04-2024,Production Downtime,16.18,15.24,hours,Manufacturing,Operational,Below target
+17-11-2024,On-Time Delivery Rate,85.07,91.37,%,Logistics,Operational,Above target
+05-07-2024,Energy Consumption,18901.98,17428.4,kWh,Manufacturing,Energy,New initiative
+30-03-2024,Workplace Safety Incidents,2.73,2.5,count,Operations,Social Impact,Requires improvement
+28-09-2024,Employee Turnover Rate,1.84,1.68,%,Operations,Social Impact,Below target
+31-05-2024,On-Time Delivery Rate,82.42,87.57,%,Logistics,Operational,Requires improvement
+12-12-2024,Fuel Efficiency,6.63,7.34,km/l,Logistics,Energy,Above target
+01-10-2024,Customer Complaints,0.9,0.83,count,Quality Control,Social Impact,Below target
+26-10-2024,Water Usage,19060.7,17868.46,liters,Manufacturing,Water,Below target
+13-11-2024,Customer Complaints,1.08,0.98,count,Quality Control,Social Impact,On track
+24-12-2024,On-Time Delivery Rate,85.24,91.48,%,Logistics,Operational,Requires improvement
+04-06-2024,Transport Emissions,3.22,2.91,tons,Logistics,Emissions,On track
+17-07-2024,Product Defect Rate,0.94,0.89,%,Quality Control,Quality,Above target
+02-08-2024,Customer Complaints,6.7,6.28,count,Quality Control,Social Impact,New initiative
+27-07-2024,Equipment Maintenance Cost,6721.76,6329.78,USD,Operations,Operational,New initiative
+30-04-2024,Fuel Efficiency,7.7,8.45,km/l,Logistics,Energy,Requires improvement
+01-02-2024,Fuel Efficiency,9.09,9.9,km/l,Logistics,Energy,Below target
+16-02-2024,Customer Complaints,1.9,1.72,count,Quality Control,Social Impact,Requires improvement
+16-10-2024,Workplace Safety Incidents,0.15,0.14,count,Operations,Social Impact,Above target
+20-04-2024,Workplace Safety Incidents,2.49,2.31,count,Operations,Social Impact,New initiative
+02-01-2024,Training Hours,37.44,39.85,hours,Operations,Social Impact,New initiative
+26-02-2024,On-Time Delivery Rate,87.95,94.88,%,Logistics,Operational,Above target
+28-10-2024,Carbon Emissions,12.35,11.34,tons,Manufacturing,Emissions,Above target
+26-09-2024,Fuel Efficiency,5.3,5.87,km/l,Logistics,Energy,Requires improvement
+30-10-2024,Energy Consumption,26431.07,24816.15,kWh,Manufacturing,Energy,New initiative
+03-12-2024,Water Usage,25688.1,24333.59,liters,Manufacturing,Water,On track
+24-07-2024,Transport Emissions,13.22,11.92,tons,Logistics,Emissions,Requires improvement
+11-02-2024,Product Defect Rate,2.71,2.56,%,Quality Control,Quality,On track
+07-10-2024,On-Time Delivery Rate,78.27,85.66,%,Logistics,Operational,New initiative
+15-09-2024,Transport Emissions,19.9,18.44,tons,Logistics,Emissions,Requires improvement
+20-04-2024,Product Defect Rate,4.07,3.69,%,Quality Control,Quality,New initiative
+23-07-2024,Audit Failures,1.78,1.64,count,Quality Control,Quality,Requires improvement
+10-07-2024,Product Defect Rate,1.91,1.75,%,Quality Control,Quality,Below target
+09-08-2024,Equipment Maintenance Cost,1137.77,1071.31,USD,Operations,Operational,On track
+14-10-2024,Waste Generation,4415.27,4096.49,kg,Manufacturing,Waste,New initiative
+27-01-2024,Fuel Efficiency,6.65,7.05,km/l,Logistics,Energy,Requires improvement
+20-03-2024,Packaging Waste,208.24,193.43,kg,Logistics,Waste,Above target
+07-07-2024,Inspection Hours,26.18,24.02,hours,Quality Control,Quality,New initiative
+14-11-2024,Waste Generation,3222.76,2955.68,kg,Manufacturing,Waste,New initiative
+15-01-2024,Production Downtime,18.94,17.83,hours,Manufacturing,Operational,Below target
+28-06-2024,Training Hours,33.52,36.62,hours,Operations,Social Impact,Below target
+05-02-2024,Carbon Emissions,95.2,88.29,tons,Manufacturing,Emissions,Requires improvement
+02-08-2024,Workplace Safety Incidents,0.28,0.26,count,Operations,Social Impact,Requires improvement
+17-10-2024,Customer Complaints,1.57,1.44,count,Quality Control,Social Impact,Below target
+11-12-2024,Energy Consumption,12001.1,11253.69,kWh,Manufacturing,Energy,On track
+14-08-2024,Waste Generation,2492.62,2326.94,kg,Manufacturing,Waste,New initiative
+08-08-2024,Customer Complaints,2.16,2,count,Quality Control,Social Impact,Below target
+07-12-2024,Waste Generation,3730.7,3455.45,kg,Manufacturing,Waste,New initiative
+04-01-2024,Fuel Efficiency,5.79,6.1,km/l,Logistics,Energy,On track
+28-05-2024,Training Hours,44.61,47.54,hours,Operations,Social Impact,Below target
+07-03-2024,Fuel Efficiency,4.72,5.04,km/l,Logistics,Energy,Above target
+06-02-2024,Inspection Hours,17.51,16.49,hours,Quality Control,Quality,Below target
+09-06-2024,Product Defect Rate,2.46,2.27,%,Quality Control,Quality,On track
+26-07-2024,Audit Failures,1.42,1.31,count,Quality Control,Quality,On track
+19-12-2024,Waste Generation,1124.8,1024.99,kg,Manufacturing,Waste,Requires improvement
+28-10-2024,Fuel Efficiency,6.5,7.18,km/l,Logistics,Energy,Requires improvement
+23-04-2024,Product Defect Rate,2.28,2.09,%,Quality Control,Quality,Below target
+18-09-2024,On-Time Delivery Rate,79.9,85.76,%,Logistics,Operational,New initiative
+30-04-2024,Training Hours,19.72,20.8,hours,Operations,Social Impact,Above target
+01-12-2024,Carbon Emissions,34.98,33.04,tons,Manufacturing,Emissions,Above target
+15-10-2024,Carbon Emissions,103.4,95.62,tons,Manufacturing,Emissions,Requires improvement
+13-08-2024,Customer Complaints,8.64,8.05,count,Quality Control,Social Impact,Above target
+29-10-2024,Water Usage,22668.2,20744.6,liters,Manufacturing,Water,Below target
+20-01-2024,Waste Generation,2807.88,2635.22,kg,Manufacturing,Waste,Requires improvement
+10-11-2024,Waste Generation,4417.83,4192.14,kg,Manufacturing,Waste,On track
+18-08-2024,Audit Failures,1.16,1.1,count,Quality Control,Quality,On track
+18-08-2024,Training Hours,29.81,32.23,hours,Operations,Social Impact,On track
+21-01-2024,Waste Generation,5181.95,4915.45,kg,Manufacturing,Waste,Above target
+22-03-2024,Equipment Maintenance Cost,9914.37,9182.72,USD,Operations,Operational,New initiative
+13-12-2024,Packaging Waste,463.07,425.73,kg,Logistics,Waste,Below target
+25-05-2024,Waste Generation,544.64,516.38,kg,Manufacturing,Waste,Requires improvement
+28-06-2024,On-Time Delivery Rate,82.07,88.33,%,Logistics,Operational,Above target
+07-06-2024,Transport Emissions,3.45,3.23,tons,Logistics,Emissions,On track
+17-02-2024,Customer Complaints,8.13,7.59,count,Quality Control,Social Impact,New initiative
+23-06-2024,Customer Complaints,0.18,0.16,count,Quality Control,Social Impact,Above target
+31-05-2024,Inspection Hours,10.66,9.67,hours,Quality Control,Quality,On track
+20-01-2024,Production Downtime,16.56,15.6,hours,Manufacturing,Operational,New initiative
+20-12-2024,On-Time Delivery Rate,82.57,90.97,%,Logistics,Operational,Above target
+15-08-2024,Equipment Maintenance Cost,915.08,840.24,USD,Operations,Operational,Above target
+09-04-2024,Transport Emissions,5.45,4.97,tons,Logistics,Emissions,Requires improvement
+14-09-2024,Transport Emissions,9.77,8.93,tons,Logistics,Emissions,Requires improvement
+08-05-2024,Inspection Hours,25.42,23.9,hours,Quality Control,Quality,Above target
+30-12-2024,Water Usage,43831.73,40663.88,liters,Manufacturing,Water,On track
+19-09-2024,Waste Generation,637.56,602.6,kg,Manufacturing,Waste,Requires improvement
+27-06-2024,Equipment Maintenance Cost,1371.28,1296.58,USD,Operations,Operational,Requires improvement
+16-07-2024,Water Usage,3609.59,3339.23,liters,Manufacturing,Water,Above target
+28-11-2024,Waste Generation,1362.04,1277.79,kg,Manufacturing,Waste,On track
+22-12-2024,On-Time Delivery Rate,78.98,86.38,%,Logistics,Operational,Requires improvement
+10-01-2024,Equipment Maintenance Cost,4761.71,4286.79,USD,Operations,Operational,On track
+27-09-2024,On-Time Delivery Rate,86.58,93.35,%,Logistics,Operational,New initiative
+25-01-2024,Product Defect Rate,3.99,3.64,%,Quality Control,Quality,On track
+26-02-2024,Equipment Maintenance Cost,6570.04,6117.63,USD,Operations,Operational,On track
+29-05-2024,Product Defect Rate,3.34,3.1,%,Quality Control,Quality,Above target
+05-04-2024,Product Defect Rate,3.27,2.98,%,Quality Control,Quality,Requires improvement
+05-10-2024,Production Downtime,19.62,17.72,hours,Manufacturing,Operational,New initiative
+10-07-2024,Water Usage,43793.24,39509.24,liters,Manufacturing,Water,Requires improvement
+02-12-2024,Fuel Efficiency,6.13,6.79,km/l,Logistics,Energy,Above target
+29-06-2024,Production Downtime,16.03,14.69,hours,Manufacturing,Operational,On track
+19-11-2024,On-Time Delivery Rate,87.16,93.3,%,Logistics,Operational,Requires improvement
+19-01-2024,Employee Turnover Rate,0.64,0.59,%,Operations,Social Impact,Requires improvement
+10-06-2024,On-Time Delivery Rate,77.75,85.44,%,Logistics,Operational,On track
+19-01-2024,Transport Emissions,19.79,18.35,tons,Logistics,Emissions,Below target
+19-05-2024,Training Hours,19.78,21.06,hours,Operations,Social Impact,Below target
+16-07-2024,Waste Generation,2458.19,2297.37,kg,Manufacturing,Waste,Requires improvement
+16-05-2024,On-Time Delivery Rate,83.2,89.96,%,Logistics,Operational,New initiative
+06-10-2024,Water Usage,4867.42,4527.3,liters,Manufacturing,Water,Above target
+05-06-2024,Packaging Waste,96.17,88.13,kg,Logistics,Waste,Below target
+22-01-2024,Audit Failures,0.33,0.3,count,Quality Control,Quality,Requires improvement
+08-02-2024,Transport Emissions,6.22,5.9,tons,Logistics,Emissions,On track
+16-01-2024,Customer Complaints,5.13,4.81,count,Quality Control,Social Impact,Above target
+04-07-2024,Equipment Maintenance Cost,830.59,750.32,USD,Operations,Operational,Below target
+09-07-2024,Product Defect Rate,3.22,3.01,%,Quality Control,Quality,Below target
+09-06-2024,Product Defect Rate,3.08,2.85,%,Quality Control,Quality,Requires improvement
+12-09-2024,On-Time Delivery Rate,85.27,94.61,%,Logistics,Operational,Above target
+19-04-2024,Product Defect Rate,1.68,1.53,%,Quality Control,Quality,Requires improvement
+19-08-2024,Transport Emissions,4.8,4.35,tons,Logistics,Emissions,On track
+07-12-2024,Equipment Maintenance Cost,9973.99,9380.79,USD,Operations,Operational,Below target
+21-03-2024,Fuel Efficiency,7.09,7.75,km/l,Logistics,Energy,Below target
+12-03-2024,Training Hours,25.27,27.89,hours,Operations,Social Impact,Above target
+27-08-2024,Equipment Maintenance Cost,749.7,695.5,USD,Operations,Operational,Below target
+26-09-2024,Workplace Safety Incidents,0.2,0.18,count,Operations,Social Impact,Requires improvement
+24-11-2024,Audit Failures,1.65,1.49,count,Quality Control,Quality,Below target
+09-10-2024,Water Usage,23825.83,22059.57,liters,Manufacturing,Water,Above target
+04-03-2024,Employee Turnover Rate,1.26,1.15,%,Operations,Social Impact,On track
+26-06-2024,Training Hours,11.37,12.41,hours,Operations,Social Impact,Above target
+20-05-2024,Fuel Efficiency,5.82,6.25,km/l,Logistics,Energy,New initiative
+30-10-2024,Training Hours,29.54,32.65,hours,Operations,Social Impact,Above target
+21-06-2024,Employee Turnover Rate,1.62,1.49,%,Operations,Social Impact,New initiative
+15-05-2024,Energy Consumption,8655.03,8200.01,kWh,Manufacturing,Energy,New initiative
+28-05-2024,Equipment Maintenance Cost,6372.03,5744.48,USD,Operations,Operational,New initiative
+01-06-2024,Transport Emissions,5.65,5.31,tons,Logistics,Emissions,Requires improvement
+04-09-2024,Product Defect Rate,3.6,3.27,%,Quality Control,Quality,Requires improvement
+25-06-2024,Inspection Hours,13.5,12.25,hours,Quality Control,Quality,Below target
+12-06-2024,Inspection Hours,24.02,22.24,hours,Quality Control,Quality,On track
+19-02-2024,Equipment Maintenance Cost,1663.96,1534.97,USD,Operations,Operational,Above target
+07-05-2024,Waste Generation,5179.46,4737.85,kg,Manufacturing,Waste,Requires improvement
+22-03-2024,Training Hours,44.01,47.02,hours,Operations,Social Impact,Above target
+16-02-2024,Audit Failures,1,0.92,count,Quality Control,Quality,On track
+25-01-2024,Audit Failures,1.93,1.76,count,Quality Control,Quality,Below target
+26-05-2024,Waste Generation,2817.89,2575.49,kg,Manufacturing,Waste,Requires improvement
+25-07-2024,Energy Consumption,24391.75,23028.81,kWh,Manufacturing,Energy,Below target
+04-07-2024,Fuel Efficiency,6.5,7,km/l,Logistics,Energy,Above target
+23-05-2024,Fuel Efficiency,6.39,6.93,km/l,Logistics,Energy,New initiative
+12-10-2024,Carbon Emissions,104.57,97.76,tons,Manufacturing,Emissions,Below target
+21-01-2024,On-Time Delivery Rate,80.51,86.99,%,Logistics,Operational,New initiative
+22-09-2024,Energy Consumption,11166.64,10235.92,kWh,Manufacturing,Energy,Requires improvement
+09-11-2024,Inspection Hours,20.16,18.66,hours,Quality Control,Quality,Below target
+30-10-2024,On-Time Delivery Rate,82.78,88.93,%,Logistics,Operational,Below target
+07-07-2024,Transport Emissions,14.47,13.24,tons,Logistics,Emissions,On track
+01-11-2024,Fuel Efficiency,9.2,9.9,km/l,Logistics,Energy,On track
+22-10-2024,Customer Complaints,9.67,9.08,count,Quality Control,Social Impact,New initiative
+13-07-2024,Workplace Safety Incidents,1.75,1.59,count,Operations,Social Impact,New initiative
+07-04-2024,Employee Turnover Rate,0.6,0.55,%,Operations,Social Impact,On track
+29-07-2024,Water Usage,16370.93,14857.79,liters,Manufacturing,Water,Above target
+15-06-2024,Product Defect Rate,3.68,3.41,%,Quality Control,Quality,New initiative
+24-06-2024,Audit Failures,0.63,0.57,count,Quality Control,Quality,New initiative
+22-05-2024,Packaging Waste,324.53,295.2,kg,Logistics,Waste,Above target
+26-12-2024,On-Time Delivery Rate,89.61,94.41,%,Logistics,Operational,Below target
+27-05-2024,Equipment Maintenance Cost,3511.89,3221.95,USD,Operations,Operational,Below target
+25-06-2024,Production Downtime,15.15,13.92,hours,Manufacturing,Operational,Requires improvement
+26-06-2024,Training Hours,6.53,6.89,hours,Operations,Social Impact,On track
+18-05-2024,Customer Complaints,7.47,6.8,count,Quality Control,Social Impact,New initiative
+04-05-2024,On-Time Delivery Rate,80.67,86.09,%,Logistics,Operational,Above target
+30-07-2024,Production Downtime,8.39,7.65,hours,Manufacturing,Operational,On track
+08-10-2024,Transport Emissions,2.91,2.73,tons,Logistics,Emissions,On track
+01-09-2024,Equipment Maintenance Cost,6702.48,6327.36,USD,Operations,Operational,Requires improvement
+29-11-2024,Training Hours,18.13,19.45,hours,Operations,Social Impact,On track
+19-01-2024,Workplace Safety Incidents,2.74,2.49,count,Operations,Social Impact,Above target
+20-01-2024,Audit Failures,0.37,0.35,count,Quality Control,Quality,Below target
+25-05-2024,Waste Generation,3088.23,2926.22,kg,Manufacturing,Waste,Below target
+27-08-2024,Audit Failures,1.78,1.61,count,Quality Control,Quality,New initiative
+27-11-2024,On-Time Delivery Rate,85.32,93.09,%,Logistics,Operational,Requires improvement
+17-10-2024,On-Time Delivery Rate,78.06,85.14,%,Logistics,Operational,Below target
+06-08-2024,Employee Turnover Rate,1.54,1.42,%,Operations,Social Impact,Requires improvement
+01-09-2024,Fuel Efficiency,6.33,7,km/l,Logistics,Energy,Above target
+16-05-2024,On-Time Delivery Rate,78.19,85.07,%,Logistics,Operational,Requires improvement
+30-11-2024,Packaging Waste,312.11,289.84,kg,Logistics,Waste,Below target
+22-03-2024,On-Time Delivery Rate,77.56,85.62,%,Logistics,Operational,Below target
+07-07-2024,Customer Complaints,6.9,6.43,count,Quality Control,Social Impact,Below target
+06-11-2024,Employee Turnover Rate,2.08,1.94,%,Operations,Social Impact,Requires improvement
+06-12-2024,Transport Emissions,14.34,13.56,tons,Logistics,Emissions,New initiative
+26-09-2024,Employee Turnover Rate,1.64,1.52,%,Operations,Social Impact,On track
+07-10-2024,Customer Complaints,0.78,0.72,count,Quality Control,Social Impact,On track
+29-02-2024,Employee Turnover Rate,0.82,0.75,%,Operations,Social Impact,Requires improvement
+20-08-2024,Equipment Maintenance Cost,1363.95,1262.36,USD,Operations,Operational,On track
+10-12-2024,Equipment Maintenance Cost,4839.59,4369.6,USD,Operations,Operational,Requires improvement
+23-10-2024,Fuel Efficiency,6.57,6.98,km/l,Logistics,Energy,Above target
+31-01-2024,Energy Consumption,24066.38,22502.53,kWh,Manufacturing,Energy,New initiative
+24-11-2024,Water Usage,2555.01,2351.74,liters,Manufacturing,Water,Above target
+11-07-2024,Customer Complaints,9.93,9.13,count,Quality Control,Social Impact,Requires improvement
+01-04-2024,Production Downtime,6.99,6.59,hours,Manufacturing,Operational,On track
+12-01-2024,Inspection Hours,23.2,21.14,hours,Quality Control,Quality,On track
+13-07-2024,Transport Emissions,13.8,12.8,tons,Logistics,Emissions,New initiative
+27-02-2024,Employee Turnover Rate,1.26,1.19,%,Operations,Social Impact,Above target
+03-05-2024,Water Usage,31131.24,29475.43,liters,Manufacturing,Water,On track
+10-12-2024,Workplace Safety Incidents,0.3,0.27,count,Operations,Social Impact,New initiative
+03-10-2024,Carbon Emissions,82.02,76.65,tons,Manufacturing,Emissions,Above target
+21-10-2024,Workplace Safety Incidents,0.42,0.4,count,Operations,Social Impact,Above target
+23-04-2024,Packaging Waste,156.61,147.81,kg,Logistics,Waste,New initiative
+30-03-2024,Customer Complaints,2.75,2.55,count,Quality Control,Social Impact,New initiative
+25-09-2024,Audit Failures,0.09,0.08,count,Quality Control,Quality,Requires improvement
+02-10-2024,Transport Emissions,8.76,8.02,tons,Logistics,Emissions,Above target
+25-08-2024,Inspection Hours,26.23,24,hours,Quality Control,Quality,Above target
+09-03-2024,Production Downtime,11.19,10.3,hours,Manufacturing,Operational,New initiative
+18-08-2024,Inspection Hours,11.37,10.42,hours,Quality Control,Quality,On track
+17-05-2024,Fuel Efficiency,7.23,7.68,km/l,Logistics,Energy,On track
+09-12-2024,Product Defect Rate,4.43,4.03,%,Quality Control,Quality,New initiative
+08-01-2024,Equipment Maintenance Cost,2484.45,2348.68,USD,Operations,Operational,Below target
+04-05-2024,Employee Turnover Rate,2.05,1.94,%,Operations,Social Impact,Requires improvement
+13-07-2024,Equipment Maintenance Cost,9193.7,8528.11,USD,Operations,Operational,Below target
+26-08-2024,Customer Complaints,3.08,2.83,count,Quality Control,Social Impact,Requires improvement
+08-07-2024,Water Usage,38319.82,35101.4,liters,Manufacturing,Water,Above target
+09-01-2024,Transport Emissions,1.87,1.76,tons,Logistics,Emissions,Above target
+13-07-2024,Transport Emissions,6.61,6.01,tons,Logistics,Emissions,Above target
+11-05-2024,Equipment Maintenance Cost,5731.1,5428.34,USD,Operations,Operational,Below target
+27-03-2024,Audit Failures,0.92,0.86,count,Quality Control,Quality,Below target
+25-09-2024,Equipment Maintenance Cost,2248.45,2123.59,USD,Operations,Operational,On track
+30-07-2024,Energy Consumption,47533.47,44368.25,kWh,Manufacturing,Energy,On track
+15-09-2024,Employee Turnover Rate,0.63,0.6,%,Operations,Social Impact,Above target
+04-09-2024,Customer Complaints,0.6,0.56,count,Quality Control,Social Impact,New initiative
+09-01-2024,Product Defect Rate,0.53,0.49,%,Quality Control,Quality,On track
+01-04-2024,Packaging Waste,57.71,54.29,kg,Logistics,Waste,Requires improvement
+26-09-2024,Energy Consumption,28597.34,26082.16,kWh,Manufacturing,Energy,New initiative
+26-07-2024,Packaging Waste,170.3,156.65,kg,Logistics,Waste,Below target
+30-11-2024,Inspection Hours,29.76,27.12,hours,Quality Control,Quality,On track
+29-01-2024,Energy Consumption,23237.52,21351.99,kWh,Manufacturing,Energy,Requires improvement
+16-10-2024,Carbon Emissions,19.05,17.44,tons,Manufacturing,Emissions,Below target
+31-08-2024,Production Downtime,18.79,17.13,hours,Manufacturing,Operational,New initiative
+05-10-2024,Fuel Efficiency,8.99,9.62,km/l,Logistics,Energy,Below target
+27-10-2024,Carbon Emissions,99.74,93.59,tons,Manufacturing,Emissions,Above target
+03-05-2024,Equipment Maintenance Cost,9324.31,8531.41,USD,Operations,Operational,New initiative
+13-09-2024,Customer Complaints,3.84,3.6,count,Quality Control,Social Impact,On track
+23-06-2024,Fuel Efficiency,5,5.49,km/l,Logistics,Energy,On track
+08-09-2024,Customer Complaints,0.3,0.27,count,Quality Control,Social Impact,Requires improvement
+14-12-2024,Training Hours,27.46,29.89,hours,Operations,Social Impact,Above target
+07-02-2024,Product Defect Rate,3.97,3.63,%,Quality Control,Quality,Above target
+18-07-2024,Waste Generation,1020.73,940.26,kg,Manufacturing,Waste,Above target
+15-08-2024,Packaging Waste,97.95,88.18,kg,Logistics,Waste,Below target
+17-08-2024,Packaging Waste,96,86.82,kg,Logistics,Waste,Requires improvement
+01-11-2024,Product Defect Rate,0.62,0.57,%,Quality Control,Quality,On track
+13-10-2024,Transport Emissions,1.23,1.13,tons,Logistics,Emissions,On track
+03-06-2024,Employee Turnover Rate,1.62,1.53,%,Operations,Social Impact,Below target
+03-08-2024,Transport Emissions,3.77,3.42,tons,Logistics,Emissions,Below target
+16-11-2024,Transport Emissions,15.87,14.57,tons,Logistics,Emissions,Above target
+21-07-2024,Inspection Hours,16.45,14.92,hours,Quality Control,Quality,On track
+08-08-2024,Transport Emissions,16.28,14.92,tons,Logistics,Emissions,Below target
+02-09-2024,Training Hours,18.41,19.43,hours,Operations,Social Impact,Above target
+21-12-2024,On-Time Delivery Rate,89.77,94.65,%,Logistics,Operational,Below target
+05-07-2024,Inspection Hours,13.15,12.02,hours,Quality Control,Quality,Requires improvement
+15-12-2024,Production Downtime,8,7.6,hours,Manufacturing,Operational,Above target
+20-12-2024,Water Usage,47205.77,42980.02,liters,Manufacturing,Water,Below target
+03-05-2024,Water Usage,33975.9,30814.75,liters,Manufacturing,Water,Below target
+17-08-2024,On-Time Delivery Rate,86.57,92.15,%,Logistics,Operational,On track
+05-10-2024,Audit Failures,1.07,1.01,count,Quality Control,Quality,Requires improvement
+22-11-2024,Waste Generation,3891.14,3567.84,kg,Manufacturing,Waste,New initiative
+26-03-2024,Energy Consumption,39602.93,36944.78,kWh,Manufacturing,Energy,Below target
+18-06-2024,Production Downtime,19.75,18.44,hours,Manufacturing,Operational,Requires improvement
+22-09-2024,Product Defect Rate,0.55,0.5,%,Quality Control,Quality,New initiative
+19-12-2024,Equipment Maintenance Cost,4054.14,3742.59,USD,Operations,Operational,New initiative
+31-07-2024,Training Hours,46.11,49.9,hours,Operations,Social Impact,Below target
+08-06-2024,Energy Consumption,42409.3,39716.63,kWh,Manufacturing,Energy,Below target
+31-08-2024,Transport Emissions,15.9,14.72,tons,Logistics,Emissions,Below target
+02-06-2024,Water Usage,36377.7,33562.88,liters,Manufacturing,Water,On track
+12-12-2024,Energy Consumption,6016.33,5517.9,kWh,Manufacturing,Energy,On track
+13-10-2024,Employee Turnover Rate,1.37,1.27,%,Operations,Social Impact,Below target
+05-04-2024,Audit Failures,0.46,0.42,count,Quality Control,Quality,Above target
+18-08-2024,Audit Failures,0.06,0.06,count,Quality Control,Quality,Above target
+26-12-2024,Audit Failures,0.01,0.01,count,Quality Control,Quality,Below target
+06-07-2024,Production Downtime,6.53,6.16,hours,Manufacturing,Operational,Above target
+27-09-2024,On-Time Delivery Rate,81.8,89.58,%,Logistics,Operational,Requires improvement
+29-06-2024,Transport Emissions,12.61,11.72,tons,Logistics,Emissions,Below target
+10-11-2024,Inspection Hours,25.34,23.7,hours,Quality Control,Quality,Below target
+03-04-2024,Carbon Emissions,40.56,38.19,tons,Manufacturing,Emissions,On track
+21-10-2024,On-Time Delivery Rate,82.98,90.11,%,Logistics,Operational,Above target
+11-10-2024,Audit Failures,0.37,0.34,count,Quality Control,Quality,Above target
+13-11-2024,Equipment Maintenance Cost,3243.93,2949.88,USD,Operations,Operational,Requires improvement
+15-07-2024,Waste Generation,5122.83,4768.84,kg,Manufacturing,Waste,Above target
+07-09-2024,Audit Failures,1.37,1.26,count,Quality Control,Quality,Requires improvement
+29-05-2024,Workplace Safety Incidents,1.7,1.6,count,Operations,Social Impact,Above target
+16-10-2024,Waste Generation,1361.68,1279.25,kg,Manufacturing,Waste,Requires improvement
+06-07-2024,Product Defect Rate,3.08,2.81,%,Quality Control,Quality,New initiative
+30-11-2024,Water Usage,27771.31,26368.55,liters,Manufacturing,Water,On track
+27-06-2024,Training Hours,40,44.37,hours,Operations,Social Impact,Below target
+17-04-2024,Water Usage,43399.23,39314.03,liters,Manufacturing,Water,Above target
+15-04-2024,Transport Emissions,4.15,3.76,tons,Logistics,Emissions,Above target
+27-03-2024,Production Downtime,10.26,9.38,hours,Manufacturing,Operational,New initiative
+13-12-2024,Packaging Waste,180.2,164.59,kg,Logistics,Waste,New initiative
+21-05-2024,Carbon Emissions,105.28,96.65,tons,Manufacturing,Emissions,On track
+12-12-2024,Employee Turnover Rate,0.94,0.87,%,Operations,Social Impact,Above target
+11-07-2024,Audit Failures,0.28,0.26,count,Quality Control,Quality,Requires improvement
+25-07-2024,Product Defect Rate,3.35,3.16,%,Quality Control,Quality,On track
+02-01-2024,Packaging Waste,254.61,235.36,kg,Logistics,Waste,New initiative
+30-09-2024,Water Usage,32107.19,30015.87,liters,Manufacturing,Water,On track
+17-05-2024,Inspection Hours,29.2,27.48,hours,Quality Control,Quality,Requires improvement
+05-09-2024,Packaging Waste,201.99,187.63,kg,Logistics,Waste,New initiative
+09-01-2024,Fuel Efficiency,4.87,5.23,km/l,Logistics,Energy,Requires improvement
+13-04-2024,Carbon Emissions,52.21,49.72,tons,Manufacturing,Emissions,Requires improvement
+17-02-2024,Training Hours,11.5,12.15,hours,Operations,Social Impact,Below target
+27-01-2024,Packaging Waste,87.09,81.27,kg,Logistics,Waste,Above target
+01-12-2024,Customer Complaints,7.26,6.81,count,Quality Control,Social Impact,Requires improvement
+30-10-2024,Energy Consumption,5048.88,4664.36,kWh,Manufacturing,Energy,Above target
+04-08-2024,Equipment Maintenance Cost,588.23,549.87,USD,Operations,Operational,On track
+22-02-2024,Equipment Maintenance Cost,1172.87,1078.05,USD,Operations,Operational,On track
+24-11-2024,Packaging Waste,446.45,404.87,kg,Logistics,Waste,Above target
+13-08-2024,Workplace Safety Incidents,1.59,1.43,count,Operations,Social Impact,Above target
+11-11-2024,On-Time Delivery Rate,82.84,91.28,%,Logistics,Operational,Requires improvement
+28-10-2024,Inspection Hours,7.17,6.49,hours,Quality Control,Quality,On track
+06-05-2024,Customer Complaints,9.63,8.82,count,Quality Control,Social Impact,Above target
+25-05-2024,Fuel Efficiency,5.8,6.24,km/l,Logistics,Energy,New initiative
+19-07-2024,Waste Generation,1281.44,1186.14,kg,Manufacturing,Waste,Above target
+10-09-2024,Fuel Efficiency,8.38,8.92,km/l,Logistics,Energy,Above target
+27-09-2024,Product Defect Rate,1.58,1.47,%,Quality Control,Quality,On track
+03-08-2024,Waste Generation,4947.88,4682.84,kg,Manufacturing,Waste,New initiative
+09-01-2024,On-Time Delivery Rate,87.79,92.63,%,Logistics,Operational,On track
+22-07-2024,Energy Consumption,16798.34,15151.96,kWh,Manufacturing,Energy,On track
+02-10-2024,Transport Emissions,9.05,8.33,tons,Logistics,Emissions,New initiative
+20-03-2024,Training Hours,7.92,8.76,hours,Operations,Social Impact,Above target
+07-06-2024,Transport Emissions,12.14,11.39,tons,Logistics,Emissions,On track
+29-02-2024,Inspection Hours,6.45,5.83,hours,Quality Control,Quality,Requires improvement
+02-03-2024,Product Defect Rate,1.89,1.77,%,Quality Control,Quality,Above target
+24-09-2024,Carbon Emissions,77.39,73.13,tons,Manufacturing,Emissions,Below target
+01-03-2024,On-Time Delivery Rate,83.17,88.72,%,Logistics,Operational,Below target
+14-05-2024,Waste Generation,4333.23,4074.12,kg,Manufacturing,Waste,On track
+17-10-2024,Water Usage,23304.69,21393.85,liters,Manufacturing,Water,Requires improvement
+11-12-2024,Training Hours,11.34,12.08,hours,Operations,Social Impact,New initiative
+05-05-2024,Carbon Emissions,80.51,76.67,tons,Manufacturing,Emissions,On track
+19-01-2024,Water Usage,18834.85,17817.98,liters,Manufacturing,Water,Above target
+18-05-2024,Inspection Hours,13.05,12.02,hours,Quality Control,Quality,Below target
+01-04-2024,Production Downtime,10.59,9.8,hours,Manufacturing,Operational,On track
+24-05-2024,Workplace Safety Incidents,2.86,2.58,count,Operations,Social Impact,Requires improvement
+12-04-2024,Packaging Waste,88.87,82.01,kg,Logistics,Waste,Below target
+29-10-2024,Packaging Waste,382.81,349.17,kg,Logistics,Waste,Below target
+18-03-2024,Inspection Hours,23.31,21.62,hours,Quality Control,Quality,Above target
+20-06-2024,Water Usage,2171.6,2013.24,liters,Manufacturing,Water,On track
+15-04-2024,Water Usage,42601.29,39890.18,liters,Manufacturing,Water,On track
+30-12-2024,Equipment Maintenance Cost,5174.27,4672.34,USD,Operations,Operational,Above target
+30-07-2024,Fuel Efficiency,4.76,5.22,km/l,Logistics,Energy,New initiative
+15-09-2024,Transport Emissions,19.52,17.65,tons,Logistics,Emissions,On track
+05-12-2024,Equipment Maintenance Cost,1210.89,1124.18,USD,Operations,Operational,Requires improvement
+24-12-2024,Employee Turnover Rate,1.03,0.94,%,Operations,Social Impact,Requires improvement
+10-03-2024,Packaging Waste,253.74,231.33,kg,Logistics,Waste,Above target
+27-07-2024,Carbon Emissions,20.92,19.51,tons,Manufacturing,Emissions,Below target
+06-06-2024,Production Downtime,10.37,9.73,hours,Manufacturing,Operational,Requires improvement
+26-12-2024,Customer Complaints,8.52,7.71,count,Quality Control,Social Impact,Below target
+30-12-2024,Carbon Emissions,90.89,85.23,tons,Manufacturing,Emissions,On track
+13-05-2024,Training Hours,20.6,22.83,hours,Operations,Social Impact,Below target
+08-10-2024,Workplace Safety Incidents,2.86,2.7,count,Operations,Social Impact,New initiative
+03-03-2024,Workplace Safety Incidents,1.39,1.31,count,Operations,Social Impact,Above target
+11-04-2024,Energy Consumption,42366.75,40211.48,kWh,Manufacturing,Energy,Above target
+25-10-2024,Customer Complaints,6.86,6.5,count,Quality Control,Social Impact,On track
+06-03-2024,Fuel Efficiency,4.62,5.11,km/l,Logistics,Energy,Requires improvement
+27-03-2024,Waste Generation,864.67,788.13,kg,Manufacturing,Waste,On track
+29-03-2024,Audit Failures,0.99,0.91,count,Quality Control,Quality,Requires improvement
+17-03-2024,On-Time Delivery Rate,85.97,94.08,%,Logistics,Operational,Requires improvement
+12-09-2024,Production Downtime,14.29,13.04,hours,Manufacturing,Operational,Below target
+02-08-2024,Audit Failures,0.12,0.11,count,Quality Control,Quality,Above target
+14-07-2024,Employee Turnover Rate,1.58,1.45,%,Operations,Social Impact,On track
+14-09-2024,Transport Emissions,11.35,10.49,tons,Logistics,Emissions,New initiative
+22-04-2024,Transport Emissions,6.14,5.53,tons,Logistics,Emissions,New initiative
+02-07-2024,Waste Generation,529.16,481.24,kg,Manufacturing,Waste,New initiative
+30-09-2024,Employee Turnover Rate,0.7,0.65,%,Operations,Social Impact,Below target
+30-06-2024,Carbon Emissions,67.94,61.81,tons,Manufacturing,Emissions,Requires improvement
+29-10-2024,Employee Turnover Rate,0.91,0.85,%,Operations,Social Impact,Below target
+06-04-2024,Waste Generation,5119.5,4748.28,kg,Manufacturing,Waste,New initiative
+29-04-2024,Customer Complaints,1.76,1.59,count,Quality Control,Social Impact,On track
+13-04-2024,Workplace Safety Incidents,1.58,1.42,count,Operations,Social Impact,New initiative
+31-01-2024,Training Hours,35.25,37.26,hours,Operations,Social Impact,Below target
+26-09-2024,Carbon Emissions,68.81,62.79,tons,Manufacturing,Emissions,On track
+27-10-2024,Fuel Efficiency,6.51,6.87,km/l,Logistics,Energy,Requires improvement
+11-08-2024,Waste Generation,1742.14,1648.47,kg,Manufacturing,Waste,Above target
+01-07-2024,Customer Complaints,1.74,1.65,count,Quality Control,Social Impact,New initiative
+06-03-2024,Employee Turnover Rate,1.16,1.07,%,Operations,Social Impact,Below target
+17-10-2024,Workplace Safety Incidents,2.85,2.7,count,Operations,Social Impact,Requires improvement
+23-04-2024,Carbon Emissions,70.38,64.21,tons,Manufacturing,Emissions,New initiative
+26-06-2024,Water Usage,7891.53,7396.47,liters,Manufacturing,Water,Above target
+16-08-2024,On-Time Delivery Rate,86.62,91.36,%,Logistics,Operational,Below target
+11-05-2024,Waste Generation,1308.62,1206.48,kg,Manufacturing,Waste,Below target
+26-03-2024,Energy Consumption,7166.64,6607,kWh,Manufacturing,Energy,Requires improvement
+21-02-2024,Audit Failures,1.76,1.61,count,Quality Control,Quality,Requires improvement
+30-05-2024,Inspection Hours,9.07,8.2,hours,Quality Control,Quality,On track
+28-03-2024,Waste Generation,1533.69,1453.41,kg,Manufacturing,Waste,Below target
+22-06-2024,Inspection Hours,23.3,21.61,hours,Quality Control,Quality,On track
+10-08-2024,Product Defect Rate,2.44,2.28,%,Quality Control,Quality,New initiative
+28-07-2024,Workplace Safety Incidents,0.3,0.27,count,Operations,Social Impact,Above target
+19-10-2024,Packaging Waste,183.83,166.33,kg,Logistics,Waste,Requires improvement
+30-05-2024,Inspection Hours,6.36,5.73,hours,Quality Control,Quality,On track
+11-02-2024,Inspection Hours,7.42,6.75,hours,Quality Control,Quality,Below target
+04-12-2024,Product Defect Rate,1.89,1.74,%,Quality Control,Quality,Requires improvement
+14-07-2024,Fuel Efficiency,7.55,8.21,km/l,Logistics,Energy,Below target
+14-05-2024,On-Time Delivery Rate,81.69,89.46,%,Logistics,Operational,Requires improvement
+13-02-2024,Training Hours,27.58,30.39,hours,Operations,Social Impact,On track
+01-02-2024,Transport Emissions,19.44,18.07,tons,Logistics,Emissions,New initiative
+20-10-2024,Audit Failures,1.93,1.8,count,Quality Control,Quality,Requires improvement
+14-09-2024,Equipment Maintenance Cost,3339.1,3071.1,USD,Operations,Operational,On track
+18-04-2024,Workplace Safety Incidents,2.85,2.63,count,Operations,Social Impact,Above target
+13-04-2024,Employee Turnover Rate,0.59,0.56,%,Operations,Social Impact,Requires improvement
+14-02-2024,Training Hours,18.16,19.39,hours,Operations,Social Impact,On track
+22-08-2024,Audit Failures,1.1,1.04,count,Quality Control,Quality,New initiative
+31-07-2024,Production Downtime,13.81,12.97,hours,Manufacturing,Operational,On track
+24-02-2024,Employee Turnover Rate,1.46,1.35,%,Operations,Social Impact,On track
+15-05-2024,Waste Generation,4774.11,4363.88,kg,Manufacturing,Waste,Requires improvement
+21-05-2024,Audit Failures,1.14,1.05,count,Quality Control,Quality,Above target
+20-01-2024,Inspection Hours,20.46,19.11,hours,Quality Control,Quality,Requires improvement
+17-05-2024,Customer Complaints,6.91,6.24,count,Quality Control,Social Impact,Requires improvement
+23-05-2024,Fuel Efficiency,6.29,6.69,km/l,Logistics,Energy,Below target
+14-08-2024,Product Defect Rate,4.88,4.45,%,Quality Control,Quality,Below target
+06-04-2024,Packaging Waste,377.96,351.6,kg,Logistics,Waste,On track
+21-09-2024,Inspection Hours,27.84,25.62,hours,Quality Control,Quality,Requires improvement
+29-12-2024,Fuel Efficiency,6.88,7.58,km/l,Logistics,Energy,Below target
+15-01-2024,Inspection Hours,24.51,22.7,hours,Quality Control,Quality,New initiative
+07-05-2024,Employee Turnover Rate,1.92,1.81,%,Operations,Social Impact,On track
+20-05-2024,Water Usage,3477.4,3192.32,liters,Manufacturing,Water,Above target
+14-12-2024,Transport Emissions,10.6,9.88,tons,Logistics,Emissions,On track
+30-08-2024,Carbon Emissions,46.99,43.52,tons,Manufacturing,Emissions,Above target
+25-05-2024,Packaging Waste,123.58,116.75,kg,Logistics,Waste,On track
+23-04-2024,Water Usage,3432.9,3236.16,liters,Manufacturing,Water,Above target
+15-12-2024,Employee Turnover Rate,0.96,0.9,%,Operations,Social Impact,On track
+05-01-2024,Water Usage,45664.26,42575.92,liters,Manufacturing,Water,New initiative
+04-08-2024,Training Hours,30.67,32.38,hours,Operations,Social Impact,Below target
+12-12-2024,Customer Complaints,4.59,4.18,count,Quality Control,Social Impact,Below target
+14-10-2024,Product Defect Rate,0.53,0.5,%,Quality Control,Quality,Below target
+21-05-2024,Packaging Waste,357.99,330.81,kg,Logistics,Waste,Below target
+06-04-2024,Packaging Waste,167.52,156.72,kg,Logistics,Waste,Below target
+25-07-2024,Employee Turnover Rate,2.02,1.85,%,Operations,Social Impact,New initiative
+12-05-2024,On-Time Delivery Rate,86.01,92.21,%,Logistics,Operational,Below target
+07-04-2024,Audit Failures,0.78,0.7,count,Quality Control,Quality,New initiative
+09-12-2024,On-Time Delivery Rate,85.61,91.86,%,Logistics,Operational,Requires improvement
+02-04-2024,Packaging Waste,430.44,405.49,kg,Logistics,Waste,New initiative
+03-04-2024,Fuel Efficiency,6.89,7.35,km/l,Logistics,Energy,New initiative
+03-08-2024,Fuel Efficiency,5.57,6.11,km/l,Logistics,Energy,Below target
+28-08-2024,Packaging Waste,167.25,152.98,kg,Logistics,Waste,On track
+09-04-2024,Production Downtime,13.7,12.76,hours,Manufacturing,Operational,Requires improvement
+11-03-2024,Water Usage,26962.09,24822.79,liters,Manufacturing,Water,Above target
+14-03-2024,Training Hours,21.74,23.41,hours,Operations,Social Impact,Requires improvement
+09-06-2024,On-Time Delivery Rate,85.77,92.79,%,Logistics,Operational,Above target
+22-10-2024,Energy Consumption,25342.4,23073.47,kWh,Manufacturing,Energy,Above target
+10-11-2024,Equipment Maintenance Cost,7959.5,7473.87,USD,Operations,Operational,Above target
+03-01-2024,Audit Failures,0.81,0.77,count,Quality Control,Quality,Requires improvement
+13-06-2024,Production Downtime,7.99,7.34,hours,Manufacturing,Operational,On track
+25-04-2024,Workplace Safety Incidents,2.03,1.89,count,Operations,Social Impact,Above target
+05-06-2024,Packaging Waste,108.02,99.29,kg,Logistics,Waste,New initiative
+21-08-2024,Workplace Safety Incidents,2.47,2.26,count,Operations,Social Impact,Below target
+07-09-2024,Transport Emissions,17.87,16.97,tons,Logistics,Emissions,Below target
+10-01-2024,On-Time Delivery Rate,81.91,86.65,%,Logistics,Operational,Requires improvement
+28-10-2024,Employee Turnover Rate,1.68,1.59,%,Operations,Social Impact,On track
+11-07-2024,Workplace Safety Incidents,1.1,1.03,count,Operations,Social Impact,On track
+30-11-2024,Fuel Efficiency,7.19,7.97,km/l,Logistics,Energy,On track
+04-03-2024,Energy Consumption,36038.74,33185.87,kWh,Manufacturing,Energy,Requires improvement
+03-06-2024,Transport Emissions,14.34,13.05,tons,Logistics,Emissions,On track
+24-12-2024,Product Defect Rate,3.48,3.18,%,Quality Control,Quality,New initiative
+01-03-2024,Equipment Maintenance Cost,8391.2,7596.1,USD,Operations,Operational,New initiative
+12-04-2024,Fuel Efficiency,8.25,8.92,km/l,Logistics,Energy,New initiative
+21-01-2024,On-Time Delivery Rate,81.54,88.58,%,Logistics,Operational,Above target
+02-01-2024,Inspection Hours,22.21,20.52,hours,Quality Control,Quality,Above target
+17-03-2024,Energy Consumption,45809.6,43141.72,kWh,Manufacturing,Energy,Requires improvement
+25-11-2024,Production Downtime,6.13,5.74,hours,Manufacturing,Operational,Below target
+26-01-2024,Equipment Maintenance Cost,9892.33,9049.51,USD,Operations,Operational,Requires improvement
+12-12-2024,Carbon Emissions,96.88,88.67,tons,Manufacturing,Emissions,Below target
+05-01-2024,Transport Emissions,15.03,13.6,tons,Logistics,Emissions,On track
+17-05-2024,Employee Turnover Rate,1.08,0.99,%,Operations,Social Impact,New initiative
+23-07-2024,Waste Generation,4355.02,4111.83,kg,Manufacturing,Waste,Requires improvement
+03-08-2024,Customer Complaints,8.36,7.81,count,Quality Control,Social Impact,Requires improvement
+23-02-2024,Workplace Safety Incidents,0.4,0.37,count,Operations,Social Impact,Above target
+08-11-2024,Audit Failures,1.6,1.49,count,Quality Control,Quality,Above target
+04-09-2024,Customer Complaints,6.11,5.76,count,Quality Control,Social Impact,Above target
+13-05-2024,Product Defect Rate,4.49,4.14,%,Quality Control,Quality,On track
+16-10-2024,Fuel Efficiency,7.96,8.52,km/l,Logistics,Energy,New initiative
+18-02-2024,Training Hours,26.5,28.36,hours,Operations,Social Impact,New initiative
+17-03-2024,Inspection Hours,17.05,15.91,hours,Quality Control,Quality,Requires improvement
+10-09-2024,Energy Consumption,33952.94,30824.05,kWh,Manufacturing,Energy,Requires improvement
+22-05-2024,Workplace Safety Incidents,2.25,2.06,count,Operations,Social Impact,Below target
+30-04-2024,Production Downtime,8.34,7.77,hours,Manufacturing,Operational,Requires improvement
+12-09-2024,Water Usage,22765.25,21140.99,liters,Manufacturing,Water,On track
+22-02-2024,Customer Complaints,1.19,1.1,count,Quality Control,Social Impact,On track
+05-11-2024,Audit Failures,0.07,0.06,count,Quality Control,Quality,On track
+05-07-2024,On-Time Delivery Rate,84.48,91.55,%,Logistics,Operational,Below target
+03-11-2024,Carbon Emissions,91.72,85.99,tons,Manufacturing,Emissions,New initiative
+02-01-2024,Customer Complaints,7.16,6.48,count,Quality Control,Social Impact,Above target
+07-10-2024,Packaging Waste,423.45,401.52,kg,Logistics,Waste,Below target
+28-07-2024,Fuel Efficiency,4.75,5.23,km/l,Logistics,Energy,Above target
+20-04-2024,Waste Generation,3318.06,3132.09,kg,Manufacturing,Waste,Requires improvement
+24-01-2024,Inspection Hours,22.92,20.75,hours,Quality Control,Quality,Requires improvement
+09-03-2024,Water Usage,23412.01,21760.66,liters,Manufacturing,Water,New initiative
+26-10-2024,Product Defect Rate,2.89,2.61,%,Quality Control,Quality,Requires improvement
+23-02-2024,Inspection Hours,22.3,20.26,hours,Quality Control,Quality,Above target
+20-12-2024,Customer Complaints,5.04,4.63,count,Quality Control,Social Impact,New initiative
+19-08-2024,Training Hours,21,22.9,hours,Operations,Social Impact,Below target
+02-06-2024,Employee Turnover Rate,1.22,1.12,%,Operations,Social Impact,New initiative
+17-12-2024,On-Time Delivery Rate,81.02,87.01,%,Logistics,Operational,Below target
+14-09-2024,On-Time Delivery Rate,88.41,94.81,%,Logistics,Operational,Above target
+19-10-2024,Fuel Efficiency,8.17,8.8,km/l,Logistics,Energy,New initiative
+24-09-2024,Customer Complaints,8.77,8.08,count,Quality Control,Social Impact,On track
+12-04-2024,Energy Consumption,22139.16,19983.98,kWh,Manufacturing,Energy,On track
+01-02-2024,On-Time Delivery Rate,88.6,94.84,%,Logistics,Operational,Above target
+22-02-2024,On-Time Delivery Rate,83.44,92.54,%,Logistics,Operational,Requires improvement
+20-12-2024,Equipment Maintenance Cost,2757.16,2589.57,USD,Operations,Operational,Below target
+09-10-2024,Water Usage,19990.18,18947.39,liters,Manufacturing,Water,Below target
+25-04-2024,Energy Consumption,38465.15,35009.22,kWh,Manufacturing,Energy,Requires improvement
+17-08-2024,On-Time Delivery Rate,87.96,92.76,%,Logistics,Operational,Below target
+02-03-2024,Workplace Safety Incidents,0.56,0.51,count,Operations,Social Impact,New initiative
+23-03-2024,Product Defect Rate,2.43,2.25,%,Quality Control,Quality,Above target
+21-01-2024,Fuel Efficiency,6.22,6.65,km/l,Logistics,Energy,Above target
+04-12-2024,Training Hours,29.91,31.86,hours,Operations,Social Impact,New initiative
+28-12-2024,Transport Emissions,16.01,14.85,tons,Logistics,Emissions,On track
+22-03-2024,On-Time Delivery Rate,87.57,94.57,%,Logistics,Operational,New initiative
+05-12-2024,Audit Failures,0.18,0.16,count,Quality Control,Quality,Above target
+28-09-2024,Packaging Waste,212.36,193.44,kg,Logistics,Waste,New initiative
+24-11-2024,Product Defect Rate,1.02,0.94,%,Quality Control,Quality,Above target
+16-07-2024,Workplace Safety Incidents,2.05,1.88,count,Operations,Social Impact,On track
+20-09-2024,Packaging Waste,61.12,56.59,kg,Logistics,Waste,Below target
+13-06-2024,Audit Failures,0.09,0.09,count,Quality Control,Quality,Above target
+30-09-2024,Energy Consumption,12532.77,11878.73,kWh,Manufacturing,Energy,New initiative
+16-12-2024,Energy Consumption,14485.17,13492.58,kWh,Manufacturing,Energy,Above target
+27-11-2024,Product Defect Rate,1.43,1.35,%,Quality Control,Quality,Requires improvement
+14-02-2024,Carbon Emissions,13.18,12.14,tons,Manufacturing,Emissions,On track
+21-10-2024,Energy Consumption,13009.65,11872.55,kWh,Manufacturing,Energy,On track
+09-08-2024,Training Hours,21.53,23.34,hours,Operations,Social Impact,Requires improvement
+24-11-2024,Fuel Efficiency,6.3,6.95,km/l,Logistics,Energy,On track
+14-09-2024,Production Downtime,5.68,5.35,hours,Manufacturing,Operational,Below target
+24-05-2024,Waste Generation,4235.86,3977.08,kg,Manufacturing,Waste,On track
+21-03-2024,Audit Failures,0.79,0.74,count,Quality Control,Quality,Requires improvement
+31-05-2024,Employee Turnover Rate,1.77,1.62,%,Operations,Social Impact,New initiative
+06-01-2024,Training Hours,33.55,35.48,hours,Operations,Social Impact,Below target
+02-10-2024,Workplace Safety Incidents,0.13,0.12,count,Operations,Social Impact,Requires improvement
+18-04-2024,Waste Generation,1313.45,1208.25,kg,Manufacturing,Waste,Below target
+09-04-2024,Inspection Hours,9.02,8.22,hours,Quality Control,Quality,Below target
+08-10-2024,Carbon Emissions,75.91,70.39,tons,Manufacturing,Emissions,On track
+11-04-2024,Product Defect Rate,1.81,1.64,%,Quality Control,Quality,On track
+21-02-2024,Customer Complaints,3.57,3.33,count,Quality Control,Social Impact,Above target
+17-06-2024,Fuel Efficiency,8.7,9.5,km/l,Logistics,Energy,Requires improvement
+07-08-2024,On-Time Delivery Rate,83.25,90.66,%,Logistics,Operational,Below target
+21-05-2024,Workplace Safety Incidents,0.94,0.88,count,Operations,Social Impact,Requires improvement
+24-08-2024,On-Time Delivery Rate,84.14,91.8,%,Logistics,Operational,Requires improvement
+30-03-2024,Customer Complaints,7.75,7.16,count,Quality Control,Social Impact,On track
+10-04-2024,Waste Generation,4568.17,4321.83,kg,Manufacturing,Waste,New initiative
+19-11-2024,Fuel Efficiency,8.16,8.64,km/l,Logistics,Energy,New initiative
+19-01-2024,Production Downtime,13.68,12.84,hours,Manufacturing,Operational,Above target
+24-04-2024,Transport Emissions,13.42,12.18,tons,Logistics,Emissions,Requires improvement
+05-07-2024,On-Time Delivery Rate,82.97,89.65,%,Logistics,Operational,Requires improvement
+16-12-2024,Carbon Emissions,94.12,86.32,tons,Manufacturing,Emissions,New initiative
+03-12-2024,Employee Turnover Rate,1.24,1.17,%,Operations,Social Impact,New initiative
+28-04-2024,Equipment Maintenance Cost,9422.16,8498.99,USD,Operations,Operational,Requires improvement
+22-09-2024,Waste Generation,2076.18,1973.29,kg,Manufacturing,Waste,Above target
+21-01-2024,Transport Emissions,9.92,9.15,tons,Logistics,Emissions,On track
+14-05-2024,Fuel Efficiency,7.89,8.52,km/l,Logistics,Energy,Below target
+21-09-2024,Equipment Maintenance Cost,6709.92,6161.48,USD,Operations,Operational,On track
+29-06-2024,Transport Emissions,19.48,17.75,tons,Logistics,Emissions,Requires improvement
+13-09-2024,Transport Emissions,16.06,15.17,tons,Logistics,Emissions,On track
+18-04-2024,Equipment Maintenance Cost,2073.26,1873.93,USD,Operations,Operational,Below target
+04-12-2024,Employee Turnover Rate,0.8,0.74,%,Operations,Social Impact,On track
+11-12-2024,Equipment Maintenance Cost,8206.14,7681.05,USD,Operations,Operational,Requires improvement
+12-01-2024,Audit Failures,0.42,0.38,count,Quality Control,Quality,Requires improvement
+18-11-2024,Workplace Safety Incidents,0.38,0.35,count,Operations,Social Impact,Above target
+21-09-2024,Production Downtime,7.2,6.54,hours,Manufacturing,Operational,Above target
+13-02-2024,Product Defect Rate,4.45,4.17,%,Quality Control,Quality,Below target
+28-03-2024,Equipment Maintenance Cost,6262,5783.4,USD,Operations,Operational,Requires improvement
+15-11-2024,Equipment Maintenance Cost,6207.97,5833.82,USD,Operations,Operational,Above target
+01-11-2024,On-Time Delivery Rate,84.6,92.24,%,Logistics,Operational,Requires improvement
+13-04-2024,Carbon Emissions,46.53,44.04,tons,Manufacturing,Emissions,On track
+03-11-2024,Inspection Hours,20.14,18.3,hours,Quality Control,Quality,New initiative
+03-12-2024,Production Downtime,12.55,11.37,hours,Manufacturing,Operational,Requires improvement
+24-09-2024,Workplace Safety Incidents,2.69,2.53,count,Operations,Social Impact,Requires improvement
+27-04-2024,Customer Complaints,8.75,8.18,count,Quality Control,Social Impact,Requires improvement
+20-02-2024,Audit Failures,0.7,0.66,count,Quality Control,Quality,New initiative
+25-05-2024,Inspection Hours,11.36,10.66,hours,Quality Control,Quality,On track
+22-10-2024,Customer Complaints,1.89,1.77,count,Quality Control,Social Impact,On track
+28-07-2024,Production Downtime,5.11,4.77,hours,Manufacturing,Operational,Below target
+13-05-2024,Fuel Efficiency,5.38,5.77,km/l,Logistics,Energy,Below target
+14-04-2024,Customer Complaints,6.12,5.81,count,Quality Control,Social Impact,Requires improvement
+09-05-2024,Audit Failures,0.36,0.33,count,Quality Control,Quality,Requires improvement
+03-12-2024,Packaging Waste,398.39,366.48,kg,Logistics,Waste,Above target
+21-02-2024,Carbon Emissions,54.45,50.19,tons,Manufacturing,Emissions,Above target
+22-12-2024,Equipment Maintenance Cost,7967.77,7490.04,USD,Operations,Operational,New initiative
+15-03-2024,Carbon Emissions,48.7,45.02,tons,Manufacturing,Emissions,On track
+10-02-2024,Audit Failures,0.18,0.16,count,Quality Control,Quality,Below target
+26-05-2024,Water Usage,46603.56,42876.78,liters,Manufacturing,Water,New initiative
+02-12-2024,Carbon Emissions,72.5,67.63,tons,Manufacturing,Emissions,Above target
+23-12-2024,On-Time Delivery Rate,79.36,85.34,%,Logistics,Operational,New initiative
+21-03-2024,Employee Turnover Rate,1.61,1.51,%,Operations,Social Impact,On track
+26-07-2024,Waste Generation,4209.16,3942.43,kg,Manufacturing,Waste,Requires improvement
+08-10-2024,Workplace Safety Incidents,2.21,2,count,Operations,Social Impact,On track
+06-11-2024,Packaging Waste,206.36,194.14,kg,Logistics,Waste,Above target
+30-03-2024,Equipment Maintenance Cost,9332.28,8667.31,USD,Operations,Operational,Below target
+29-02-2024,Product Defect Rate,3.01,2.78,%,Quality Control,Quality,Below target
+04-09-2024,Packaging Waste,362.39,343.66,kg,Logistics,Waste,New initiative
+27-10-2024,Training Hours,44.54,48.26,hours,Operations,Social Impact,Requires improvement
+12-12-2024,Water Usage,6697.15,6050.06,liters,Manufacturing,Water,Above target
+05-01-2024,Training Hours,21.62,23.56,hours,Operations,Social Impact,New initiative
+08-02-2024,On-Time Delivery Rate,80.84,87.87,%,Logistics,Operational,Below target
+17-05-2024,Equipment Maintenance Cost,3481.79,3171.66,USD,Operations,Operational,New initiative
+15-05-2024,Employee Turnover Rate,1.32,1.25,%,Operations,Social Impact,Above target
+01-07-2024,Employee Turnover Rate,0.85,0.8,%,Operations,Social Impact,New initiative
+10-11-2024,Workplace Safety Incidents,0.36,0.33,count,Operations,Social Impact,Requires improvement
+13-11-2024,Production Downtime,19.37,18.25,hours,Manufacturing,Operational,Below target
+20-05-2024,Transport Emissions,18.06,17.05,tons,Logistics,Emissions,New initiative
+22-07-2024,Inspection Hours,29.61,28.01,hours,Quality Control,Quality,Below target
+03-10-2024,Employee Turnover Rate,0.63,0.58,%,Operations,Social Impact,Requires improvement
+22-08-2024,Production Downtime,10.21,9.63,hours,Manufacturing,Operational,Above target
+11-12-2024,Production Downtime,11.9,11.12,hours,Manufacturing,Operational,On track
+12-05-2024,Equipment Maintenance Cost,6019.58,5515.57,USD,Operations,Operational,New initiative
+24-06-2024,Training Hours,14.47,15.67,hours,Operations,Social Impact,New initiative
+05-07-2024,On-Time Delivery Rate,81.94,89.99,%,Logistics,Operational,Below target
+17-12-2024,Customer Complaints,4.51,4.19,count,Quality Control,Social Impact,New initiative
+09-08-2024,Workplace Safety Incidents,2.16,2.03,count,Operations,Social Impact,New initiative
+30-08-2024,Inspection Hours,8.65,8.2,hours,Quality Control,Quality,Above target
+30-09-2024,Carbon Emissions,50.66,47.94,tons,Manufacturing,Emissions,New initiative
+25-01-2024,Transport Emissions,6.7,6.22,tons,Logistics,Emissions,New initiative
+31-08-2024,Product Defect Rate,3.61,3.26,%,Quality Control,Quality,Below target
+13-10-2024,Water Usage,37485.07,34223.44,liters,Manufacturing,Water,Below target
+11-04-2024,Packaging Waste,58.93,53.39,kg,Logistics,Waste,New initiative
+16-08-2024,Training Hours,19.59,20.98,hours,Operations,Social Impact,Requires improvement
+26-03-2024,Water Usage,31069.52,28683,liters,Manufacturing,Water,Above target
+10-02-2024,Transport Emissions,12.99,12.06,tons,Logistics,Emissions,On track
+29-12-2024,Training Hours,13.98,15.27,hours,Operations,Social Impact,Below target
+27-10-2024,Transport Emissions,6.15,5.67,tons,Logistics,Emissions,Below target
+30-04-2024,Audit Failures,0.33,0.31,count,Quality Control,Quality,Above target
+02-02-2024,Fuel Efficiency,5.57,6.05,km/l,Logistics,Energy,On track
+23-02-2024,Product Defect Rate,0.62,0.57,%,Quality Control,Quality,On track
+07-06-2024,On-Time Delivery Rate,81.25,85.84,%,Logistics,Operational,Requires improvement
+08-03-2024,Employee Turnover Rate,1.73,1.61,%,Operations,Social Impact,Above target
+31-08-2024,Workplace Safety Incidents,0.11,0.1,count,Operations,Social Impact,Below target
+31-03-2024,Customer Complaints,5.49,4.98,count,Quality Control,Social Impact,New initiative
+26-06-2024,Audit Failures,1.05,0.98,count,Quality Control,Quality,Below target
+30-07-2024,Inspection Hours,25.12,23.16,hours,Quality Control,Quality,Below target
+25-06-2024,On-Time Delivery Rate,79.24,88.04,%,Logistics,Operational,Above target
+01-09-2024,Transport Emissions,11.17,10.44,tons,Logistics,Emissions,Requires improvement
+28-04-2024,Fuel Efficiency,8.3,8.83,km/l,Logistics,Energy,New initiative
+11-08-2024,Production Downtime,10.6,9.76,hours,Manufacturing,Operational,New initiative
+12-07-2024,Inspection Hours,9.08,8.51,hours,Quality Control,Quality,Requires improvement
+09-11-2024,Training Hours,7.97,8.56,hours,Operations,Social Impact,New initiative
+30-07-2024,Packaging Waste,341.81,316.72,kg,Logistics,Waste,Below target
+12-11-2024,Workplace Safety Incidents,0.55,0.5,count,Operations,Social Impact,Requires improvement
+10-01-2024,Customer Complaints,7,6.47,count,Quality Control,Social Impact,Below target
+24-05-2024,Workplace Safety Incidents,2.91,2.62,count,Operations,Social Impact,On track
+16-02-2024,On-Time Delivery Rate,86.29,92.15,%,Logistics,Operational,Above target
+12-09-2024,Workplace Safety Incidents,1.48,1.36,count,Operations,Social Impact,Below target
+15-03-2024,Transport Emissions,14.24,12.84,tons,Logistics,Emissions,On track
+02-04-2024,Waste Generation,4133.29,3923.13,kg,Manufacturing,Waste,Requires improvement
+07-05-2024,Training Hours,39.33,41.78,hours,Operations,Social Impact,On track
+23-08-2024,Audit Failures,0.49,0.47,count,Quality Control,Quality,Above target
+14-12-2024,Production Downtime,14.99,13.65,hours,Manufacturing,Operational,Requires improvement
+23-09-2024,Packaging Waste,121.38,113.66,kg,Logistics,Waste,New initiative
+27-01-2024,Waste Generation,2672.89,2509.9,kg,Manufacturing,Waste,Below target
+26-03-2024,Workplace Safety Incidents,0.71,0.65,count,Operations,Social Impact,On track
+24-10-2024,Fuel Efficiency,6.37,6.98,km/l,Logistics,Energy,On track
+12-09-2024,Inspection Hours,14.28,12.92,hours,Quality Control,Quality,Above target
+31-01-2024,Production Downtime,10.08,9.56,hours,Manufacturing,Operational,On track
+06-09-2024,On-Time Delivery Rate,86.45,92.01,%,Logistics,Operational,Above target
+12-08-2024,Training Hours,46.2,49.18,hours,Operations,Social Impact,Below target
+08-05-2024,Workplace Safety Incidents,2.07,1.9,count,Operations,Social Impact,Above target
+22-12-2024,Water Usage,35624.67,33057.96,liters,Manufacturing,Water,New initiative
+27-08-2024,Inspection Hours,19.17,17.77,hours,Quality Control,Quality,Below target
+14-05-2024,On-Time Delivery Rate,77.79,85.69,%,Logistics,Operational,Below target
+04-04-2024,Transport Emissions,1.01,0.94,tons,Logistics,Emissions,Requires improvement
+13-06-2024,Production Downtime,17.85,16.76,hours,Manufacturing,Operational,Above target
+09-10-2024,Production Downtime,17.29,15.73,hours,Manufacturing,Operational,Requires improvement
+19-02-2024,Training Hours,18.19,19.52,hours,Operations,Social Impact,On track
+13-04-2024,Energy Consumption,42583.7,38601.64,kWh,Manufacturing,Energy,On track
+02-12-2024,Water Usage,10389.22,9366.83,liters,Manufacturing,Water,Requires improvement
+07-01-2024,Customer Complaints,0.49,0.45,count,Quality Control,Social Impact,On track
+23-11-2024,Equipment Maintenance Cost,9319.84,8775.6,USD,Operations,Operational,Requires improvement
+07-07-2024,Waste Generation,3157.46,2878.5,kg,Manufacturing,Waste,Requires improvement
+04-06-2024,Production Downtime,8.99,8.11,hours,Manufacturing,Operational,On track
+29-09-2024,Carbon Emissions,101.74,96.45,tons,Manufacturing,Emissions,Above target
+16-11-2024,Inspection Hours,9.83,9.17,hours,Quality Control,Quality,New initiative
+02-07-2024,Equipment Maintenance Cost,7588.03,7119.96,USD,Operations,Operational,New initiative
+08-10-2024,Audit Failures,1.77,1.61,count,Quality Control,Quality,Above target
+14-08-2024,Customer Complaints,6.58,6.1,count,Quality Control,Social Impact,New initiative
+30-07-2024,Packaging Waste,297.54,282.62,kg,Logistics,Waste,Below target
+11-07-2024,Customer Complaints,6.08,5.64,count,Quality Control,Social Impact,Above target
+01-01-2024,Packaging Waste,482.74,445.27,kg,Logistics,Waste,Requires improvement
+04-01-2024,Waste Generation,3291.83,3059.66,kg,Manufacturing,Waste,Below target
+10-10-2024,On-Time Delivery Rate,79.81,87.15,%,Logistics,Operational,Below target
+15-05-2024,Workplace Safety Incidents,0.11,0.1,count,Operations,Social Impact,Above target
+19-10-2024,On-Time Delivery Rate,82.14,87.33,%,Logistics,Operational,On track
+29-03-2024,Inspection Hours,23.36,21.87,hours,Quality Control,Quality,Requires improvement
+14-07-2024,Product Defect Rate,3.18,2.91,%,Quality Control,Quality,New initiative
+01-08-2024,Energy Consumption,46484.22,42612.99,kWh,Manufacturing,Energy,Requires improvement
+20-11-2024,Carbon Emissions,84.44,77.29,tons,Manufacturing,Emissions,On track
+16-10-2024,Product Defect Rate,1.87,1.69,%,Quality Control,Quality,New initiative
+10-12-2024,Training Hours,25.15,27.61,hours,Operations,Social Impact,On track
+23-04-2024,Audit Failures,1.51,1.4,count,Quality Control,Quality,On track
+12-02-2024,Customer Complaints,7.86,7.13,count,Quality Control,Social Impact,Below target
+13-09-2024,Product Defect Rate,2.97,2.71,%,Quality Control,Quality,Requires improvement
+06-09-2024,Inspection Hours,24.05,22.22,hours,Quality Control,Quality,Above target
+06-05-2024,Inspection Hours,19.03,18.08,hours,Quality Control,Quality,New initiative
+15-02-2024,Workplace Safety Incidents,0.8,0.74,count,Operations,Social Impact,New initiative
+25-06-2024,Water Usage,21753.49,19956.99,liters,Manufacturing,Water,Below target
+15-11-2024,Waste Generation,1080.75,1012.43,kg,Manufacturing,Waste,Requires improvement
+16-12-2024,Equipment Maintenance Cost,926.34,871.6,USD,Operations,Operational,Above target
+28-01-2024,On-Time Delivery Rate,87.27,92.58,%,Logistics,Operational,On track
+24-06-2024,Employee Turnover Rate,1.96,1.8,%,Operations,Social Impact,On track
+02-10-2024,Waste Generation,2481,2360.3,kg,Manufacturing,Waste,Above target
+04-09-2024,Employee Turnover Rate,1.44,1.32,%,Operations,Social Impact,New initiative
+23-01-2024,Workplace Safety Incidents,1.13,1.07,count,Operations,Social Impact,New initiative
+18-05-2024,On-Time Delivery Rate,77.9,85.6,%,Logistics,Operational,New initiative
+04-12-2024,Water Usage,33083.14,29788.61,liters,Manufacturing,Water,Requires improvement
+28-04-2024,Packaging Waste,438.93,395.46,kg,Logistics,Waste,Requires improvement
+29-09-2024,Product Defect Rate,4.57,4.22,%,Quality Control,Quality,New initiative
+30-12-2024,Carbon Emissions,30.64,27.9,tons,Manufacturing,Emissions,New initiative
+07-09-2024,Energy Consumption,16132.65,14946.43,kWh,Manufacturing,Energy,Below target
+16-11-2024,Inspection Hours,5.46,5.1,hours,Quality Control,Quality,Below target
+01-02-2024,On-Time Delivery Rate,90.11,94.96,%,Logistics,Operational,Below target
+11-10-2024,Transport Emissions,17.92,16.86,tons,Logistics,Emissions,On track
+14-02-2024,On-Time Delivery Rate,81.75,86.52,%,Logistics,Operational,Above target
+08-06-2024,Inspection Hours,15.43,14.33,hours,Quality Control,Quality,Requires improvement
+24-10-2024,Transport Emissions,11.3,10.29,tons,Logistics,Emissions,Above target
+10-03-2024,Employee Turnover Rate,1.04,0.96,%,Operations,Social Impact,New initiative
+11-06-2024,Inspection Hours,21.41,19.87,hours,Quality Control,Quality,Above target
+11-06-2024,Production Downtime,12.99,12.16,hours,Manufacturing,Operational,Above target
+29-07-2024,Workplace Safety Incidents,2.3,2.17,count,Operations,Social Impact,Requires improvement
+18-03-2024,Transport Emissions,15.17,14.28,tons,Logistics,Emissions,Below target
+11-11-2024,Workplace Safety Incidents,0.39,0.35,count,Operations,Social Impact,New initiative
+02-07-2024,On-Time Delivery Rate,82.91,90.96,%,Logistics,Operational,On track
+30-12-2024,Water Usage,7570.24,7133.49,liters,Manufacturing,Water,Requires improvement
+24-03-2024,On-Time Delivery Rate,86.47,93.52,%,Logistics,Operational,Above target
+18-05-2024,Employee Turnover Rate,0.6,0.55,%,Operations,Social Impact,On track
+03-02-2024,Inspection Hours,23.56,22.37,hours,Quality Control,Quality,Above target
+22-08-2024,Equipment Maintenance Cost,8737.73,8078.01,USD,Operations,Operational,Below target
+09-06-2024,Equipment Maintenance Cost,4346.23,3920.7,USD,Operations,Operational,Requires improvement
+05-05-2024,Product Defect Rate,2.84,2.62,%,Quality Control,Quality,On track
+07-04-2024,Product Defect Rate,3.01,2.79,%,Quality Control,Quality,On track
+24-08-2024,Transport Emissions,8.56,7.83,tons,Logistics,Emissions,Below target
+13-03-2024,Equipment Maintenance Cost,3296.99,3118.79,USD,Operations,Operational,New initiative
+26-10-2024,Audit Failures,0.18,0.17,count,Quality Control,Quality,Above target
+20-08-2024,Equipment Maintenance Cost,4428.81,4085.77,USD,Operations,Operational,Above target
+04-03-2024,Equipment Maintenance Cost,1356.71,1243.02,USD,Operations,Operational,Above target
+25-09-2024,Energy Consumption,36780.2,34268.25,kWh,Manufacturing,Energy,On track
+20-06-2024,Inspection Hours,14.47,13.3,hours,Quality Control,Quality,Above target
+02-08-2024,Employee Turnover Rate,1.91,1.8,%,Operations,Social Impact,On track
+16-11-2024,Packaging Waste,378.57,358.9,kg,Logistics,Waste,Below target
+14-11-2024,Workplace Safety Incidents,2.7,2.56,count,Operations,Social Impact,On track
+03-01-2024,Fuel Efficiency,6.87,7.29,km/l,Logistics,Energy,New initiative
+28-07-2024,Inspection Hours,10.42,9.72,hours,Quality Control,Quality,Requires improvement
+22-05-2024,Product Defect Rate,3.21,2.89,%,Quality Control,Quality,New initiative
+19-01-2024,Workplace Safety Incidents,0.55,0.5,count,Operations,Social Impact,Below target
+18-06-2024,Workplace Safety Incidents,2,1.88,count,Operations,Social Impact,Below target
+10-12-2024,Energy Consumption,9899.94,9401.84,kWh,Manufacturing,Energy,Above target
+19-01-2024,On-Time Delivery Rate,88.74,94.66,%,Logistics,Operational,Below target
+06-08-2024,Waste Generation,1915.53,1749.54,kg,Manufacturing,Waste,On track
+17-06-2024,Waste Generation,2597.92,2459.92,kg,Manufacturing,Waste,Below target
+19-10-2024,Inspection Hours,22.4,20.85,hours,Quality Control,Quality,On track
+06-08-2024,Water Usage,36479.63,33934.77,liters,Manufacturing,Water,Below target
+07-03-2024,Packaging Waste,286.43,272.04,kg,Logistics,Waste,Below target
+29-04-2024,Audit Failures,0.99,0.9,count,Quality Control,Quality,New initiative
+16-04-2024,On-Time Delivery Rate,76.62,85.02,%,Logistics,Operational,On track
+06-01-2024,Audit Failures,0.09,0.08,count,Quality Control,Quality,Above target
+16-09-2024,Training Hours,14.86,16.45,hours,Operations,Social Impact,Below target
+18-10-2024,Fuel Efficiency,5.11,5.57,km/l,Logistics,Energy,Requires improvement
+30-08-2024,Carbon Emissions,29.98,27.46,tons,Manufacturing,Emissions,Requires improvement
+20-06-2024,Carbon Emissions,57.67,53.33,tons,Manufacturing,Emissions,New initiative
+02-06-2024,Audit Failures,1.86,1.68,count,Quality Control,Quality,New initiative
+03-02-2024,Fuel Efficiency,5.64,6.04,km/l,Logistics,Energy,Below target
+16-11-2024,Training Hours,39.27,42.83,hours,Operations,Social Impact,Requires improvement
+27-12-2024,Equipment Maintenance Cost,2280.1,2065.41,USD,Operations,Operational,Below target
+09-07-2024,Fuel Efficiency,5.75,6.36,km/l,Logistics,Energy,Above target
+10-07-2024,Customer Complaints,2.16,1.98,count,Quality Control,Social Impact,On track
+04-09-2024,Carbon Emissions,98.86,92.2,tons,Manufacturing,Emissions,On track
+07-06-2024,Employee Turnover Rate,1.08,1.01,%,Operations,Social Impact,New initiative
+12-12-2024,On-Time Delivery Rate,83.88,92.69,%,Logistics,Operational,New initiative
+29-02-2024,Employee Turnover Rate,1.71,1.59,%,Operations,Social Impact,New initiative
+14-02-2024,Waste Generation,5069.59,4675.22,kg,Manufacturing,Waste,New initiative
+12-01-2024,Transport Emissions,17.89,16.19,tons,Logistics,Emissions,Below target
+29-09-2024,On-Time Delivery Rate,80.24,88.21,%,Logistics,Operational,Below target
+20-05-2024,Transport Emissions,13.75,12.56,tons,Logistics,Emissions,Above target
+15-04-2024,Energy Consumption,48123.41,44657.62,kWh,Manufacturing,Energy,On track
+20-10-2024,Packaging Waste,171.97,162.88,kg,Logistics,Waste,Below target
+03-10-2024,Employee Turnover Rate,0.66,0.61,%,Operations,Social Impact,Below target
+24-02-2024,Product Defect Rate,1.09,1.01,%,Quality Control,Quality,On track
+30-10-2024,Product Defect Rate,0.89,0.82,%,Quality Control,Quality,New initiative
+10-02-2024,Customer Complaints,3.12,2.94,count,Quality Control,Social Impact,New initiative
+19-02-2024,Inspection Hours,7.32,6.88,hours,Quality Control,Quality,Requires improvement
+28-08-2024,Customer Complaints,6.84,6.4,count,Quality Control,Social Impact,Requires improvement
+05-07-2024,Employee Turnover Rate,0.79,0.72,%,Operations,Social Impact,Below target
+20-08-2024,Inspection Hours,22.49,20.99,hours,Quality Control,Quality,Below target
+24-08-2024,Product Defect Rate,0.79,0.72,%,Quality Control,Quality,Requires improvement
+17-09-2024,Training Hours,36.8,39.56,hours,Operations,Social Impact,Above target
+11-10-2024,Water Usage,41060.09,38589.83,liters,Manufacturing,Water,Below target
+02-05-2024,Waste Generation,2950.3,2757.18,kg,Manufacturing,Waste,Requires improvement
+16-04-2024,Employee Turnover Rate,2.1,1.96,%,Operations,Social Impact,Below target
+29-03-2024,Audit Failures,1.13,1.04,count,Quality Control,Quality,Above target
+25-08-2024,Production Downtime,17.55,15.9,hours,Manufacturing,Operational,New initiative
+05-02-2024,Fuel Efficiency,8.28,9.11,km/l,Logistics,Energy,Requires improvement
+26-11-2024,Production Downtime,16.57,15.23,hours,Manufacturing,Operational,Requires improvement
+21-11-2024,Energy Consumption,14792.53,13416.02,kWh,Manufacturing,Energy,New initiative
+18-07-2024,Carbon Emissions,74.53,69.48,tons,Manufacturing,Emissions,Below target
+18-10-2024,Inspection Hours,10.14,9.57,hours,Quality Control,Quality,Below target
+25-10-2024,Transport Emissions,14.64,13.85,tons,Logistics,Emissions,On track
+30-05-2024,Production Downtime,19.8,18.22,hours,Manufacturing,Operational,Above target
+26-12-2024,Waste Generation,4970.41,4525.16,kg,Manufacturing,Waste,On track
+09-08-2024,Fuel Efficiency,8.78,9.31,km/l,Logistics,Energy,Above target
+06-10-2024,Customer Complaints,7.12,6.55,count,Quality Control,Social Impact,Requires improvement
+03-07-2024,Employee Turnover Rate,1.28,1.21,%,Operations,Social Impact,Requires improvement
+09-03-2024,Inspection Hours,12.21,11.52,hours,Quality Control,Quality,Above target
+02-12-2024,Energy Consumption,34177.52,31005.84,kWh,Manufacturing,Energy,Requires improvement
+21-08-2024,Inspection Hours,7.12,6.64,hours,Quality Control,Quality,Requires improvement
+15-07-2024,Inspection Hours,16.36,15.07,hours,Quality Control,Quality,Requires improvement
+12-09-2024,On-Time Delivery Rate,80.8,86.86,%,Logistics,Operational,New initiative
+18-01-2024,Training Hours,21.78,23.49,hours,Operations,Social Impact,Below target
+03-09-2024,Production Downtime,12.25,11.25,hours,Manufacturing,Operational,New initiative
+26-08-2024,Carbon Emissions,81.5,75.72,tons,Manufacturing,Emissions,Below target
+18-11-2024,Production Downtime,18.35,16.6,hours,Manufacturing,Operational,Requires improvement
+24-06-2024,Production Downtime,16.97,15.54,hours,Manufacturing,Operational,On track
+18-06-2024,Water Usage,23247.7,21976.11,liters,Manufacturing,Water,New initiative
+26-03-2024,Customer Complaints,9.61,9.03,count,Quality Control,Social Impact,Below target
+13-05-2024,Production Downtime,16.24,15.21,hours,Manufacturing,Operational,New initiative
+15-11-2024,Water Usage,29328.91,27236.09,liters,Manufacturing,Water,Below target
+22-05-2024,Waste Generation,2669.22,2526.85,kg,Manufacturing,Waste,On track
+08-01-2024,On-Time Delivery Rate,83.3,91.16,%,Logistics,Operational,Below target
+03-12-2024,Production Downtime,7.62,7.08,hours,Manufacturing,Operational,Above target
+05-09-2024,Customer Complaints,8.08,7.38,count,Quality Control,Social Impact,Above target
+31-10-2024,Workplace Safety Incidents,1.03,0.93,count,Operations,Social Impact,Above target
+01-05-2024,Equipment Maintenance Cost,7651.23,7044.08,USD,Operations,Operational,Requires improvement
+28-01-2024,Inspection Hours,10.27,9.62,hours,Quality Control,Quality,Below target
+03-06-2024,Fuel Efficiency,4.86,5.26,km/l,Logistics,Energy,Requires improvement
+14-05-2024,Inspection Hours,14.5,13.56,hours,Quality Control,Quality,Requires improvement
+14-07-2024,Equipment Maintenance Cost,612.7,579.84,USD,Operations,Operational,Requires improvement
+09-08-2024,Fuel Efficiency,5.09,5.49,km/l,Logistics,Energy,Below target
+01-12-2024,Packaging Waste,171.65,161.37,kg,Logistics,Waste,Below target
+09-04-2024,Audit Failures,1.55,1.45,count,Quality Control,Quality,New initiative
+04-02-2024,On-Time Delivery Rate,79.36,88.13,%,Logistics,Operational,On track
+28-06-2024,Water Usage,5787.24,5238.58,liters,Manufacturing,Water,Requires improvement
+17-02-2024,Training Hours,14.73,16.34,hours,Operations,Social Impact,New initiative
+22-11-2024,Production Downtime,14.85,13.99,hours,Manufacturing,Operational,New initiative
+02-12-2024,Energy Consumption,8887.39,8267.35,kWh,Manufacturing,Energy,Requires improvement
+04-12-2024,Workplace Safety Incidents,2.09,1.91,count,Operations,Social Impact,Requires improvement
+20-12-2024,Water Usage,46212.07,42229.48,liters,Manufacturing,Water,Requires improvement
+14-07-2024,Packaging Waste,122.88,111.05,kg,Logistics,Waste,On track
+01-04-2024,Customer Complaints,9.96,9.09,count,Quality Control,Social Impact,Below target
+20-07-2024,Product Defect Rate,2.71,2.56,%,Quality Control,Quality,New initiative
+21-04-2024,Equipment Maintenance Cost,1530.09,1418.44,USD,Operations,Operational,Requires improvement
+06-02-2024,Water Usage,36054.62,32635.36,liters,Manufacturing,Water,On track
+20-01-2024,Transport Emissions,1.36,1.26,tons,Logistics,Emissions,On track
+21-10-2024,Customer Complaints,1.52,1.39,count,Quality Control,Social Impact,Requires improvement
+11-08-2024,Production Downtime,15.61,14.65,hours,Manufacturing,Operational,Requires improvement
+03-03-2024,Product Defect Rate,2.93,2.64,%,Quality Control,Quality,Requires improvement
+06-07-2024,Packaging Waste,356.83,328.29,kg,Logistics,Waste,On track
+27-11-2024,Fuel Efficiency,8.64,9.21,km/l,Logistics,Energy,Below target
+02-06-2024,Employee Turnover Rate,1.46,1.33,%,Operations,Social Impact,Above target
+19-11-2024,Product Defect Rate,3.34,3.07,%,Quality Control,Quality,On track
+02-05-2024,Inspection Hours,8.5,7.73,hours,Quality Control,Quality,New initiative
+12-09-2024,Audit Failures,0.13,0.12,count,Quality Control,Quality,Below target
+26-07-2024,Product Defect Rate,0.67,0.6,%,Quality Control,Quality,On track
+13-12-2024,Carbon Emissions,89.53,82.64,tons,Manufacturing,Emissions,Requires improvement
+07-09-2024,Employee Turnover Rate,1.99,1.89,%,Operations,Social Impact,Above target
+25-12-2024,Water Usage,45451.77,42311.9,liters,Manufacturing,Water,Above target
+19-02-2024,Workplace Safety Incidents,0.52,0.47,count,Operations,Social Impact,Below target
+28-02-2024,Inspection Hours,25.88,23.37,hours,Quality Control,Quality,On track
+13-12-2024,Inspection Hours,6.58,5.99,hours,Quality Control,Quality,Below target
+11-03-2024,Customer Complaints,1.21,1.13,count,Quality Control,Social Impact,New initiative
+02-02-2024,On-Time Delivery Rate,86.12,92.64,%,Logistics,Operational,Below target
+10-10-2024,Waste Generation,940.06,877.94,kg,Manufacturing,Waste,Below target
+21-02-2024,Equipment Maintenance Cost,2814.62,2615.06,USD,Operations,Operational,Above target
+04-01-2024,Inspection Hours,5.39,4.98,hours,Quality Control,Quality,On track
+01-08-2024,Workplace Safety Incidents,2.12,1.97,count,Operations,Social Impact,Below target
+18-08-2024,Inspection Hours,10.15,9.46,hours,Quality Control,Quality,New initiative
+01-11-2024,Inspection Hours,28.45,26.47,hours,Quality Control,Quality,On track
+27-06-2024,Equipment Maintenance Cost,6314.47,5710.81,USD,Operations,Operational,Below target
+18-02-2024,Product Defect Rate,3.01,2.74,%,Quality Control,Quality,New initiative
+21-05-2024,On-Time Delivery Rate,83.48,89.64,%,Logistics,Operational,Above target
+11-09-2024,Carbon Emissions,21.3,20.14,tons,Manufacturing,Emissions,Requires improvement
+25-05-2024,Employee Turnover Rate,1.59,1.51,%,Operations,Social Impact,Below target
+23-01-2024,Equipment Maintenance Cost,2888.13,2688.39,USD,Operations,Operational,Requires improvement
+05-09-2024,Energy Consumption,46618.76,42366.87,kWh,Manufacturing,Energy,On track
+23-10-2024,Energy Consumption,45278.56,42383.91,kWh,Manufacturing,Energy,New initiative
+27-04-2024,Transport Emissions,4.78,4.46,tons,Logistics,Emissions,Below target
+12-04-2024,Waste Generation,1373.35,1293.35,kg,Manufacturing,Waste,Requires improvement
+11-08-2024,Inspection Hours,6.84,6.36,hours,Quality Control,Quality,On track
+10-07-2024,Employee Turnover Rate,2.03,1.89,%,Operations,Social Impact,Requires improvement
+13-04-2024,Equipment Maintenance Cost,7338.3,6836.37,USD,Operations,Operational,Below target
+10-03-2024,On-Time Delivery Rate,79.21,85.32,%,Logistics,Operational,Below target
+22-04-2024,Water Usage,23470.37,21324.24,liters,Manufacturing,Water,Below target
+28-03-2024,On-Time Delivery Rate,86.57,92.9,%,Logistics,Operational,New initiative
+29-10-2024,Workplace Safety Incidents,1.24,1.15,count,Operations,Social Impact,Above target
+06-05-2024,Audit Failures,0.56,0.52,count,Quality Control,Quality,Above target
+17-03-2024,Transport Emissions,12.01,11.34,tons,Logistics,Emissions,New initiative
+15-09-2024,Water Usage,49029.02,44224.32,liters,Manufacturing,Water,Requires improvement
+19-08-2024,Water Usage,27024.96,24970.08,liters,Manufacturing,Water,On track
+21-04-2024,Inspection Hours,7.08,6.64,hours,Quality Control,Quality,Requires improvement
+09-01-2024,Training Hours,17.07,18.31,hours,Operations,Social Impact,On track
+25-10-2024,Customer Complaints,1.62,1.5,count,Quality Control,Social Impact,New initiative
+04-04-2024,Water Usage,23724.27,21516.28,liters,Manufacturing,Water,Requires improvement
+16-07-2024,Transport Emissions,14.37,12.93,tons,Logistics,Emissions,On track
+04-10-2024,Fuel Efficiency,6.08,6.48,km/l,Logistics,Energy,New initiative
+20-09-2024,Workplace Safety Incidents,1.86,1.71,count,Operations,Social Impact,On track
+21-01-2024,Fuel Efficiency,5.1,5.55,km/l,Logistics,Energy,New initiative
+14-10-2024,Packaging Waste,128.87,119.58,kg,Logistics,Waste,On track
+28-11-2024,Employee Turnover Rate,2.09,1.97,%,Operations,Social Impact,On track
+29-06-2024,Inspection Hours,23.83,22.35,hours,Quality Control,Quality,Below target
+19-08-2024,Transport Emissions,6.27,5.66,tons,Logistics,Emissions,Below target
+29-05-2024,Product Defect Rate,2.62,2.43,%,Quality Control,Quality,New initiative
+06-04-2024,Customer Complaints,8,7.58,count,Quality Control,Social Impact,On track
+09-02-2024,Product Defect Rate,0.86,0.81,%,Quality Control,Quality,Below target
+18-03-2024,Carbon Emissions,37.79,34.83,tons,Manufacturing,Emissions,Requires improvement
+08-03-2024,Workplace Safety Incidents,0.88,0.83,count,Operations,Social Impact,New initiative
+29-05-2024,Customer Complaints,4.2,3.93,count,Quality Control,Social Impact,On track
+26-11-2024,Workplace Safety Incidents,0.07,0.07,count,Operations,Social Impact,New initiative
+05-09-2024,Transport Emissions,12,11.19,tons,Logistics,Emissions,Below target
+28-03-2024,Audit Failures,0.61,0.55,count,Quality Control,Quality,Below target
+16-03-2024,On-Time Delivery Rate,85.22,89.84,%,Logistics,Operational,On track
+30-12-2024,Packaging Waste,255.17,231.78,kg,Logistics,Waste,Above target
+23-03-2024,On-Time Delivery Rate,89.23,94.73,%,Logistics,Operational,Above target
+13-08-2024,Workplace Safety Incidents,0.12,0.11,count,Operations,Social Impact,Above target
+06-12-2024,Packaging Waste,133.02,123.46,kg,Logistics,Waste,On track
+30-09-2024,Packaging Waste,116.57,107.53,kg,Logistics,Waste,Above target
+15-03-2024,Fuel Efficiency,8.83,9.6,km/l,Logistics,Energy,Requires improvement
+16-09-2024,Customer Complaints,1.56,1.48,count,Quality Control,Social Impact,New initiative
+07-12-2024,Packaging Waste,263.26,240.75,kg,Logistics,Waste,New initiative
+21-01-2024,Equipment Maintenance Cost,3717.5,3366.63,USD,Operations,Operational,Requires improvement
+16-08-2024,Workplace Safety Incidents,0.92,0.85,count,Operations,Social Impact,Above target
+25-10-2024,Fuel Efficiency,6.17,6.63,km/l,Logistics,Energy,Above target
+12-12-2024,Training Hours,12.49,13.81,hours,Operations,Social Impact,Requires improvement
+05-11-2024,Production Downtime,10.92,10.1,hours,Manufacturing,Operational,New initiative
+08-07-2024,Waste Generation,2289.17,2108.28,kg,Manufacturing,Waste,Requires improvement
+16-08-2024,Customer Complaints,0.12,0.11,count,Quality Control,Social Impact,Below target
+14-08-2024,Carbon Emissions,80.96,75.51,tons,Manufacturing,Emissions,Requires improvement
+31-07-2024,On-Time Delivery Rate,88.27,93.06,%,Logistics,Operational,Requires improvement
+20-06-2024,Workplace Safety Incidents,0.43,0.39,count,Operations,Social Impact,New initiative
+23-11-2024,Production Downtime,16.34,14.78,hours,Manufacturing,Operational,Requires improvement
+11-03-2024,Transport Emissions,4.32,3.99,tons,Logistics,Emissions,New initiative
+22-01-2024,Employee Turnover Rate,1.86,1.75,%,Operations,Social Impact,Requires improvement
+14-01-2024,Packaging Waste,272.35,255.19,kg,Logistics,Waste,Above target
+04-03-2024,Carbon Emissions,36.93,33.64,tons,Manufacturing,Emissions,Requires improvement
+15-01-2024,Transport Emissions,4.41,4.17,tons,Logistics,Emissions,Above target
+04-07-2024,Waste Generation,2819.53,2566.64,kg,Manufacturing,Waste,New initiative
+21-12-2024,Audit Failures,1.74,1.62,count,Quality Control,Quality,Requires improvement
+24-03-2024,Waste Generation,2869.64,2660.12,kg,Manufacturing,Waste,Below target
+01-07-2024,Carbon Emissions,42.41,38.77,tons,Manufacturing,Emissions,Above target
+25-01-2024,Workplace Safety Incidents,0.82,0.76,count,Operations,Social Impact,Below target
+09-04-2024,Packaging Waste,288.33,273,kg,Logistics,Waste,New initiative
+10-06-2024,Workplace Safety Incidents,1.8,1.64,count,Operations,Social Impact,Below target
+30-09-2024,Packaging Waste,358.45,334.94,kg,Logistics,Waste,On track
+05-09-2024,On-Time Delivery Rate,78.82,85.13,%,Logistics,Operational,Below target
+20-03-2024,Customer Complaints,9.21,8.36,count,Quality Control,Social Impact,Above target
+29-09-2024,Employee Turnover Rate,1.82,1.69,%,Operations,Social Impact,New initiative
+09-01-2024,Water Usage,23564.08,21297.69,liters,Manufacturing,Water,Above target
+01-11-2024,Customer Complaints,3.12,2.86,count,Quality Control,Social Impact,Requires improvement
+23-04-2024,On-Time Delivery Rate,83.02,92.1,%,Logistics,Operational,On track
+07-03-2024,Employee Turnover Rate,1.63,1.53,%,Operations,Social Impact,Above target
+10-01-2024,Water Usage,34850.09,32731.26,liters,Manufacturing,Water,On track
+30-10-2024,Audit Failures,0.09,0.08,count,Quality Control,Quality,New initiative
+03-06-2024,Water Usage,6827.19,6230.84,liters,Manufacturing,Water,On track
+27-10-2024,Energy Consumption,40206.69,38035.73,kWh,Manufacturing,Energy,Above target
+22-05-2024,Employee Turnover Rate,1.59,1.51,%,Operations,Social Impact,Above target
+03-05-2024,Packaging Waste,122.25,113.09,kg,Logistics,Waste,New initiative
+21-04-2024,Energy Consumption,41881.39,39291.54,kWh,Manufacturing,Energy,New initiative
+20-02-2024,Training Hours,11.94,12.73,hours,Operations,Social Impact,On track
+10-12-2024,Equipment Maintenance Cost,3981.4,3700.59,USD,Operations,Operational,Requires improvement
+19-04-2024,Carbon Emissions,93.56,85.13,tons,Manufacturing,Emissions,Requires improvement
+26-08-2024,Equipment Maintenance Cost,1572.03,1492.22,USD,Operations,Operational,On track
+12-10-2024,Production Downtime,7.04,6.6,hours,Manufacturing,Operational,Below target
+21-08-2024,Energy Consumption,19765.19,17903.03,kWh,Manufacturing,Energy,Below target
+06-04-2024,Transport Emissions,5.29,4.87,tons,Logistics,Emissions,Requires improvement
+11-12-2024,Water Usage,47015.02,43177.28,liters,Manufacturing,Water,On track
+02-03-2024,Product Defect Rate,2.28,2.11,%,Quality Control,Quality,On track
+27-03-2024,Equipment Maintenance Cost,4305.93,4002.48,USD,Operations,Operational,On track
+25-07-2024,Waste Generation,5207.69,4881,kg,Manufacturing,Waste,New initiative
+24-10-2024,Carbon Emissions,92.8,85.43,tons,Manufacturing,Emissions,Below target
+05-09-2024,Transport Emissions,7.77,7.25,tons,Logistics,Emissions,Requires improvement
+07-09-2024,On-Time Delivery Rate,83.91,92.68,%,Logistics,Operational,Below target
+28-01-2024,Inspection Hours,20.71,18.78,hours,Quality Control,Quality,On track
+05-11-2024,Water Usage,34227.26,32468.1,liters,Manufacturing,Water,Requires improvement
+04-12-2024,On-Time Delivery Rate,81.97,88.03,%,Logistics,Operational,On track
+15-09-2024,Audit Failures,0.4,0.37,count,Quality Control,Quality,Requires improvement
+17-01-2024,Packaging Waste,414.27,384.04,kg,Logistics,Waste,On track
+14-08-2024,Product Defect Rate,2.23,2.04,%,Quality Control,Quality,Requires improvement
+27-12-2024,Product Defect Rate,0.65,0.6,%,Quality Control,Quality,Below target
+06-09-2024,Equipment Maintenance Cost,4591.47,4204.06,USD,Operations,Operational,Requires improvement
+19-10-2024,Production Downtime,15.13,14.12,hours,Manufacturing,Operational,New initiative
+19-07-2024,Audit Failures,1.12,1.02,count,Quality Control,Quality,On track
+25-05-2024,Transport Emissions,12.23,11.24,tons,Logistics,Emissions,Below target
+27-06-2024,Fuel Efficiency,4.64,5.14,km/l,Logistics,Energy,Below target
+29-07-2024,Waste Generation,2171.47,2026.75,kg,Manufacturing,Waste,Below target
+30-10-2024,Fuel Efficiency,7.58,8.31,km/l,Logistics,Energy,Below target
+11-01-2024,Energy Consumption,44102.3,39944.49,kWh,Manufacturing,Energy,Above target
+20-09-2024,Fuel Efficiency,6.89,7.3,km/l,Logistics,Energy,New initiative
+11-06-2024,Customer Complaints,0.2,0.18,count,Quality Control,Social Impact,On track
+21-02-2024,Audit Failures,0.64,0.58,count,Quality Control,Quality,Requires improvement
+26-03-2024,Training Hours,25.72,27.35,hours,Operations,Social Impact,Below target
+01-10-2024,Packaging Waste,486.24,442.52,kg,Logistics,Waste,On track
+24-07-2024,Training Hours,15.49,16.93,hours,Operations,Social Impact,New initiative
+21-06-2024,Workplace Safety Incidents,2.15,2,count,Operations,Social Impact,New initiative
+17-04-2024,Fuel Efficiency,7.25,7.83,km/l,Logistics,Energy,Requires improvement
+09-08-2024,Fuel Efficiency,7.56,8.26,km/l,Logistics,Energy,Below target
+20-08-2024,On-Time Delivery Rate,81.35,89.14,%,Logistics,Operational,New initiative
+22-10-2024,Workplace Safety Incidents,1.88,1.74,count,Operations,Social Impact,Above target
+17-05-2024,Inspection Hours,21.52,20.25,hours,Quality Control,Quality,Requires improvement
+03-05-2024,Product Defect Rate,2.85,2.62,%,Quality Control,Quality,Above target
+20-11-2024,Training Hours,39.57,42.99,hours,Operations,Social Impact,On track
+11-05-2024,Equipment Maintenance Cost,3035.88,2775.86,USD,Operations,Operational,Above target
+05-05-2024,Equipment Maintenance Cost,2765.59,2509.77,USD,Operations,Operational,On track
+27-11-2024,Transport Emissions,10.22,9.7,tons,Logistics,Emissions,Requires improvement
+22-05-2024,Carbon Emissions,25.72,24.34,tons,Manufacturing,Emissions,Below target
+29-01-2024,Workplace Safety Incidents,2.89,2.67,count,Operations,Social Impact,On track
+05-07-2024,Waste Generation,3375.94,3087.68,kg,Manufacturing,Waste,Requires improvement
+30-04-2024,Water Usage,47214.94,44203.18,liters,Manufacturing,Water,Above target
+06-12-2024,Production Downtime,16.02,15.17,hours,Manufacturing,Operational,New initiative
+09-06-2024,Transport Emissions,17.81,16.24,tons,Logistics,Emissions,On track
+21-04-2024,Transport Emissions,16.31,15.29,tons,Logistics,Emissions,Requires improvement
+28-07-2024,Workplace Safety Incidents,0.53,0.5,count,Operations,Social Impact,Requires improvement
+11-06-2024,Fuel Efficiency,6.84,7.45,km/l,Logistics,Energy,On track
+04-07-2024,Audit Failures,1.37,1.3,count,Quality Control,Quality,Above target
+18-01-2024,Customer Complaints,8.21,7.4,count,Quality Control,Social Impact,New initiative
+16-12-2024,Carbon Emissions,35.04,32.77,tons,Manufacturing,Emissions,Below target
+05-01-2024,Production Downtime,18,16.97,hours,Manufacturing,Operational,Requires improvement
+01-06-2024,Customer Complaints,3.01,2.85,count,Quality Control,Social Impact,Above target
+18-01-2024,Employee Turnover Rate,2.02,1.87,%,Operations,Social Impact,Requires improvement
+30-07-2024,Fuel Efficiency,8.64,9.12,km/l,Logistics,Energy,Requires improvement
+23-12-2024,Transport Emissions,17.66,16.62,tons,Logistics,Emissions,Above target
+16-06-2024,Fuel Efficiency,6.29,6.76,km/l,Logistics,Energy,New initiative
+18-11-2024,Product Defect Rate,3.93,3.66,%,Quality Control,Quality,Above target
+09-06-2024,Inspection Hours,5.08,4.62,hours,Quality Control,Quality,Below target
+31-10-2024,Energy Consumption,12102.01,11204.26,kWh,Manufacturing,Energy,Above target
+13-05-2024,Customer Complaints,4.51,4.26,count,Quality Control,Social Impact,Above target
+07-07-2024,Training Hours,37.29,40.98,hours,Operations,Social Impact,Requires improvement
+24-04-2024,Equipment Maintenance Cost,8825.71,8360.05,USD,Operations,Operational,New initiative
+15-02-2024,Energy Consumption,46540.06,43391.87,kWh,Manufacturing,Energy,Above target
+24-07-2024,Inspection Hours,11.54,10.88,hours,Quality Control,Quality,On track
+17-10-2024,Customer Complaints,1.49,1.41,count,Quality Control,Social Impact,Above target
+10-12-2024,Energy Consumption,37336.25,34414.98,kWh,Manufacturing,Energy,Requires improvement
+27-05-2024,Product Defect Rate,1.51,1.37,%,Quality Control,Quality,Below target
+20-04-2024,Audit Failures,0.26,0.25,count,Quality Control,Quality,New initiative
+15-01-2024,On-Time Delivery Rate,82.08,89.18,%,Logistics,Operational,Above target
+08-07-2024,Packaging Waste,155.97,143.89,kg,Logistics,Waste,Above target
+20-12-2024,Product Defect Rate,0.55,0.5,%,Quality Control,Quality,Below target
+11-05-2024,Inspection Hours,22.83,21.36,hours,Quality Control,Quality,New initiative
+29-08-2024,Energy Consumption,30065,27136.84,kWh,Manufacturing,Energy,Above target
+03-06-2024,Fuel Efficiency,4.65,5.03,km/l,Logistics,Energy,Requires improvement
+24-10-2024,Customer Complaints,1.32,1.25,count,Quality Control,Social Impact,On track
+27-08-2024,Training Hours,11.69,12.64,hours,Operations,Social Impact,Below target
+13-05-2024,Workplace Safety Incidents,0.95,0.88,count,Operations,Social Impact,Above target
+03-07-2024,Waste Generation,435.21,411.98,kg,Manufacturing,Waste,Below target
+21-09-2024,Customer Complaints,9.03,8.25,count,Quality Control,Social Impact,Below target
+18-03-2024,Transport Emissions,17.96,16.45,tons,Logistics,Emissions,Requires improvement
+19-01-2024,Product Defect Rate,1.35,1.22,%,Quality Control,Quality,Above target
+10-09-2024,Customer Complaints,1.64,1.51,count,Quality Control,Social Impact,On track
+22-08-2024,Water Usage,18469.49,17277.31,liters,Manufacturing,Water,Requires improvement
+27-06-2024,Product Defect Rate,4.31,4.07,%,Quality Control,Quality,On track
+17-09-2024,Carbon Emissions,93.34,88.14,tons,Manufacturing,Emissions,Above target
+19-10-2024,On-Time Delivery Rate,86.17,90.84,%,Logistics,Operational,New initiative
+12-12-2024,Equipment Maintenance Cost,9243.93,8433.31,USD,Operations,Operational,Requires improvement
+20-07-2024,Waste Generation,351.91,324.62,kg,Manufacturing,Waste,On track
+23-08-2024,Fuel Efficiency,8.33,9.18,km/l,Logistics,Energy,On track
+17-06-2024,Audit Failures,1.26,1.15,count,Quality Control,Quality,On track
+07-03-2024,Production Downtime,19.26,17.65,hours,Manufacturing,Operational,New initiative
+06-02-2024,Workplace Safety Incidents,2.4,2.19,count,Operations,Social Impact,On track
+15-02-2024,Product Defect Rate,2.29,2.08,%,Quality Control,Quality,Requires improvement
+27-11-2024,Carbon Emissions,26.85,24.66,tons,Manufacturing,Emissions,Below target
+16-12-2024,Workplace Safety Incidents,0.9,0.85,count,Operations,Social Impact,Below target
+12-04-2024,Training Hours,32.91,34.95,hours,Operations,Social Impact,New initiative
+03-11-2024,Audit Failures,1.77,1.64,count,Quality Control,Quality,New initiative
+05-04-2024,Product Defect Rate,3.9,3.67,%,Quality Control,Quality,New initiative
+12-12-2024,Audit Failures,0.19,0.18,count,Quality Control,Quality,Requires improvement
+12-02-2024,Employee Turnover Rate,2.05,1.9,%,Operations,Social Impact,New initiative
+02-06-2024,Transport Emissions,9.31,8.8,tons,Logistics,Emissions,Requires improvement
+24-09-2024,Employee Turnover Rate,1.63,1.53,%,Operations,Social Impact,Above target
+19-09-2024,Customer Complaints,5.69,5.28,count,Quality Control,Social Impact,On track
+09-05-2024,Production Downtime,11.37,10.29,hours,Manufacturing,Operational,New initiative
+28-02-2024,Packaging Waste,313.51,294.21,kg,Logistics,Waste,On track
+12-02-2024,Inspection Hours,24.65,23.22,hours,Quality Control,Quality,On track
+15-11-2024,Customer Complaints,3.14,2.94,count,Quality Control,Social Impact,Requires improvement
+18-04-2024,Packaging Waste,485.02,457.65,kg,Logistics,Waste,Above target
+10-08-2024,Workplace Safety Incidents,2.24,2.08,count,Operations,Social Impact,On track
+23-08-2024,Energy Consumption,22772.02,20509.97,kWh,Manufacturing,Energy,Requires improvement
+03-07-2024,Audit Failures,0.61,0.57,count,Quality Control,Quality,New initiative
+27-02-2024,Customer Complaints,0.88,0.8,count,Quality Control,Social Impact,Above target
+28-11-2024,Carbon Emissions,92.59,87.31,tons,Manufacturing,Emissions,Above target
+07-04-2024,Equipment Maintenance Cost,8499.85,8014.59,USD,Operations,Operational,New initiative
+12-01-2024,Waste Generation,4118.25,3894.66,kg,Manufacturing,Waste,Requires improvement
+05-09-2024,Carbon Emissions,99.15,91.22,tons,Manufacturing,Emissions,Requires improvement
+30-05-2024,Product Defect Rate,4.37,4.06,%,Quality Control,Quality,Above target
+31-07-2024,Product Defect Rate,2,1.81,%,Quality Control,Quality,Requires improvement
+29-10-2024,Customer Complaints,0.37,0.34,count,Quality Control,Social Impact,New initiative
+22-10-2024,Inspection Hours,22.86,21.18,hours,Quality Control,Quality,Requires improvement
+29-02-2024,Fuel Efficiency,5.91,6.34,km/l,Logistics,Energy,Requires improvement
+27-05-2024,Customer Complaints,4.48,4.13,count,Quality Control,Social Impact,Above target
+27-10-2024,Equipment Maintenance Cost,3766.55,3433.61,USD,Operations,Operational,Above target
+01-08-2024,Transport Emissions,3.49,3.19,tons,Logistics,Emissions,Requires improvement
+16-04-2024,Transport Emissions,16.2,15.26,tons,Logistics,Emissions,New initiative
+21-03-2024,Fuel Efficiency,7.56,8.34,km/l,Logistics,Energy,Above target
+04-06-2024,Product Defect Rate,4.07,3.85,%,Quality Control,Quality,Requires improvement
+13-05-2024,Employee Turnover Rate,1.47,1.34,%,Operations,Social Impact,Below target
+17-01-2024,On-Time Delivery Rate,81.8,86.75,%,Logistics,Operational,New initiative
+14-10-2024,Waste Generation,2450.33,2266.98,kg,Manufacturing,Waste,On track
+24-01-2024,Equipment Maintenance Cost,2949.31,2704.57,USD,Operations,Operational,Below target
+08-12-2024,On-Time Delivery Rate,88.26,93.53,%,Logistics,Operational,New initiative
+26-02-2024,Energy Consumption,46698.44,43050.89,kWh,Manufacturing,Energy,Requires improvement
+14-10-2024,Production Downtime,14.14,13.33,hours,Manufacturing,Operational,On track
+04-07-2024,Production Downtime,6.58,6.13,hours,Manufacturing,Operational,Above target
+20-02-2024,Training Hours,34.59,36.87,hours,Operations,Social Impact,Requires improvement
+12-08-2024,Training Hours,18.19,20.06,hours,Operations,Social Impact,Above target
+26-05-2024,Product Defect Rate,1.6,1.5,%,Quality Control,Quality,Below target
+03-07-2024,Workplace Safety Incidents,0.8,0.75,count,Operations,Social Impact,Requires improvement
+11-03-2024,Employee Turnover Rate,1.75,1.63,%,Operations,Social Impact,Above target
+15-12-2024,Audit Failures,1.84,1.74,count,Quality Control,Quality,New initiative
+05-02-2024,Fuel Efficiency,6.77,7.21,km/l,Logistics,Energy,New initiative
+10-08-2024,Waste Generation,1880.62,1711.06,kg,Manufacturing,Waste,Above target
+21-10-2024,Water Usage,38200.43,35641.34,liters,Manufacturing,Water,Above target
+04-06-2024,Production Downtime,19.59,18.04,hours,Manufacturing,Operational,New initiative
+08-11-2024,Packaging Waste,53.56,48.95,kg,Logistics,Waste,New initiative
+15-11-2024,Equipment Maintenance Cost,4738.8,4313.52,USD,Operations,Operational,New initiative
+11-04-2024,Customer Complaints,8.88,8.34,count,Quality Control,Social Impact,Requires improvement
+23-09-2024,Fuel Efficiency,4.75,5.18,km/l,Logistics,Energy,Above target
+23-06-2024,On-Time Delivery Rate,79.71,85.93,%,Logistics,Operational,New initiative
+12-05-2024,Workplace Safety Incidents,0.08,0.08,count,Operations,Social Impact,New initiative
+31-01-2024,Training Hours,35.78,37.69,hours,Operations,Social Impact,On track
+29-11-2024,Packaging Waste,332.15,304.82,kg,Logistics,Waste,On track
+22-06-2024,Water Usage,15600.09,14614.83,liters,Manufacturing,Water,Requires improvement
+10-12-2024,Employee Turnover Rate,1.1,1.03,%,Operations,Social Impact,New initiative
+21-09-2024,Equipment Maintenance Cost,5436.83,4960.46,USD,Operations,Operational,Below target
+29-07-2024,Training Hours,23.08,25.44,hours,Operations,Social Impact,Requires improvement
+19-04-2024,Energy Consumption,7798.72,7365.31,kWh,Manufacturing,Energy,Requires improvement
+13-10-2024,Product Defect Rate,2.16,2,%,Quality Control,Quality,New initiative
+18-12-2024,Customer Complaints,5.84,5.44,count,Quality Control,Social Impact,Requires improvement
+05-09-2024,Audit Failures,1.65,1.5,count,Quality Control,Quality,Above target
+01-03-2024,Inspection Hours,29.2,27.03,hours,Quality Control,Quality,New initiative
+08-07-2024,Equipment Maintenance Cost,4996.88,4683.7,USD,Operations,Operational,New initiative
+19-10-2024,Production Downtime,17.78,16.1,hours,Manufacturing,Operational,Below target
+10-07-2024,Fuel Efficiency,6.89,7.61,km/l,Logistics,Energy,Below target
+28-10-2024,Packaging Waste,268.67,252.43,kg,Logistics,Waste,Above target
+20-04-2024,Product Defect Rate,4.72,4.32,%,Quality Control,Quality,Below target
+23-01-2024,Equipment Maintenance Cost,519.81,482.06,USD,Operations,Operational,On track
+12-07-2024,Audit Failures,1.15,1.07,count,Quality Control,Quality,Below target
+18-08-2024,Inspection Hours,24.05,22.25,hours,Quality Control,Quality,Requires improvement
+06-12-2024,Inspection Hours,26.66,24.43,hours,Quality Control,Quality,New initiative
+24-01-2024,Audit Failures,0.47,0.43,count,Quality Control,Quality,New initiative
+19-10-2024,Customer Complaints,6.46,6.09,count,Quality Control,Social Impact,On track
+04-10-2024,Fuel Efficiency,7.43,8.22,km/l,Logistics,Energy,New initiative
+10-01-2024,Production Downtime,12.83,12.03,hours,Manufacturing,Operational,New initiative
+05-05-2024,Production Downtime,7.7,6.94,hours,Manufacturing,Operational,Above target
+28-10-2024,Product Defect Rate,4.13,3.84,%,Quality Control,Quality,Requires improvement
+02-04-2024,Water Usage,43236.74,38963.36,liters,Manufacturing,Water,Requires improvement
+16-02-2024,Product Defect Rate,4.37,4,%,Quality Control,Quality,Below target
+10-05-2024,Energy Consumption,29380.07,26861.25,kWh,Manufacturing,Energy,Above target
+31-01-2024,Carbon Emissions,40.26,37.61,tons,Manufacturing,Emissions,Above target
+20-02-2024,On-Time Delivery Rate,76.99,85.27,%,Logistics,Operational,Requires improvement
+02-03-2024,On-Time Delivery Rate,81.66,89.13,%,Logistics,Operational,Requires improvement
+09-09-2024,Carbon Emissions,34.09,31.57,tons,Manufacturing,Emissions,Above target
+27-07-2024,Product Defect Rate,1.71,1.57,%,Quality Control,Quality,New initiative
+17-05-2024,Water Usage,2416.42,2251.32,liters,Manufacturing,Water,On track
+04-06-2024,Carbon Emissions,85.17,78.67,tons,Manufacturing,Emissions,Above target
+13-03-2024,Audit Failures,0.17,0.16,count,Quality Control,Quality,Above target
+11-10-2024,On-Time Delivery Rate,86.03,92.82,%,Logistics,Operational,Requires improvement
+28-05-2024,Product Defect Rate,0.5,0.46,%,Quality Control,Quality,New initiative
+02-11-2024,Workplace Safety Incidents,0.18,0.17,count,Operations,Social Impact,Below target
+26-10-2024,Transport Emissions,19.99,18.83,tons,Logistics,Emissions,Above target
+02-06-2024,Fuel Efficiency,5.38,5.81,km/l,Logistics,Energy,On track
+23-05-2024,Water Usage,35223.04,33163.37,liters,Manufacturing,Water,New initiative
+15-12-2024,Inspection Hours,20.26,19.2,hours,Quality Control,Quality,Below target
+05-05-2024,Packaging Waste,490.84,459.13,kg,Logistics,Waste,Below target
+09-01-2024,Packaging Waste,144.78,137.24,kg,Logistics,Waste,Below target
+10-12-2024,Workplace Safety Incidents,1.83,1.65,count,Operations,Social Impact,On track
+20-07-2024,Equipment Maintenance Cost,5780.01,5403.29,USD,Operations,Operational,Requires improvement
+10-12-2024,Energy Consumption,29239.22,27620.2,kWh,Manufacturing,Energy,Requires improvement
+02-07-2024,Waste Generation,5200.65,4865.79,kg,Manufacturing,Waste,New initiative
+04-03-2024,Inspection Hours,25.98,24.44,hours,Quality Control,Quality,On track
+11-01-2024,Customer Complaints,9.36,8.63,count,Quality Control,Social Impact,Above target
+23-04-2024,Packaging Waste,136.18,128.12,kg,Logistics,Waste,Below target
+26-12-2024,Equipment Maintenance Cost,9689.32,8738.21,USD,Operations,Operational,Requires improvement
+26-02-2024,Workplace Safety Incidents,0.59,0.56,count,Operations,Social Impact,Requires improvement
+10-12-2024,Transport Emissions,4.24,3.86,tons,Logistics,Emissions,New initiative
+12-05-2024,Workplace Safety Incidents,1.76,1.65,count,Operations,Social Impact,Above target
+10-11-2024,Training Hours,12.73,13.63,hours,Operations,Social Impact,New initiative
+14-06-2024,Transport Emissions,1.04,0.96,tons,Logistics,Emissions,On track
+10-09-2024,Audit Failures,0.55,0.51,count,Quality Control,Quality,Requires improvement
+03-08-2024,Fuel Efficiency,8.58,9.42,km/l,Logistics,Energy,Below target
+19-10-2024,Customer Complaints,0.05,0.05,count,Quality Control,Social Impact,On track
+07-05-2024,Carbon Emissions,105.01,98.03,tons,Manufacturing,Emissions,On track
+15-01-2024,Employee Turnover Rate,1.04,0.99,%,Operations,Social Impact,On track
+08-05-2024,Audit Failures,1.62,1.51,count,Quality Control,Quality,Below target
+19-06-2024,Workplace Safety Incidents,1.42,1.35,count,Operations,Social Impact,On track
+16-11-2024,Workplace Safety Incidents,2.33,2.17,count,Operations,Social Impact,On track
+12-07-2024,Product Defect Rate,0.88,0.79,%,Quality Control,Quality,On track
+29-01-2024,Fuel Efficiency,8.05,8.91,km/l,Logistics,Energy,Requires improvement
+27-01-2024,Transport Emissions,2.25,2.1,tons,Logistics,Emissions,New initiative
+29-04-2024,Transport Emissions,8.63,8.03,tons,Logistics,Emissions,Requires improvement
+13-11-2024,Water Usage,19812.08,18618.57,liters,Manufacturing,Water,New initiative
+20-08-2024,Waste Generation,3602.97,3324.42,kg,Manufacturing,Waste,On track
+30-10-2024,On-Time Delivery Rate,77.52,86.08,%,Logistics,Operational,On track
+03-09-2024,Employee Turnover Rate,1.55,1.46,%,Operations,Social Impact,Requires improvement
+06-03-2024,Inspection Hours,11.08,10.41,hours,Quality Control,Quality,On track
+08-06-2024,Transport Emissions,10.75,10.03,tons,Logistics,Emissions,Below target
+07-07-2024,Employee Turnover Rate,1.3,1.2,%,Operations,Social Impact,Below target
+01-05-2024,Production Downtime,13.8,12.89,hours,Manufacturing,Operational,On track
+05-02-2024,Water Usage,17846.99,16933.68,liters,Manufacturing,Water,Above target
+03-11-2024,On-Time Delivery Rate,85.7,91.68,%,Logistics,Operational,Requires improvement
+23-02-2024,Packaging Waste,327.25,301.38,kg,Logistics,Waste,Above target
+20-12-2024,Product Defect Rate,2.73,2.58,%,Quality Control,Quality,Above target
+11-07-2024,Equipment Maintenance Cost,6427.24,5861.33,USD,Operations,Operational,Below target
+06-01-2024,Equipment Maintenance Cost,2250.32,2136.67,USD,Operations,Operational,Below target
+13-08-2024,Waste Generation,363.27,344.08,kg,Manufacturing,Waste,Below target
+25-05-2024,Training Hours,6.29,6.98,hours,Operations,Social Impact,Above target
+10-10-2024,Employee Turnover Rate,1.99,1.83,%,Operations,Social Impact,Below target
+21-02-2024,Employee Turnover Rate,0.84,0.79,%,Operations,Social Impact,Below target
+22-06-2024,Carbon Emissions,48.04,44.1,tons,Manufacturing,Emissions,On track
+04-12-2024,Training Hours,23.45,25.53,hours,Operations,Social Impact,Below target
+07-03-2024,Equipment Maintenance Cost,8844.68,7989.12,USD,Operations,Operational,Above target
+02-11-2024,Employee Turnover Rate,1.41,1.3,%,Operations,Social Impact,Below target
+06-04-2024,Inspection Hours,28.03,26.3,hours,Quality Control,Quality,New initiative
+05-03-2024,On-Time Delivery Rate,79.69,88.28,%,Logistics,Operational,Below target
+03-02-2024,Inspection Hours,23.18,21.77,hours,Quality Control,Quality,New initiative
+10-07-2024,Equipment Maintenance Cost,7637.43,7120.02,USD,Operations,Operational,New initiative
+21-12-2024,Audit Failures,0.36,0.34,count,Quality Control,Quality,New initiative
+28-11-2024,Audit Failures,0.95,0.88,count,Quality Control,Quality,New initiative
+21-07-2024,Carbon Emissions,31.55,29.76,tons,Manufacturing,Emissions,Above target
+10-07-2024,Training Hours,22.17,24.13,hours,Operations,Social Impact,Above target
+22-09-2024,Fuel Efficiency,5.13,5.67,km/l,Logistics,Energy,Requires improvement
+21-06-2024,On-Time Delivery Rate,83.87,90.84,%,Logistics,Operational,New initiative
+11-06-2024,Audit Failures,0.94,0.87,count,Quality Control,Quality,Requires improvement
+26-11-2024,Transport Emissions,1.47,1.36,tons,Logistics,Emissions,Below target
+19-09-2024,Waste Generation,4820.1,4527.08,kg,Manufacturing,Waste,New initiative
+03-07-2024,Waste Generation,4902.96,4647.71,kg,Manufacturing,Waste,On track
+08-05-2024,Production Downtime,8,7.28,hours,Manufacturing,Operational,Below target
+05-10-2024,Packaging Waste,135.79,126.31,kg,Logistics,Waste,Above target
+25-07-2024,Fuel Efficiency,8.09,8.85,km/l,Logistics,Energy,Below target
+22-07-2024,Product Defect Rate,2.62,2.43,%,Quality Control,Quality,Above target
+21-09-2024,Employee Turnover Rate,1.69,1.59,%,Operations,Social Impact,Above target
+07-08-2024,Audit Failures,0.68,0.61,count,Quality Control,Quality,Above target
+10-07-2024,Inspection Hours,15.97,15.05,hours,Quality Control,Quality,On track
+03-12-2024,Employee Turnover Rate,1.04,0.96,%,Operations,Social Impact,Requires improvement
+19-12-2024,Packaging Waste,151.47,139.55,kg,Logistics,Waste,Requires improvement
+12-03-2024,Packaging Waste,314.13,291.63,kg,Logistics,Waste,On track
+20-10-2024,Training Hours,28.73,30.57,hours,Operations,Social Impact,New initiative
+16-07-2024,Audit Failures,0.41,0.38,count,Quality Control,Quality,New initiative
+23-11-2024,Equipment Maintenance Cost,1532.06,1422.48,USD,Operations,Operational,Requires improvement
+17-01-2024,Fuel Efficiency,5.47,5.86,km/l,Logistics,Energy,Above target
+25-05-2024,Product Defect Rate,1.34,1.21,%,Quality Control,Quality,Requires improvement
+30-01-2024,Employee Turnover Rate,1.01,0.94,%,Operations,Social Impact,Requires improvement
+19-07-2024,Fuel Efficiency,5.53,5.86,km/l,Logistics,Energy,Requires improvement
+18-07-2024,Workplace Safety Incidents,0.39,0.36,count,Operations,Social Impact,On track
+22-03-2024,Employee Turnover Rate,1.93,1.81,%,Operations,Social Impact,Requires improvement
+13-04-2024,On-Time Delivery Rate,84.1,90.02,%,Logistics,Operational,Below target
+06-05-2024,Carbon Emissions,54.69,50.12,tons,Manufacturing,Emissions,New initiative
+27-05-2024,Transport Emissions,9.74,9.05,tons,Logistics,Emissions,On track
+19-07-2024,Customer Complaints,7,6.55,count,Quality Control,Social Impact,Below target
+22-08-2024,Equipment Maintenance Cost,2866.78,2709.1,USD,Operations,Operational,Requires improvement
+02-05-2024,Inspection Hours,22.46,20.32,hours,Quality Control,Quality,On track
+23-12-2024,Training Hours,41.45,44.72,hours,Operations,Social Impact,On track
+07-07-2024,Equipment Maintenance Cost,4407.14,4134.31,USD,Operations,Operational,On track
+18-08-2024,Energy Consumption,27697.77,26007.53,kWh,Manufacturing,Energy,Requires improvement
+07-02-2024,Training Hours,12.93,14.33,hours,Operations,Social Impact,On track
+22-07-2024,Audit Failures,0.69,0.63,count,Quality Control,Quality,Above target
+16-06-2024,Energy Consumption,16277.26,15226.64,kWh,Manufacturing,Energy,Above target
+12-08-2024,Audit Failures,0.92,0.83,count,Quality Control,Quality,Above target
+10-01-2024,Equipment Maintenance Cost,8294.05,7813.64,USD,Operations,Operational,Above target
+27-03-2024,Carbon Emissions,39.27,36.47,tons,Manufacturing,Emissions,Requires improvement
+01-04-2024,Energy Consumption,35482.24,32206.34,kWh,Manufacturing,Energy,Below target
+22-12-2024,Workplace Safety Incidents,2.68,2.48,count,Operations,Social Impact,Requires improvement
+18-07-2024,Production Downtime,14.62,13.68,hours,Manufacturing,Operational,On track
+13-04-2024,Transport Emissions,2,1.8,tons,Logistics,Emissions,Requires improvement
+03-08-2024,Training Hours,41.76,45.89,hours,Operations,Social Impact,On track
+22-04-2024,Energy Consumption,20170.25,18347.01,kWh,Manufacturing,Energy,On track
+25-02-2024,Carbon Emissions,79.08,75.16,tons,Manufacturing,Emissions,New initiative
+04-10-2024,Packaging Waste,302.92,275.5,kg,Logistics,Waste,Above target
+14-06-2024,Audit Failures,0.24,0.22,count,Quality Control,Quality,Below target
+18-04-2024,Workplace Safety Incidents,1.21,1.11,count,Operations,Social Impact,Requires improvement
+07-07-2024,Inspection Hours,6.65,6.26,hours,Quality Control,Quality,New initiative
+12-09-2024,Energy Consumption,44845.7,41282.93,kWh,Manufacturing,Energy,New initiative
+28-03-2024,Production Downtime,16.87,15.96,hours,Manufacturing,Operational,New initiative
+13-12-2024,Fuel Efficiency,7.59,8,km/l,Logistics,Energy,Requires improvement
+07-12-2024,Training Hours,12.09,12.89,hours,Operations,Social Impact,Below target
+17-08-2024,Product Defect Rate,2.01,1.87,%,Quality Control,Quality,New initiative
+29-04-2024,Inspection Hours,17.59,16.45,hours,Quality Control,Quality,On track
+07-08-2024,Production Downtime,16.38,14.84,hours,Manufacturing,Operational,Above target
+13-04-2024,Workplace Safety Incidents,0.18,0.17,count,Operations,Social Impact,Below target
+15-08-2024,Equipment Maintenance Cost,2441.66,2202.12,USD,Operations,Operational,New initiative
+23-09-2024,On-Time Delivery Rate,81.83,87.78,%,Logistics,Operational,On track
+24-06-2024,Customer Complaints,7.51,6.84,count,Quality Control,Social Impact,Below target
+17-12-2024,Employee Turnover Rate,1.43,1.31,%,Operations,Social Impact,Above target
+03-02-2024,Equipment Maintenance Cost,5453.98,4958.63,USD,Operations,Operational,On track
+14-04-2024,Product Defect Rate,4.79,4.32,%,Quality Control,Quality,Above target
+30-04-2024,Workplace Safety Incidents,0.52,0.48,count,Operations,Social Impact,Above target
+05-05-2024,Water Usage,36524.47,33440.82,liters,Manufacturing,Water,Above target
+17-08-2024,Inspection Hours,20.15,18.44,hours,Quality Control,Quality,New initiative
+22-07-2024,Training Hours,40.48,43.81,hours,Operations,Social Impact,Below target
+09-08-2024,Inspection Hours,16.77,15.45,hours,Quality Control,Quality,New initiative
+02-06-2024,Equipment Maintenance Cost,688.21,632.51,USD,Operations,Operational,On track
+25-05-2024,Employee Turnover Rate,0.96,0.89,%,Operations,Social Impact,Requires improvement
+10-04-2024,Audit Failures,0.14,0.13,count,Quality Control,Quality,Requires improvement
+08-09-2024,Employee Turnover Rate,0.56,0.51,%,Operations,Social Impact,Below target
+15-07-2024,Audit Failures,1.88,1.78,count,Quality Control,Quality,Below target
+20-01-2024,Customer Complaints,6.41,5.96,count,Quality Control,Social Impact,Requires improvement
+10-05-2024,Water Usage,46674.35,42385.82,liters,Manufacturing,Water,Requires improvement
+29-11-2024,Transport Emissions,13.06,11.99,tons,Logistics,Emissions,On track
+04-07-2024,Audit Failures,1.47,1.34,count,Quality Control,Quality,On track
+10-05-2024,Carbon Emissions,35.96,33.52,tons,Manufacturing,Emissions,Above target
+22-07-2024,Employee Turnover Rate,0.57,0.52,%,Operations,Social Impact,Requires improvement
+06-08-2024,Production Downtime,18.65,17.6,hours,Manufacturing,Operational,Above target
+27-10-2024,Packaging Waste,275.29,255.1,kg,Logistics,Waste,Requires improvement
+25-02-2024,Transport Emissions,15.3,14.48,tons,Logistics,Emissions,On track
+23-12-2024,On-Time Delivery Rate,79.84,87.69,%,Logistics,Operational,Requires improvement
+19-02-2024,Fuel Efficiency,9.35,9.94,km/l,Logistics,Energy,On track
+28-03-2024,Water Usage,26723.14,24925.37,liters,Manufacturing,Water,Requires improvement
+03-04-2024,Training Hours,12.14,13.39,hours,Operations,Social Impact,Requires improvement
+31-01-2024,Water Usage,28787.51,26214.73,liters,Manufacturing,Water,Above target
+13-08-2024,Employee Turnover Rate,0.97,0.89,%,Operations,Social Impact,Requires improvement
+21-05-2024,Carbon Emissions,18.11,17.18,tons,Manufacturing,Emissions,On track
+10-12-2024,Waste Generation,363.54,342.4,kg,Manufacturing,Waste,Requires improvement
+06-12-2024,Energy Consumption,7747.54,7264.02,kWh,Manufacturing,Energy,On track
+04-11-2024,Energy Consumption,14498.08,13622.24,kWh,Manufacturing,Energy,Requires improvement
+21-06-2024,Transport Emissions,9.99,9.16,tons,Logistics,Emissions,Requires improvement
+06-12-2024,Packaging Waste,499.75,470.19,kg,Logistics,Waste,Below target
+21-02-2024,Audit Failures,1.22,1.16,count,Quality Control,Quality,Below target
+14-01-2024,Water Usage,43656.53,40167.95,liters,Manufacturing,Water,Above target
+07-07-2024,Production Downtime,9.19,8.59,hours,Manufacturing,Operational,Above target
+22-11-2024,Audit Failures,1.03,0.96,count,Quality Control,Quality,On track
+13-12-2024,Fuel Efficiency,7.71,8.17,km/l,Logistics,Energy,Below target
+11-02-2024,Inspection Hours,20.17,18.56,hours,Quality Control,Quality,New initiative
+03-12-2024,Transport Emissions,18.84,17.84,tons,Logistics,Emissions,Requires improvement
+23-09-2024,Water Usage,15399.29,14009.56,liters,Manufacturing,Water,Above target
+27-08-2024,Carbon Emissions,57.79,54.81,tons,Manufacturing,Emissions,New initiative
+03-05-2024,Equipment Maintenance Cost,9572.99,8846.48,USD,Operations,Operational,New initiative
+24-02-2024,Employee Turnover Rate,0.83,0.76,%,Operations,Social Impact,On track
+23-05-2024,Product Defect Rate,1.22,1.15,%,Quality Control,Quality,Requires improvement
+06-12-2024,Training Hours,33.14,34.97,hours,Operations,Social Impact,On track
+21-10-2024,Equipment Maintenance Cost,1359.2,1270.29,USD,Operations,Operational,Above target
+30-11-2024,Waste Generation,2182.22,2009.65,kg,Manufacturing,Waste,Requires improvement
+27-02-2024,Inspection Hours,10.59,9.59,hours,Quality Control,Quality,On track
+20-10-2024,Waste Generation,4118.48,3754.79,kg,Manufacturing,Waste,On track
+01-01-2024,On-Time Delivery Rate,88.64,93.53,%,Logistics,Operational,New initiative
+04-08-2024,Fuel Efficiency,7.23,7.95,km/l,Logistics,Energy,Requires improvement
+23-09-2024,Packaging Waste,408.88,387.09,kg,Logistics,Waste,Above target
+10-06-2024,Workplace Safety Incidents,1.19,1.1,count,Operations,Social Impact,Requires improvement
+16-03-2024,Training Hours,39.47,42.67,hours,Operations,Social Impact,Requires improvement
+02-11-2024,On-Time Delivery Rate,87.15,92.47,%,Logistics,Operational,On track
+27-12-2024,Packaging Waste,276.07,257.97,kg,Logistics,Waste,Below target
+31-01-2024,Inspection Hours,17.38,16.25,hours,Quality Control,Quality,Requires improvement
+24-12-2024,On-Time Delivery Rate,84.93,93.28,%,Logistics,Operational,Above target
+03-12-2024,Carbon Emissions,94.63,87.11,tons,Manufacturing,Emissions,Below target
+27-06-2024,Workplace Safety Incidents,1.64,1.5,count,Operations,Social Impact,Requires improvement
+22-12-2024,Audit Failures,0.14,0.13,count,Quality Control,Quality,Below target
+28-01-2024,Equipment Maintenance Cost,1424.54,1305.12,USD,Operations,Operational,New initiative
+22-12-2024,Transport Emissions,13.44,12.48,tons,Logistics,Emissions,Requires improvement
+29-11-2024,Customer Complaints,8.97,8.17,count,Quality Control,Social Impact,Above target
+11-07-2024,Waste Generation,3974.89,3684.6,kg,Manufacturing,Waste,Above target
+01-04-2024,Inspection Hours,28.15,25.47,hours,Quality Control,Quality,Requires improvement
+10-08-2024,Energy Consumption,49112.45,45797.6,kWh,Manufacturing,Energy,New initiative
+07-09-2024,Equipment Maintenance Cost,2827.51,2561.55,USD,Operations,Operational,Requires improvement
+25-08-2024,On-Time Delivery Rate,84.09,91.53,%,Logistics,Operational,On track
+02-03-2024,Customer Complaints,6.32,5.83,count,Quality Control,Social Impact,On track
+25-04-2024,Energy Consumption,10492.32,9779.58,kWh,Manufacturing,Energy,New initiative
+21-12-2024,Production Downtime,13.59,12.62,hours,Manufacturing,Operational,Below target
+01-06-2024,Production Downtime,7.72,7.13,hours,Manufacturing,Operational,Requires improvement
+04-04-2024,Workplace Safety Incidents,0.98,0.92,count,Operations,Social Impact,New initiative
+07-09-2024,Product Defect Rate,2.27,2.14,%,Quality Control,Quality,New initiative
+16-04-2024,Production Downtime,17.56,16.28,hours,Manufacturing,Operational,On track
+11-10-2024,Carbon Emissions,95,87.58,tons,Manufacturing,Emissions,On track
+30-11-2024,Customer Complaints,1.23,1.11,count,Quality Control,Social Impact,Above target
+13-02-2024,Workplace Safety Incidents,1.69,1.59,count,Operations,Social Impact,On track
+04-08-2024,Production Downtime,9.48,8.99,hours,Manufacturing,Operational,Above target
+30-05-2024,Carbon Emissions,40.66,37.05,tons,Manufacturing,Emissions,New initiative
+29-06-2024,Inspection Hours,19.43,18.16,hours,Quality Control,Quality,New initiative
+06-04-2024,Workplace Safety Incidents,1.99,1.8,count,Operations,Social Impact,On track
+04-11-2024,Training Hours,39.64,43.52,hours,Operations,Social Impact,Above target
+08-02-2024,Training Hours,16.37,17.48,hours,Operations,Social Impact,Requires improvement
+21-08-2024,Packaging Waste,221.8,209.64,kg,Logistics,Waste,Requires improvement
+01-10-2024,Waste Generation,3781.74,3447.32,kg,Manufacturing,Waste,Above target
+09-07-2024,Workplace Safety Incidents,1.89,1.73,count,Operations,Social Impact,Above target
+13-07-2024,Equipment Maintenance Cost,8304.89,7605.77,USD,Operations,Operational,Requires improvement
+26-02-2024,Production Downtime,8.71,7.96,hours,Manufacturing,Operational,New initiative
+19-05-2024,Product Defect Rate,1.98,1.79,%,Quality Control,Quality,Below target
+12-07-2024,Employee Turnover Rate,0.96,0.91,%,Operations,Social Impact,Above target
+28-10-2024,Energy Consumption,12907.91,12087.18,kWh,Manufacturing,Energy,Below target
+09-10-2024,Product Defect Rate,2.88,2.69,%,Quality Control,Quality,Below target
+02-04-2024,Fuel Efficiency,8.61,9.48,km/l,Logistics,Energy,Requires improvement
+17-12-2024,Transport Emissions,10.06,9.12,tons,Logistics,Emissions,On track
+28-01-2024,Employee Turnover Rate,0.77,0.71,%,Operations,Social Impact,Below target
+03-04-2024,On-Time Delivery Rate,84.52,91.78,%,Logistics,Operational,Requires improvement
+07-08-2024,Customer Complaints,7.98,7.38,count,Quality Control,Social Impact,Below target
+27-07-2024,Training Hours,30.39,33.6,hours,Operations,Social Impact,Below target
+17-02-2024,Fuel Efficiency,7.38,8.17,km/l,Logistics,Energy,Above target
+06-01-2024,Workplace Safety Incidents,0.25,0.23,count,Operations,Social Impact,Requires improvement
+23-12-2024,Inspection Hours,16.99,15.73,hours,Quality Control,Quality,New initiative
+05-08-2024,Water Usage,1681.11,1528.99,liters,Manufacturing,Water,On track
+16-12-2024,On-Time Delivery Rate,88.58,94.94,%,Logistics,Operational,New initiative
+25-04-2024,Production Downtime,11.73,10.66,hours,Manufacturing,Operational,New initiative
+27-01-2024,Workplace Safety Incidents,1.1,1,count,Operations,Social Impact,Below target
+22-06-2024,Audit Failures,0.76,0.7,count,Quality Control,Quality,On track
+19-04-2024,Workplace Safety Incidents,0.87,0.8,count,Operations,Social Impact,Below target
+19-01-2024,Production Downtime,10.9,10.31,hours,Manufacturing,Operational,New initiative
+17-06-2024,Audit Failures,0.11,0.1,count,Quality Control,Quality,Requires improvement
+24-07-2024,Packaging Waste,98.22,90.12,kg,Logistics,Waste,Above target
+27-09-2024,Fuel Efficiency,5.09,5.51,km/l,Logistics,Energy,On track
+02-12-2024,Equipment Maintenance Cost,1676.51,1549.72,USD,Operations,Operational,Above target
+07-08-2024,On-Time Delivery Rate,82.42,89.71,%,Logistics,Operational,Below target
+23-03-2024,Training Hours,9.12,9.89,hours,Operations,Social Impact,Requires improvement
+26-02-2024,Training Hours,34.77,38.62,hours,Operations,Social Impact,Above target
+17-01-2024,Training Hours,6.26,6.81,hours,Operations,Social Impact,Below target
+01-03-2024,Employee Turnover Rate,2.11,1.92,%,Operations,Social Impact,Below target
+15-06-2024,Audit Failures,1.1,1.03,count,Quality Control,Quality,Above target
+05-03-2024,Audit Failures,0.26,0.25,count,Quality Control,Quality,On track
+27-01-2024,Training Hours,25.81,27.5,hours,Operations,Social Impact,Above target
+02-09-2024,Transport Emissions,19.55,18.32,tons,Logistics,Emissions,Requires improvement
+12-11-2024,Packaging Waste,268.67,252.02,kg,Logistics,Waste,Above target
+24-12-2024,Employee Turnover Rate,0.95,0.87,%,Operations,Social Impact,Below target
+24-12-2024,Equipment Maintenance Cost,2384.92,2230.67,USD,Operations,Operational,On track
+27-04-2024,Employee Turnover Rate,2.15,1.99,%,Operations,Social Impact,Above target
+15-03-2024,Carbon Emissions,49.06,46.12,tons,Manufacturing,Emissions,Above target
+13-07-2024,Product Defect Rate,3.27,2.96,%,Quality Control,Quality,On track
+21-06-2024,Customer Complaints,7,6.64,count,Quality Control,Social Impact,Above target
+04-06-2024,Audit Failures,0.12,0.11,count,Quality Control,Quality,On track
+06-05-2024,Waste Generation,2134.14,1945.17,kg,Manufacturing,Waste,Requires improvement
+18-04-2024,Fuel Efficiency,5.32,5.91,km/l,Logistics,Energy,Below target
+04-04-2024,Transport Emissions,6.32,5.88,tons,Logistics,Emissions,Requires improvement
+08-12-2024,Transport Emissions,7.91,7.24,tons,Logistics,Emissions,On track
+04-07-2024,Production Downtime,16.56,15.01,hours,Manufacturing,Operational,Below target
+14-02-2024,On-Time Delivery Rate,83.31,91.5,%,Logistics,Operational,Requires improvement
+27-10-2024,Carbon Emissions,72,66.66,tons,Manufacturing,Emissions,On track
+06-10-2024,Employee Turnover Rate,1.71,1.56,%,Operations,Social Impact,On track
+30-09-2024,Packaging Waste,376.41,357.39,kg,Logistics,Waste,Above target
+13-10-2024,Workplace Safety Incidents,0.38,0.35,count,Operations,Social Impact,Below target
+04-02-2024,Packaging Waste,251.82,235.67,kg,Logistics,Waste,Requires improvement
+26-03-2024,Audit Failures,1.05,1,count,Quality Control,Quality,On track
+21-12-2024,On-Time Delivery Rate,83.31,87.9,%,Logistics,Operational,On track
+08-02-2024,Equipment Maintenance Cost,5202.75,4820.99,USD,Operations,Operational,New initiative
+24-07-2024,Equipment Maintenance Cost,7631.91,7015.31,USD,Operations,Operational,Requires improvement
+30-10-2024,On-Time Delivery Rate,78.85,86.84,%,Logistics,Operational,Above target
+12-05-2024,Production Downtime,11.83,11.07,hours,Manufacturing,Operational,New initiative
+28-03-2024,On-Time Delivery Rate,80.34,87.96,%,Logistics,Operational,On track
+22-05-2024,Workplace Safety Incidents,1.6,1.46,count,Operations,Social Impact,Above target
+17-04-2024,Training Hours,39.98,44.3,hours,Operations,Social Impact,Above target
+15-06-2024,Energy Consumption,34189.05,31851.69,kWh,Manufacturing,Energy,Below target
+30-05-2024,Production Downtime,8.96,8.12,hours,Manufacturing,Operational,New initiative
+22-04-2024,Fuel Efficiency,7.32,8.13,km/l,Logistics,Energy,Below target
+24-02-2024,On-Time Delivery Rate,78.87,87.56,%,Logistics,Operational,New initiative
+15-04-2024,Customer Complaints,8.7,8.11,count,Quality Control,Social Impact,New initiative
+20-03-2024,Inspection Hours,13.11,11.93,hours,Quality Control,Quality,Requires improvement
+02-09-2024,Inspection Hours,23.25,21.43,hours,Quality Control,Quality,Above target
+06-04-2024,Water Usage,9894.16,8996.28,liters,Manufacturing,Water,Above target
+31-03-2024,Inspection Hours,21.19,19.09,hours,Quality Control,Quality,Above target
+20-08-2024,Inspection Hours,6.74,6.09,hours,Quality Control,Quality,Above target
+04-11-2024,Product Defect Rate,3.76,3.41,%,Quality Control,Quality,On track
+25-11-2024,Water Usage,19815.54,17943.01,liters,Manufacturing,Water,On track
+17-11-2024,Carbon Emissions,34.1,32.35,tons,Manufacturing,Emissions,Above target
+28-12-2024,Energy Consumption,48092.8,43539.23,kWh,Manufacturing,Energy,Below target
+24-03-2024,Carbon Emissions,24.51,22.53,tons,Manufacturing,Emissions,Requires improvement
+20-12-2024,Packaging Waste,265.51,242.2,kg,Logistics,Waste,New initiative
+31-05-2024,Fuel Efficiency,4.61,5.11,km/l,Logistics,Energy,New initiative
+24-04-2024,Production Downtime,18.3,16.85,hours,Manufacturing,Operational,On track
+25-04-2024,Carbon Emissions,51.22,48.44,tons,Manufacturing,Emissions,Below target
+22-02-2024,Product Defect Rate,2.71,2.57,%,Quality Control,Quality,Above target
+13-02-2024,Packaging Waste,84.33,77.3,kg,Logistics,Waste,Below target
+03-11-2024,Production Downtime,7.27,6.7,hours,Manufacturing,Operational,Below target
+15-11-2024,Equipment Maintenance Cost,1927.09,1798.68,USD,Operations,Operational,Below target
+04-12-2024,Packaging Waste,443.93,405.55,kg,Logistics,Waste,Requires improvement
+02-01-2024,Packaging Waste,414.82,388.09,kg,Logistics,Waste,On track
+04-02-2024,Employee Turnover Rate,1.05,0.98,%,Operations,Social Impact,Requires improvement
+16-02-2024,Production Downtime,11.41,10.68,hours,Manufacturing,Operational,Above target
+10-09-2024,On-Time Delivery Rate,79.81,86.82,%,Logistics,Operational,Below target
+11-03-2024,Audit Failures,1.39,1.28,count,Quality Control,Quality,Below target
+09-09-2024,Equipment Maintenance Cost,4477.27,4140.83,USD,Operations,Operational,New initiative
+22-10-2024,Equipment Maintenance Cost,1294.37,1211.2,USD,Operations,Operational,New initiative
+04-07-2024,Workplace Safety Incidents,0.71,0.64,count,Operations,Social Impact,On track
+03-07-2024,Inspection Hours,28.02,25.3,hours,Quality Control,Quality,Below target
+03-08-2024,Training Hours,24.22,25.72,hours,Operations,Social Impact,New initiative
+01-03-2024,Employee Turnover Rate,1.83,1.74,%,Operations,Social Impact,Above target
+09-07-2024,Equipment Maintenance Cost,7464.27,6977.65,USD,Operations,Operational,Requires improvement
+21-03-2024,Energy Consumption,34823.63,31469.71,kWh,Manufacturing,Energy,New initiative
+07-01-2024,Carbon Emissions,45.18,42.87,tons,Manufacturing,Emissions,On track
+27-09-2024,Inspection Hours,24.14,22.29,hours,Quality Control,Quality,Above target
+26-05-2024,Transport Emissions,8.82,8.09,tons,Logistics,Emissions,On track
+29-03-2024,Carbon Emissions,16.66,15.4,tons,Manufacturing,Emissions,New initiative
+10-10-2024,Workplace Safety Incidents,1.19,1.1,count,Operations,Social Impact,Requires improvement
+19-05-2024,Packaging Waste,369.21,340.11,kg,Logistics,Waste,Above target
+24-07-2024,Production Downtime,10.66,10.1,hours,Manufacturing,Operational,Above target
+05-11-2024,Carbon Emissions,49.44,45.31,tons,Manufacturing,Emissions,New initiative
+13-07-2024,Water Usage,24393.4,22750.14,liters,Manufacturing,Water,Requires improvement
+18-05-2024,Workplace Safety Incidents,2.41,2.25,count,Operations,Social Impact,Above target
+15-01-2024,Energy Consumption,8501.39,7907.65,kWh,Manufacturing,Energy,Below target
+01-11-2024,Training Hours,11.15,12.32,hours,Operations,Social Impact,Above target
+03-05-2024,Waste Generation,1167.34,1101.17,kg,Manufacturing,Waste,On track
+04-09-2024,Fuel Efficiency,9.17,9.88,km/l,Logistics,Energy,New initiative
+01-07-2024,Energy Consumption,19156.11,18144.2,kWh,Manufacturing,Energy,On track
+01-07-2024,Transport Emissions,10.5,9.62,tons,Logistics,Emissions,Requires improvement
+21-02-2024,Workplace Safety Incidents,0.99,0.94,count,Operations,Social Impact,New initiative
+20-01-2024,Workplace Safety Incidents,1.76,1.62,count,Operations,Social Impact,New initiative
+28-04-2024,On-Time Delivery Rate,79.87,86.52,%,Logistics,Operational,On track
+21-09-2024,Employee Turnover Rate,1.75,1.65,%,Operations,Social Impact,New initiative
+15-11-2024,Transport Emissions,15.92,14.6,tons,Logistics,Emissions,Below target
+02-05-2024,Product Defect Rate,4.51,4.23,%,Quality Control,Quality,Requires improvement
+19-02-2024,Workplace Safety Incidents,2.87,2.66,count,Operations,Social Impact,Requires improvement
+12-09-2024,Carbon Emissions,84.14,78.97,tons,Manufacturing,Emissions,On track
+04-02-2024,Water Usage,16372.22,15499.63,liters,Manufacturing,Water,Above target
+12-05-2024,Packaging Waste,209.02,188.86,kg,Logistics,Waste,Requires improvement
+04-03-2024,Customer Complaints,7.63,7.04,count,Quality Control,Social Impact,Above target
+13-11-2024,Product Defect Rate,2.14,1.96,%,Quality Control,Quality,Requires improvement
+10-07-2024,Equipment Maintenance Cost,3983.96,3753.85,USD,Operations,Operational,Below target
+13-11-2024,Water Usage,25791.18,23550.99,liters,Manufacturing,Water,On track
+23-02-2024,Carbon Emissions,78.68,72.98,tons,Manufacturing,Emissions,Above target
+24-04-2024,Transport Emissions,4.01,3.69,tons,Logistics,Emissions,On track
+24-11-2024,Audit Failures,1.34,1.23,count,Quality Control,Quality,Requires improvement
+09-08-2024,Product Defect Rate,0.89,0.83,%,Quality Control,Quality,Requires improvement
+05-09-2024,Equipment Maintenance Cost,3622.85,3318.04,USD,Operations,Operational,New initiative
+20-03-2024,Equipment Maintenance Cost,1586.1,1463.54,USD,Operations,Operational,New initiative
+03-11-2024,Inspection Hours,21.01,19.25,hours,Quality Control,Quality,On track
+30-08-2024,Product Defect Rate,4.71,4.32,%,Quality Control,Quality,Requires improvement
+18-05-2024,Workplace Safety Incidents,0.63,0.57,count,Operations,Social Impact,Requires improvement
+11-02-2024,On-Time Delivery Rate,77.55,85.84,%,Logistics,Operational,Requires improvement
+04-04-2024,Transport Emissions,17.55,16.26,tons,Logistics,Emissions,Below target
+25-03-2024,Energy Consumption,45273.05,41715.8,kWh,Manufacturing,Energy,Below target
+18-12-2024,Training Hours,43.79,47.39,hours,Operations,Social Impact,New initiative
+06-01-2024,Equipment Maintenance Cost,3869.58,3616.68,USD,Operations,Operational,Requires improvement
+14-06-2024,Workplace Safety Incidents,2.17,2.02,count,Operations,Social Impact,Above target
+12-09-2024,Fuel Efficiency,5.31,5.75,km/l,Logistics,Energy,Above target
+23-09-2024,Fuel Efficiency,8.37,8.96,km/l,Logistics,Energy,Below target
+23-11-2024,Water Usage,47222.86,44524.7,liters,Manufacturing,Water,Requires improvement
+22-12-2024,Energy Consumption,14838.02,14080.56,kWh,Manufacturing,Energy,Requires improvement
+13-12-2024,Equipment Maintenance Cost,2553.3,2324.75,USD,Operations,Operational,Above target
+14-09-2024,Waste Generation,4314.77,4106.14,kg,Manufacturing,Waste,Below target
+29-06-2024,Water Usage,32796.67,30264.76,liters,Manufacturing,Water,Requires improvement
+31-03-2024,Transport Emissions,10.94,10.26,tons,Logistics,Emissions,On track
+04-10-2024,Audit Failures,0.75,0.7,count,Quality Control,Quality,Above target
+20-11-2024,Audit Failures,0.57,0.53,count,Quality Control,Quality,Requires improvement
+15-02-2024,Fuel Efficiency,9.38,9.98,km/l,Logistics,Energy,On track
+05-10-2024,Production Downtime,18.99,17.19,hours,Manufacturing,Operational,New initiative
+03-08-2024,Water Usage,25664.71,24132.36,liters,Manufacturing,Water,Below target
+10-04-2024,Employee Turnover Rate,1.8,1.67,%,Operations,Social Impact,On track
+30-07-2024,Product Defect Rate,2.08,1.95,%,Quality Control,Quality,Requires improvement
+25-05-2024,Product Defect Rate,4.73,4.44,%,Quality Control,Quality,New initiative
+10-12-2024,Packaging Waste,188.33,178,kg,Logistics,Waste,Requires improvement
+14-01-2024,Workplace Safety Incidents,2.7,2.49,count,Operations,Social Impact,On track
+11-06-2024,Training Hours,39.66,42.83,hours,Operations,Social Impact,New initiative
+11-10-2024,On-Time Delivery Rate,89.83,94.59,%,Logistics,Operational,Above target
+22-10-2024,Inspection Hours,20.41,18.77,hours,Quality Control,Quality,On track
+25-07-2024,Inspection Hours,28.48,26.19,hours,Quality Control,Quality,Above target
+15-09-2024,On-Time Delivery Rate,80.88,89.37,%,Logistics,Operational,Above target
+10-10-2024,Production Downtime,16.76,15.79,hours,Manufacturing,Operational,Below target
+06-01-2024,Training Hours,12.82,14.17,hours,Operations,Social Impact,Requires improvement
+19-10-2024,Workplace Safety Incidents,1.85,1.72,count,Operations,Social Impact,On track
+20-11-2024,Product Defect Rate,3.84,3.48,%,Quality Control,Quality,Requires improvement
+09-04-2024,On-Time Delivery Rate,82.58,87.4,%,Logistics,Operational,Below target
+12-02-2024,Equipment Maintenance Cost,7818.72,7294.58,USD,Operations,Operational,Below target
+26-02-2024,Workplace Safety Incidents,1.92,1.78,count,Operations,Social Impact,On track
+17-02-2024,Product Defect Rate,0.98,0.9,%,Quality Control,Quality,Above target
+19-07-2024,Water Usage,42386.56,40082.26,liters,Manufacturing,Water,Above target
+16-11-2024,Water Usage,39976.63,36805.97,liters,Manufacturing,Water,Requires improvement
+20-11-2024,Carbon Emissions,76.8,71.86,tons,Manufacturing,Emissions,Below target
+03-12-2024,Inspection Hours,9.5,8.55,hours,Quality Control,Quality,Above target
+10-11-2024,Energy Consumption,48916.21,46455.09,kWh,Manufacturing,Energy,Requires improvement
+08-04-2024,Carbon Emissions,60.53,56.96,tons,Manufacturing,Emissions,On track
+20-04-2024,Production Downtime,5.35,4.95,hours,Manufacturing,Operational,Above target
+22-04-2024,Fuel Efficiency,8.55,9.49,km/l,Logistics,Energy,Above target
+27-06-2024,Carbon Emissions,36.6,34.08,tons,Manufacturing,Emissions,On track
+23-07-2024,Transport Emissions,15.16,14.02,tons,Logistics,Emissions,New initiative
+20-07-2024,Training Hours,11.94,12.78,hours,Operations,Social Impact,Below target
+15-04-2024,Production Downtime,16.9,15.71,hours,Manufacturing,Operational,Above target
+12-06-2024,Audit Failures,1.77,1.63,count,Quality Control,Quality,Below target
+10-07-2024,Production Downtime,10.75,9.78,hours,Manufacturing,Operational,Below target
+09-05-2024,Water Usage,9195.2,8291.2,liters,Manufacturing,Water,New initiative
+29-06-2024,Customer Complaints,6.04,5.7,count,Quality Control,Social Impact,New initiative
+05-04-2024,Product Defect Rate,1.02,0.96,%,Quality Control,Quality,Requires improvement
+15-03-2024,On-Time Delivery Rate,79.97,85.73,%,Logistics,Operational,Below target
+19-04-2024,Fuel Efficiency,4.72,5.05,km/l,Logistics,Energy,Below target
+25-05-2024,Customer Complaints,8.99,8.34,count,Quality Control,Social Impact,Requires improvement
+09-12-2024,Employee Turnover Rate,0.69,0.65,%,Operations,Social Impact,New initiative
+11-06-2024,Production Downtime,18.39,16.94,hours,Manufacturing,Operational,Requires improvement
+24-01-2024,On-Time Delivery Rate,81.76,86.97,%,Logistics,Operational,Requires improvement
+16-06-2024,Transport Emissions,3.27,3.02,tons,Logistics,Emissions,New initiative
+03-01-2024,Inspection Hours,19.41,17.75,hours,Quality Control,Quality,New initiative
+30-09-2024,Customer Complaints,1.31,1.24,count,Quality Control,Social Impact,On track
+31-07-2024,Waste Generation,3471.11,3294.92,kg,Manufacturing,Waste,On track
+11-10-2024,Packaging Waste,192.74,176.8,kg,Logistics,Waste,On track
+09-09-2024,Transport Emissions,12.63,11.62,tons,Logistics,Emissions,Requires improvement
+25-01-2024,Waste Generation,4960.18,4700.98,kg,Manufacturing,Waste,Above target
+25-04-2024,Carbon Emissions,20.75,19.46,tons,Manufacturing,Emissions,Requires improvement
+02-10-2024,Workplace Safety Incidents,0.57,0.54,count,Operations,Social Impact,Below target
+25-01-2024,Energy Consumption,16685.95,15672.23,kWh,Manufacturing,Energy,On track
+18-05-2024,Fuel Efficiency,5.91,6.32,km/l,Logistics,Energy,Requires improvement
+16-03-2024,Employee Turnover Rate,1.46,1.38,%,Operations,Social Impact,Below target
+22-10-2024,Audit Failures,1.34,1.24,count,Quality Control,Quality,Above target
+25-04-2024,Audit Failures,1.95,1.79,count,Quality Control,Quality,Requires improvement
+12-10-2024,Waste Generation,4209.59,3877.77,kg,Manufacturing,Waste,Below target
+31-01-2024,Employee Turnover Rate,1.62,1.54,%,Operations,Social Impact,Requires improvement
+06-04-2024,Workplace Safety Incidents,2.01,1.86,count,Operations,Social Impact,Requires improvement
+20-09-2024,Product Defect Rate,2.03,1.91,%,Quality Control,Quality,New initiative
+24-02-2024,Packaging Waste,368.83,344.03,kg,Logistics,Waste,New initiative
+13-11-2024,Employee Turnover Rate,2.01,1.88,%,Operations,Social Impact,Requires improvement
+17-12-2024,Equipment Maintenance Cost,2285.56,2088.75,USD,Operations,Operational,Above target
+03-05-2024,Fuel Efficiency,5.42,5.74,km/l,Logistics,Energy,On track
+19-08-2024,Water Usage,10164.46,9162.54,liters,Manufacturing,Water,New initiative
+08-08-2024,Packaging Waste,103.25,95.77,kg,Logistics,Waste,Below target
+28-01-2024,Employee Turnover Rate,1.18,1.1,%,Operations,Social Impact,Below target
+04-08-2024,Customer Complaints,3.7,3.34,count,Quality Control,Social Impact,Requires improvement
+28-09-2024,Training Hours,12.3,13.53,hours,Operations,Social Impact,Below target
+26-02-2024,Audit Failures,0.22,0.2,count,Quality Control,Quality,Above target
+02-05-2024,Workplace Safety Incidents,0.16,0.14,count,Operations,Social Impact,Below target
+24-12-2024,Production Downtime,6.52,5.94,hours,Manufacturing,Operational,New initiative
+10-09-2024,Audit Failures,0.79,0.72,count,Quality Control,Quality,Below target
+27-12-2024,Employee Turnover Rate,1.79,1.68,%,Operations,Social Impact,Below target
+01-09-2024,Fuel Efficiency,5.06,5.47,km/l,Logistics,Energy,New initiative
+05-04-2024,On-Time Delivery Rate,80.98,86.7,%,Logistics,Operational,Above target
+07-08-2024,Transport Emissions,3.69,3.32,tons,Logistics,Emissions,Requires improvement
+28-03-2024,Fuel Efficiency,5.38,5.89,km/l,Logistics,Energy,On track
+07-09-2024,Production Downtime,10.28,9.5,hours,Manufacturing,Operational,On track
+14-12-2024,Equipment Maintenance Cost,1539.17,1448.28,USD,Operations,Operational,New initiative
+18-02-2024,On-Time Delivery Rate,81.98,90.25,%,Logistics,Operational,Above target
+28-06-2024,Waste Generation,4329.73,4058.68,kg,Manufacturing,Waste,Requires improvement
+03-06-2024,Transport Emissions,5.82,5.37,tons,Logistics,Emissions,Below target
+16-03-2024,Transport Emissions,3.14,2.93,tons,Logistics,Emissions,On track
+16-01-2024,Inspection Hours,21.48,19.48,hours,Quality Control,Quality,Requires improvement
+12-07-2024,Equipment Maintenance Cost,3914.49,3668.73,USD,Operations,Operational,Above target
+26-09-2024,Waste Generation,4780.49,4410.29,kg,Manufacturing,Waste,Requires improvement
+19-07-2024,Training Hours,42.17,45.96,hours,Operations,Social Impact,Below target
+25-12-2024,Customer Complaints,3.09,2.79,count,Quality Control,Social Impact,New initiative
+27-05-2024,Fuel Efficiency,6.62,7.17,km/l,Logistics,Energy,Below target
+14-12-2024,Energy Consumption,27451.72,25647.49,kWh,Manufacturing,Energy,Requires improvement
+06-09-2024,Training Hours,30.86,33.07,hours,Operations,Social Impact,Below target
+21-04-2024,Fuel Efficiency,8.11,9,km/l,Logistics,Energy,On track
+29-06-2024,Fuel Efficiency,4.82,5.27,km/l,Logistics,Energy,Requires improvement
+14-09-2024,Energy Consumption,16314.51,14968.74,kWh,Manufacturing,Energy,Below target
+09-08-2024,Workplace Safety Incidents,2.14,1.94,count,Operations,Social Impact,Above target
+07-05-2024,Waste Generation,1342.63,1250.52,kg,Manufacturing,Waste,Below target
+03-06-2024,Audit Failures,0.8,0.76,count,Quality Control,Quality,Below target
+23-10-2024,On-Time Delivery Rate,84.65,90.64,%,Logistics,Operational,Below target
+03-06-2024,Employee Turnover Rate,0.94,0.88,%,Operations,Social Impact,Above target
+06-10-2024,Fuel Efficiency,6.14,6.49,km/l,Logistics,Energy,Requires improvement
+11-03-2024,Equipment Maintenance Cost,7932.85,7470.31,USD,Operations,Operational,On track
+27-08-2024,Customer Complaints,5.04,4.71,count,Quality Control,Social Impact,Below target
+15-01-2024,Transport Emissions,9.86,9.35,tons,Logistics,Emissions,Requires improvement
+04-05-2024,Water Usage,5333.02,4837.21,liters,Manufacturing,Water,Below target
+28-01-2024,On-Time Delivery Rate,86.19,91.21,%,Logistics,Operational,Below target
+23-08-2024,Inspection Hours,15.07,13.57,hours,Quality Control,Quality,New initiative
+19-06-2024,Energy Consumption,7461.17,7024.65,kWh,Manufacturing,Energy,On track
+03-03-2024,Waste Generation,3160.46,2914.13,kg,Manufacturing,Waste,On track
+10-03-2024,Carbon Emissions,60.87,56.46,tons,Manufacturing,Emissions,Requires improvement
+05-09-2024,Employee Turnover Rate,1.01,0.95,%,Operations,Social Impact,On track
+23-09-2024,Workplace Safety Incidents,0.2,0.18,count,Operations,Social Impact,On track
+15-08-2024,Carbon Emissions,30.48,28.39,tons,Manufacturing,Emissions,New initiative
+04-04-2024,Product Defect Rate,4.67,4.27,%,Quality Control,Quality,Requires improvement
+04-03-2024,Training Hours,39.21,41.98,hours,Operations,Social Impact,New initiative
+28-03-2024,Inspection Hours,20.9,19,hours,Quality Control,Quality,Above target
+28-10-2024,Equipment Maintenance Cost,5064.43,4631.28,USD,Operations,Operational,On track
+25-08-2024,Customer Complaints,6.68,6.14,count,Quality Control,Social Impact,On track
+15-10-2024,Audit Failures,0.3,0.27,count,Quality Control,Quality,On track
+15-08-2024,Product Defect Rate,3.11,2.8,%,Quality Control,Quality,New initiative
+21-05-2024,Waste Generation,5175.29,4821.42,kg,Manufacturing,Waste,Requires improvement
+17-04-2024,Carbon Emissions,46.12,42.2,tons,Manufacturing,Emissions,New initiative
+29-06-2024,Transport Emissions,10.75,9.77,tons,Logistics,Emissions,Above target
+03-12-2024,Transport Emissions,14.59,13.7,tons,Logistics,Emissions,Below target
+11-07-2024,Transport Emissions,2.3,2.17,tons,Logistics,Emissions,Requires improvement
+12-05-2024,Inspection Hours,19.4,18.36,hours,Quality Control,Quality,New initiative
+12-11-2024,Training Hours,29.26,31.5,hours,Operations,Social Impact,New initiative
+28-04-2024,Product Defect Rate,0.7,0.66,%,Quality Control,Quality,Above target
+28-04-2024,Energy Consumption,27474.53,25660.28,kWh,Manufacturing,Energy,Below target
+03-08-2024,Workplace Safety Incidents,2.7,2.45,count,Operations,Social Impact,Requires improvement
+14-08-2024,Energy Consumption,32535.66,29468.32,kWh,Manufacturing,Energy,On track
+12-07-2024,Fuel Efficiency,8.81,9.62,km/l,Logistics,Energy,Requires improvement
+25-04-2024,Employee Turnover Rate,0.85,0.79,%,Operations,Social Impact,Below target
+14-02-2024,Employee Turnover Rate,1.24,1.15,%,Operations,Social Impact,Above target
+03-07-2024,Energy Consumption,14159.28,13316.81,kWh,Manufacturing,Energy,On track
+11-09-2024,Product Defect Rate,2.03,1.9,%,Quality Control,Quality,New initiative
+01-07-2024,Employee Turnover Rate,1.46,1.36,%,Operations,Social Impact,Below target
+18-10-2024,Workplace Safety Incidents,1.32,1.23,count,Operations,Social Impact,On track
+12-09-2024,Carbon Emissions,85.63,80.41,tons,Manufacturing,Emissions,On track
+28-05-2024,Workplace Safety Incidents,1.8,1.65,count,Operations,Social Impact,Above target
+27-05-2024,Transport Emissions,14.36,12.97,tons,Logistics,Emissions,Above target
+13-09-2024,Production Downtime,13.63,12.85,hours,Manufacturing,Operational,New initiative
+25-10-2024,Transport Emissions,12.75,11.82,tons,Logistics,Emissions,On track
+13-05-2024,Customer Complaints,6.53,5.89,count,Quality Control,Social Impact,Requires improvement
+07-10-2024,Training Hours,40.6,44.96,hours,Operations,Social Impact,Above target
+08-11-2024,Fuel Efficiency,5.58,6.18,km/l,Logistics,Energy,New initiative
+09-11-2024,Waste Generation,5387.68,4909.07,kg,Manufacturing,Waste,New initiative
+23-02-2024,Production Downtime,12.18,11.04,hours,Manufacturing,Operational,On track
+01-09-2024,Water Usage,25872.61,24126.64,liters,Manufacturing,Water,Requires improvement
+30-09-2024,On-Time Delivery Rate,76.92,85.21,%,Logistics,Operational,Above target
+22-12-2024,Product Defect Rate,2.99,2.7,%,Quality Control,Quality,Requires improvement
+12-08-2024,Equipment Maintenance Cost,7162.71,6643.25,USD,Operations,Operational,On track
+24-06-2024,Production Downtime,19.74,18.13,hours,Manufacturing,Operational,Above target
+26-04-2024,Product Defect Rate,1.57,1.42,%,Quality Control,Quality,On track
+30-01-2024,Product Defect Rate,4.96,4.47,%,Quality Control,Quality,Above target
+09-06-2024,Energy Consumption,10702.22,9728.64,kWh,Manufacturing,Energy,On track
+02-09-2024,On-Time Delivery Rate,86.1,94.98,%,Logistics,Operational,Requires improvement
+10-09-2024,Energy Consumption,8437,7989.15,kWh,Manufacturing,Energy,Above target
+09-10-2024,On-Time Delivery Rate,81.85,89.44,%,Logistics,Operational,Below target
+14-09-2024,On-Time Delivery Rate,82.45,90.27,%,Logistics,Operational,New initiative
+05-09-2024,Energy Consumption,20598.6,18961.87,kWh,Manufacturing,Energy,New initiative
+28-04-2024,Fuel Efficiency,5.46,6.02,km/l,Logistics,Energy,New initiative
+19-01-2024,On-Time Delivery Rate,80.73,86.23,%,Logistics,Operational,Above target
+11-01-2024,Equipment Maintenance Cost,6674.13,6158.14,USD,Operations,Operational,On track
+13-02-2024,Product Defect Rate,1.72,1.6,%,Quality Control,Quality,Below target
+14-07-2024,Waste Generation,4599.64,4301.96,kg,Manufacturing,Waste,On track
+03-12-2024,Audit Failures,0.09,0.08,count,Quality Control,Quality,Above target
+14-01-2024,Product Defect Rate,3.47,3.13,%,Quality Control,Quality,Below target
+23-06-2024,Packaging Waste,414.61,385.4,kg,Logistics,Waste,On track
+25-02-2024,Audit Failures,1.57,1.49,count,Quality Control,Quality,On track
+05-08-2024,Customer Complaints,8.59,8.13,count,Quality Control,Social Impact,Requires improvement
+08-03-2024,On-Time Delivery Rate,87.35,94.6,%,Logistics,Operational,Above target
+07-05-2024,Waste Generation,4431.93,4038.03,kg,Manufacturing,Waste,On track
+04-07-2024,Packaging Waste,306.99,276.88,kg,Logistics,Waste,Below target
+07-01-2024,Packaging Waste,402.09,378.17,kg,Logistics,Waste,New initiative
+01-04-2024,Waste Generation,3121.95,2928.52,kg,Manufacturing,Waste,Below target
+02-07-2024,Audit Failures,0.03,0.03,count,Quality Control,Quality,On track
+21-05-2024,Inspection Hours,15.22,14.14,hours,Quality Control,Quality,On track
+12-05-2024,Fuel Efficiency,6.57,7.2,km/l,Logistics,Energy,Below target
+01-12-2024,Inspection Hours,10.69,9.71,hours,Quality Control,Quality,New initiative
+13-08-2024,Carbon Emissions,21.35,20.3,tons,Manufacturing,Emissions,New initiative
+11-05-2024,Fuel Efficiency,7.08,7.77,km/l,Logistics,Energy,Below target
+28-06-2024,Waste Generation,2940.08,2794.12,kg,Manufacturing,Waste,Above target
+01-05-2024,Energy Consumption,27812.21,25188.38,kWh,Manufacturing,Energy,On track
+06-02-2024,Training Hours,28.87,30.67,hours,Operations,Social Impact,Requires improvement
+20-06-2024,Customer Complaints,1.43,1.31,count,Quality Control,Social Impact,Below target
+16-01-2024,Customer Complaints,4.71,4.47,count,Quality Control,Social Impact,New initiative
+14-01-2024,Training Hours,6.64,7.01,hours,Operations,Social Impact,New initiative
+24-10-2024,Production Downtime,8.17,7.48,hours,Manufacturing,Operational,New initiative
+14-07-2024,On-Time Delivery Rate,82.5,88.79,%,Logistics,Operational,Above target
+14-09-2024,Energy Consumption,48138.13,45712.74,kWh,Manufacturing,Energy,New initiative
+06-11-2024,Product Defect Rate,4.31,3.99,%,Quality Control,Quality,On track
+30-05-2024,Audit Failures,0.63,0.57,count,Quality Control,Quality,New initiative
+28-04-2024,Training Hours,14.96,15.94,hours,Operations,Social Impact,Below target
+15-08-2024,Customer Complaints,7.48,6.78,count,Quality Control,Social Impact,Above target
+04-07-2024,Customer Complaints,0.8,0.74,count,Quality Control,Social Impact,On track
+05-03-2024,Inspection Hours,16.22,14.94,hours,Quality Control,Quality,New initiative
+13-05-2024,Equipment Maintenance Cost,6904,6443.47,USD,Operations,Operational,New initiative
+15-09-2024,Packaging Waste,191.23,172.89,kg,Logistics,Waste,Requires improvement
+20-08-2024,Equipment Maintenance Cost,6509.98,6110.48,USD,Operations,Operational,Above target
+30-12-2024,Carbon Emissions,22.19,20.87,tons,Manufacturing,Emissions,New initiative
+13-01-2024,Product Defect Rate,1.07,0.96,%,Quality Control,Quality,Requires improvement
+04-08-2024,Workplace Safety Incidents,0.4,0.38,count,Operations,Social Impact,Requires improvement
+01-03-2024,On-Time Delivery Rate,82.6,89.02,%,Logistics,Operational,Below target
+07-02-2024,Packaging Waste,316.17,294.3,kg,Logistics,Waste,On track
+28-05-2024,Transport Emissions,18.3,17.05,tons,Logistics,Emissions,Requires improvement
+17-09-2024,Inspection Hours,23.34,21.85,hours,Quality Control,Quality,New initiative
+11-12-2024,Carbon Emissions,97.82,90.6,tons,Manufacturing,Emissions,Below target
+23-05-2024,Audit Failures,0.64,0.58,count,Quality Control,Quality,New initiative
+22-09-2024,Carbon Emissions,39.22,36.76,tons,Manufacturing,Emissions,New initiative
+14-03-2024,Customer Complaints,3.23,2.96,count,Quality Control,Social Impact,Above target
+09-06-2024,Carbon Emissions,51.87,48.75,tons,Manufacturing,Emissions,New initiative
+06-09-2024,Waste Generation,1654.64,1567,kg,Manufacturing,Waste,Below target
+06-11-2024,Inspection Hours,27.13,24.81,hours,Quality Control,Quality,Below target
+09-10-2024,Carbon Emissions,73.97,69.98,tons,Manufacturing,Emissions,Above target
+02-10-2024,Workplace Safety Incidents,1.8,1.62,count,Operations,Social Impact,New initiative
+14-04-2024,Workplace Safety Incidents,1.47,1.38,count,Operations,Social Impact,Below target
+31-05-2024,Transport Emissions,14.91,13.81,tons,Logistics,Emissions,Requires improvement
+14-02-2024,Energy Consumption,24998.23,23038.7,kWh,Manufacturing,Energy,Below target
+10-02-2024,Training Hours,34.35,37.92,hours,Operations,Social Impact,Below target
+20-08-2024,Workplace Safety Incidents,0.98,0.91,count,Operations,Social Impact,Below target
+27-12-2024,Waste Generation,4715.65,4482.91,kg,Manufacturing,Waste,On track
+20-11-2024,On-Time Delivery Rate,87.16,93.41,%,Logistics,Operational,On track
+10-12-2024,Carbon Emissions,23.86,22.32,tons,Manufacturing,Emissions,Above target
+11-09-2024,Training Hours,24.18,26.16,hours,Operations,Social Impact,Above target
+19-04-2024,On-Time Delivery Rate,82.1,86.99,%,Logistics,Operational,New initiative
+29-12-2024,Water Usage,4295.8,3986.02,liters,Manufacturing,Water,Above target
+19-11-2024,Workplace Safety Incidents,1.25,1.14,count,Operations,Social Impact,Requires improvement
+02-06-2024,Training Hours,24.99,26.79,hours,Operations,Social Impact,Above target
+02-11-2024,Training Hours,32.41,35.06,hours,Operations,Social Impact,Requires improvement
+02-08-2024,Transport Emissions,6.61,6.02,tons,Logistics,Emissions,Below target
+25-08-2024,Customer Complaints,2.47,2.28,count,Quality Control,Social Impact,Above target
+04-09-2024,Fuel Efficiency,6.2,6.74,km/l,Logistics,Energy,Above target
+16-09-2024,Audit Failures,1.37,1.23,count,Quality Control,Quality,Below target
+11-12-2024,Equipment Maintenance Cost,1077.63,1011.45,USD,Operations,Operational,Below target
+13-05-2024,Transport Emissions,8.44,7.78,tons,Logistics,Emissions,Requires improvement
+06-06-2024,Waste Generation,2684.65,2530.43,kg,Manufacturing,Waste,On track
+15-04-2024,Audit Failures,0.44,0.42,count,Quality Control,Quality,New initiative
+11-01-2024,Production Downtime,14.16,12.84,hours,Manufacturing,Operational,New initiative
+10-10-2024,Water Usage,5422.38,5071.21,liters,Manufacturing,Water,Below target
+21-03-2024,Energy Consumption,28339.2,26018.36,kWh,Manufacturing,Energy,Above target
+18-06-2024,Inspection Hours,12.25,11.12,hours,Quality Control,Quality,Below target
+19-01-2024,Inspection Hours,18.82,17.17,hours,Quality Control,Quality,On track
+22-01-2024,Production Downtime,6.54,6.02,hours,Manufacturing,Operational,Requires improvement
+18-01-2024,Training Hours,16.93,18.57,hours,Operations,Social Impact,Above target
+08-03-2024,Fuel Efficiency,8.33,9.06,km/l,Logistics,Energy,Requires improvement
+11-01-2024,Fuel Efficiency,4.98,5.38,km/l,Logistics,Energy,Requires improvement
+19-07-2024,Production Downtime,14.07,12.77,hours,Manufacturing,Operational,New initiative
+03-06-2024,Training Hours,37.14,40.31,hours,Operations,Social Impact,On track
+29-08-2024,Transport Emissions,4.85,4.43,tons,Logistics,Emissions,New initiative
+14-10-2024,Customer Complaints,4.3,3.92,count,Quality Control,Social Impact,Requires improvement
+05-05-2024,Transport Emissions,6.4,5.98,tons,Logistics,Emissions,New initiative
+06-10-2024,Product Defect Rate,4.97,4.65,%,Quality Control,Quality,Below target
+28-04-2024,Water Usage,11978.98,11365.17,liters,Manufacturing,Water,Requires improvement
+19-06-2024,Customer Complaints,4.77,4.32,count,Quality Control,Social Impact,Below target
+30-10-2024,Workplace Safety Incidents,0.29,0.26,count,Operations,Social Impact,Requires improvement
+24-09-2024,Workplace Safety Incidents,0.42,0.39,count,Operations,Social Impact,Requires improvement
+21-06-2024,Workplace Safety Incidents,2.3,2.1,count,Operations,Social Impact,Below target
+03-01-2024,Workplace Safety Incidents,0.96,0.89,count,Operations,Social Impact,Requires improvement
+12-09-2024,On-Time Delivery Rate,86.97,92.55,%,Logistics,Operational,New initiative
+11-10-2024,On-Time Delivery Rate,82.52,88.22,%,Logistics,Operational,New initiative
+07-01-2024,Energy Consumption,24156.59,21834.54,kWh,Manufacturing,Energy,Above target
+20-01-2024,Workplace Safety Incidents,0.5,0.46,count,Operations,Social Impact,On track
+12-03-2024,Audit Failures,0.34,0.32,count,Quality Control,Quality,Requires improvement
+12-12-2024,Audit Failures,0.02,0.02,count,Quality Control,Quality,Below target
+13-03-2024,Packaging Waste,326.8,300.19,kg,Logistics,Waste,Above target
+22-09-2024,On-Time Delivery Rate,88.16,93.03,%,Logistics,Operational,Below target
+25-03-2024,Transport Emissions,9.79,9.27,tons,Logistics,Emissions,Above target
+04-02-2024,Product Defect Rate,1.93,1.75,%,Quality Control,Quality,Requires improvement
+02-10-2024,Waste Generation,3780.92,3567.03,kg,Manufacturing,Waste,On track
+21-03-2024,Customer Complaints,0.95,0.88,count,Quality Control,Social Impact,New initiative
+17-11-2024,Waste Generation,3560.91,3254.45,kg,Manufacturing,Waste,Below target
+26-10-2024,Carbon Emissions,37.87,34.71,tons,Manufacturing,Emissions,Requires improvement
+14-10-2024,Packaging Waste,331.03,304.6,kg,Logistics,Waste,Below target
+23-05-2024,Workplace Safety Incidents,1.78,1.61,count,Operations,Social Impact,Above target
+27-10-2024,Training Hours,27.52,30.36,hours,Operations,Social Impact,New initiative
+21-05-2024,Customer Complaints,5.76,5.43,count,Quality Control,Social Impact,New initiative
+16-02-2024,Inspection Hours,9.2,8.64,hours,Quality Control,Quality,Above target
+09-02-2024,Employee Turnover Rate,0.82,0.75,%,Operations,Social Impact,Below target
+16-06-2024,Carbon Emissions,60.08,56.05,tons,Manufacturing,Emissions,Requires improvement
+27-12-2024,Fuel Efficiency,5.7,6.2,km/l,Logistics,Energy,Requires improvement
+10-02-2024,Customer Complaints,3.12,2.89,count,Quality Control,Social Impact,New initiative
+11-08-2024,Employee Turnover Rate,2.1,1.92,%,Operations,Social Impact,Above target
+12-10-2024,Audit Failures,1.39,1.27,count,Quality Control,Quality,On track
+09-12-2024,Customer Complaints,1.78,1.68,count,Quality Control,Social Impact,Requires improvement
+14-07-2024,Transport Emissions,5.06,4.7,tons,Logistics,Emissions,Above target
+14-08-2024,On-Time Delivery Rate,89.59,94.33,%,Logistics,Operational,Above target
+07-07-2024,On-Time Delivery Rate,77.87,85.06,%,Logistics,Operational,On track
+24-11-2024,Fuel Efficiency,7.24,8.03,km/l,Logistics,Energy,Below target
+20-05-2024,Audit Failures,0.09,0.08,count,Quality Control,Quality,Below target
+07-11-2024,Production Downtime,17.35,16.36,hours,Manufacturing,Operational,Requires improvement
+23-02-2024,Audit Failures,0.35,0.33,count,Quality Control,Quality,New initiative
+27-12-2024,Waste Generation,370.47,338.42,kg,Manufacturing,Waste,Above target
+29-01-2024,Employee Turnover Rate,0.68,0.62,%,Operations,Social Impact,On track
+09-04-2024,Product Defect Rate,1.91,1.8,%,Quality Control,Quality,Below target
+29-12-2024,Waste Generation,4608.79,4218.91,kg,Manufacturing,Waste,Below target
+01-08-2024,Training Hours,26.74,28.24,hours,Operations,Social Impact,Requires improvement
+16-05-2024,Energy Consumption,13682.3,12834.88,kWh,Manufacturing,Energy,Above target
+18-12-2024,Carbon Emissions,53.09,49.91,tons,Manufacturing,Emissions,Above target
+08-06-2024,Inspection Hours,20.88,19.67,hours,Quality Control,Quality,On track
+16-10-2024,Packaging Waste,102.97,95.07,kg,Logistics,Waste,On track
+05-04-2024,Product Defect Rate,1.02,0.92,%,Quality Control,Quality,On track
+22-11-2024,Fuel Efficiency,8.3,8.83,km/l,Logistics,Energy,Above target
+06-06-2024,Transport Emissions,2.54,2.38,tons,Logistics,Emissions,Above target
+01-04-2024,Employee Turnover Rate,1.04,0.97,%,Operations,Social Impact,Below target
+19-05-2024,On-Time Delivery Rate,83.46,90.65,%,Logistics,Operational,Above target
+15-05-2024,Employee Turnover Rate,2.09,1.97,%,Operations,Social Impact,Requires improvement
+18-08-2024,Water Usage,18402.5,16896.82,liters,Manufacturing,Water,New initiative
+02-10-2024,Workplace Safety Incidents,2.85,2.65,count,Operations,Social Impact,Above target
+16-04-2024,Equipment Maintenance Cost,3795.75,3570.08,USD,Operations,Operational,Below target
+21-04-2024,Packaging Waste,90.84,85.27,kg,Logistics,Waste,Below target
+31-08-2024,Customer Complaints,0.31,0.28,count,Quality Control,Social Impact,Above target
+03-12-2024,Equipment Maintenance Cost,6074.8,5580.4,USD,Operations,Operational,Requires improvement
+22-03-2024,Waste Generation,3856.73,3566.18,kg,Manufacturing,Waste,On track
+05-04-2024,Audit Failures,0.67,0.62,count,Quality Control,Quality,On track
+12-08-2024,Packaging Waste,123.24,114.29,kg,Logistics,Waste,On track
+09-05-2024,Audit Failures,1.46,1.35,count,Quality Control,Quality,Above target
+29-04-2024,Packaging Waste,267.15,245.79,kg,Logistics,Waste,On track
+24-07-2024,Water Usage,21868.82,19976.47,liters,Manufacturing,Water,New initiative
