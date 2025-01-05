@@ -1,6 +1,6 @@
 nltk==3.9.0
 rake-nltk==1.0.4
-pillow==10.0.1
+pillow==9.5.0
 transformers==4.33.3
 tokenizers==0.13.3
 pandas==2.1.1
