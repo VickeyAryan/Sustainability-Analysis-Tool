@@ -10,6 +10,7 @@ import seaborn as sns
 import io
 import nltk
 nltk.download('punkt')
+nltk.download('stopwords')
 from nltk.tokenize import sent_tokenize
 
 # NEW IMPORTS FOR EXTRACTIVE SUMMARIZATION & KEY PHRASE EXTRACTION
